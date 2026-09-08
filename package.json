@@ -1,0 +1,16 @@
+{
+  "name": "korea-city-event-calendar",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "update": "node scripts/update_events.mjs",
+    "verify": "node --check app.js && node --check scripts/update_events.mjs"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
+}

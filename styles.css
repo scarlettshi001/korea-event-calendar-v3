@@ -1,0 +1,81 @@
+:root{
+  --bg:#f5f2eb;
+  --paper:#fffdf8;
+  --ink:#1e1e1a;
+  --muted:#77736b;
+  --line:#ded8cb;
+  --shadow:0 14px 40px rgba(42,38,30,.08);
+  --concert:#ffe2e2;
+  --food:#fff0c9;
+  --season:#dff0df;
+  --art:#e6e2ff;
+  --sport:#dcecff;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:Inter,"PingFang SC","Microsoft YaHei",system-ui,sans-serif}
+button,input,select{font:inherit}
+.app-shell{max-width:1600px;margin:0 auto;padding:28px}
+.topbar{display:flex;justify-content:space-between;align-items:flex-end;margin-bottom:18px}
+.eyebrow{font-size:11px;font-weight:800;letter-spacing:.14em;color:var(--muted)}
+h1{font-size:30px;margin:5px 0 3px;letter-spacing:-.03em}
+.topbar p{margin:0;color:var(--muted);font-size:14px}
+.status-card{display:flex;align-items:center;gap:10px;background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:10px 14px}
+.status-card strong,.status-card small{display:block}.status-card small{color:var(--muted);font-size:11px;margin-top:2px}
+.pulse{width:9px;height:9px;background:#68a06a;border-radius:50%;box-shadow:0 0 0 5px rgba(104,160,106,.12)}
+.filters{background:var(--paper);border:1px solid var(--line);border-radius:16px;padding:14px;box-shadow:var(--shadow);margin-bottom:16px}
+.search-wrap{display:flex;gap:9px;align-items:center;border:1px solid var(--line);border-radius:11px;padding:0 12px;background:#fff}
+.search-wrap input{width:100%;border:0;outline:0;padding:11px 0;background:transparent}
+.filter-row{display:flex;gap:10px;align-items:center;margin-top:11px;flex-wrap:wrap}
+.chip-group{display:flex;gap:7px;flex-wrap:wrap;flex:1}
+.chip{border:1px solid var(--line);background:#fff;border-radius:999px;padding:7px 10px;font-size:12px;cursor:pointer}
+.chip.active{border-color:#222;background:#222;color:#fff}
+select{border:1px solid var(--line);background:#fff;border-radius:10px;padding:7px 10px}
+.toggle{font-size:12px;color:var(--muted);display:flex;gap:6px;align-items:center}
+.layout{display:grid;grid-template-columns:minmax(0,1.65fr) minmax(360px,.8fr);gap:16px;align-items:start}
+.calendar-panel,.events-panel{background:var(--paper);border:1px solid var(--line);border-radius:18px;box-shadow:var(--shadow)}
+.calendar-panel{padding:16px}
+.events-panel{padding:16px;position:sticky;top:14px;max-height:calc(100vh - 28px);display:flex;flex-direction:column}
+.calendar-toolbar,.events-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px}
+.calendar-toolbar h2,.events-head h2{margin:2px 0 0;font-size:22px}
+.calendar-toolbar button{width:36px;height:36px;border-radius:50%;border:1px solid var(--line);background:#fff;cursor:pointer}
+.weekday-row,.calendar-grid{display:grid;grid-template-columns:repeat(7,1fr)}
+.weekday-row{color:var(--muted);font-size:11px;text-align:center;border-bottom:1px solid var(--line);padding-bottom:8px}
+.calendar-grid{min-height:720px}
+.day{min-height:118px;border-right:1px solid var(--line);border-bottom:1px solid var(--line);padding:8px;overflow:hidden}
+.day:nth-child(7n){border-right:0}.day.outside{opacity:.28}.day.today .day-number{background:#222;color:#fff}
+.day-number{width:25px;height:25px;border-radius:50%;display:grid;place-items:center;font-size:12px;font-weight:700;margin-bottom:5px}
+.day-events{display:flex;flex-direction:column;gap:4px}
+.day-event{font-size:10px;line-height:1.25;border-radius:6px;padding:4px 5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;border-left:3px solid rgba(0,0,0,.2);cursor:pointer}
+.day-event.concert{background:var(--concert)}.day-event.food{background:var(--food)}.day-event.season{background:var(--season)}
+.day-event.art{background:var(--art)}.day-event.sport{background:var(--sport)}
+.more{font-size:10px;color:var(--muted);margin-top:2px}
+.legend{display:flex;gap:7px;flex-wrap:wrap;padding-bottom:12px;border-bottom:1px solid var(--line)}
+.legend span{font-size:10px;padding:4px 7px;border-radius:999px;background:#f0eee8}
+.count-badge{background:#222;color:#fff;border-radius:999px;font-size:12px;padding:5px 9px}
+.event-list{overflow:auto;padding-top:4px}
+.event-card{padding:14px 2px;border-bottom:1px solid var(--line)}
+.event-card-top{display:flex;justify-content:space-between;align-items:center}
+.category-pill{font-size:10px;border-radius:999px;padding:4px 7px;font-weight:700}
+.category-pill.concert{background:var(--concert)}.category-pill.food{background:var(--food)}.category-pill.season{background:var(--season)}
+.category-pill.art{background:var(--art)}.category-pill.sport{background:var(--sport)}
+.new-badge{font-size:9px;font-weight:800;letter-spacing:.08em;color:#b44d3e}.new-badge.hidden{visibility:hidden}
+.event-title{font-size:15px;line-height:1.45;margin:9px 0 7px}
+.meta{font-size:11px;color:var(--muted);margin:4px 0}
+.card-actions{display:flex;gap:13px;margin-top:9px}
+.card-actions a{font-size:11px;color:var(--ink);text-decoration:none;border-bottom:1px solid var(--ink)}
+.empty{padding:50px 12px;text-align:center;color:var(--muted);font-size:13px}
+@media(max-width:980px){.layout{grid-template-columns:1fr}.events-panel{position:static;max-height:none}.calendar-grid{min-height:600px}.day{min-height:95px}.topbar{align-items:flex-start;gap:12px;flex-direction:column}}
+@media(max-width:650px){.app-shell{padding:10px}.day{padding:4px;min-height:78px}.day-event{font-size:0;width:8px;height:8px;padding:0;border:0;border-radius:50%}.calendar-grid{min-height:520px}.status-card{width:100%}}
+/* v3 · destination operation radar */
+.head-badges,.card-badges{display:flex;gap:7px;align-items:center;flex-wrap:wrap}
+.hot-summary{font-size:10px;font-weight:800;border-radius:999px;padding:5px 8px;background:#fff0c9;color:#7a5415;border:1px solid #ead69f}
+.hot-toggle{background:#fff8e5;border:1px solid #ead69f;border-radius:999px;padding:6px 9px;color:#6e4b12}
+.hot-badge{font-size:9px;font-weight:800;border-radius:999px;padding:4px 7px;background:#fff0c9;color:#7a5415;border:1px solid #ead69f;white-space:nowrap}
+.muted-hot{background:#f2f0ea;color:#8a857a;border-color:#ded8cb;font-weight:600}
+.hot-card{border-left:3px solid #d39b32;padding-left:10px}
+.day-event.hot{box-shadow:inset 0 0 0 1px rgba(173,113,18,.28);font-weight:700}
+.ops-reasons{display:flex;gap:5px;flex-wrap:wrap;margin-top:9px}
+.ops-reasons span{font-size:9px;padding:4px 6px;border-radius:999px;background:#f2f0ea;color:#68635a}
+.access-note{font-size:9px;color:#9a9489;margin-top:6px}
+.event-source{font-size:10px}
+@media(max-width:650px){.head-badges{justify-content:flex-end}.hot-summary{display:none}}

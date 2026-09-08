@@ -1,0 +1,16 @@
+{
+  "釜山": {"airport":"PUS", "chinaDirect":true, "note":"中国直飞配置：是（建议定期核验航季）"},
+  "大邱": {"airport":"TAE", "chinaDirect":true, "note":"中国直飞配置：是（建议定期核验航季）"},
+  "清州": {"airport":"CJJ", "chinaDirect":true, "note":"中国直飞配置：是（建议定期核验航季）"},
+  "仁川": {"airport":"ICN", "chinaDirect":true, "note":"中国直飞配置：是"},
+  "光州": {"airport":"KWJ / MWX", "chinaDirect":false, "note":"默认按邻近务安机场判断，不直接加直飞分"},
+  "大田": {"airport":"CJJ（邻近）", "chinaDirect":false, "note":"默认按清州机场接驳，不直接加直飞分"},
+  "蔚山": {"airport":"USN / PUS（邻近）", "chinaDirect":false, "note":"默认按釜山接驳，不直接加直飞分"},
+  "庆州": {"airport":"PUS / TAE（邻近）", "chinaDirect":false, "note":"默认不直接加直飞分"},
+  "全州": {"airport":"CJJ / MWX（邻近）", "chinaDirect":false, "note":"默认不直接加直飞分"},
+  "丽水": {"airport":"RSU", "chinaDirect":false, "note":"默认不直接加直飞分"},
+  "江陵": {"airport":"YNY（邻近）", "chinaDirect":false, "note":"默认不直接加直飞分"},
+  "春川": {"airport":"ICN / GMP（接驳）", "chinaDirect":false, "note":"默认不直接加直飞分"},
+  "昌原": {"airport":"PUS（邻近）", "chinaDirect":false, "note":"默认不直接加直飞分"},
+  "金海": {"airport":"PUS", "chinaDirect":false, "note":"机场位于金海，但运营目的地通常按釜山判断"}
+}

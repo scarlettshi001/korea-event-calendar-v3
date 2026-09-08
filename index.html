@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>韩国城市活动日历</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <div>
+        <div class="eyebrow">KOREA CITY EVENT RADAR</div>
+        <h1>韩国城市活动日历</h1>
+        <p>排除首尔 / 济州 · 每两天自动更新</p>
+      </div>
+      <div class="status-card">
+        <span class="pulse"></span>
+        <div>
+          <strong id="lastUpdated">加载中…</strong>
+          <small>最近更新时间</small>
+        </div>
+      </div>
+    </header>
+
+    <section class="filters">
+      <div class="search-wrap">
+        <span>⌕</span>
+        <input id="searchInput" placeholder="搜活动、艺人、场馆、城市… 例如：音乐节 / 팬미팅 / 대구" />
+      </div>
+      <div class="filter-row">
+        <div id="categoryFilters" class="chip-group"></div>
+        <select id="cityFilter">
+          <option value="ALL">所有城市</option>
+        </select>
+        <label class="toggle">
+          <input type="checkbox" id="newOnly" />
+          <span>只看新增</span>
+        </label>
+        <label class="toggle hot-toggle">
+          <input type="checkbox" id="hotOnly" />
+          <span>🔥 只看值得做</span>
+        </label>
+        <select id="sortMode">
+          <option value="date">按日期</option>
+          <option value="potential">按运营潜力</option>
+        </select>
+      </div>
+    </section>
+
+    <main class="layout">
+      <section class="calendar-panel">
+        <div class="calendar-toolbar">
+          <button id="prevMonth" aria-label="上个月">←</button>
+          <div>
+            <div class="eyebrow">MONTH VIEW</div>
+            <h2 id="monthTitle"></h2>
+          </div>
+          <button id="nextMonth" aria-label="下个月">→</button>
+        </div>
+
+        <div class="weekday-row">
+          <span>一</span><span>二</span><span>三</span><span>四</span><span>五</span><span>六</span><span>日</span>
+        </div>
+        <div id="calendarGrid" class="calendar-grid"></div>
+      </section>
+
+      <aside class="events-panel">
+        <div class="events-head">
+          <div>
+            <div class="eyebrow">EVENT LIST</div>
+            <h2>全部活动</h2>
+          </div>
+          <div class="head-badges"><span id="hotSummary" class="hot-summary">🔥 0 个高潜活动</span><span id="eventCount" class="count-badge">0</span></div>
+        </div>
+        <div class="legend" id="legend"></div>
+        <div id="eventList" class="event-list"></div>
+      </aside>
+    </main>
+  </div>
+
+  <template id="eventCardTemplate">
+    <article class="event-card">
+      <div class="event-card-top">
+        <span class="category-pill"></span>
+        <div class="card-badges"><span class="hot-badge"></span><span class="new-badge">NEW</span></div>
+      </div>
+      <h3 class="event-title"></h3>
+      <div class="meta event-date"></div>
+      <div class="meta event-city"></div>
+      <div class="meta event-address"></div>
+      <div class="meta event-source"></div>
+      <div class="ops-reasons"></div>
+      <div class="card-actions">
+        <a class="source-link" target="_blank" rel="noreferrer">原始链接 ↗</a>
+        <a class="map-link" target="_blank" rel="noreferrer">地图 ↗</a>
+      </div>
+    </article>
+  </template>
+
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
