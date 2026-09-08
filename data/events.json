@@ -16,15 +16,14 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 5,
+        "score": 4,
         "hot": true,
         "reasons": [
           "中国直飞城市",
           "演出事件",
-          "持续731天",
-          "近期新增"
+          "持续731天"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -45,14 +44,13 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "追星/音乐节信号",
-          "持续213天",
-          "近期新增"
+          "持续213天"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
       }
@@ -73,14 +71,13 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "中国直飞城市",
-          "演出事件",
-          "近期新增"
+          "演出事件"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -101,13 +98,12 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 2,
+        "score": 1,
         "hot": false,
         "reasons": [
-          "持续169天",
-          "近期新增"
+          "持续169天"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
       }
@@ -128,14 +124,13 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "中国直飞城市",
-          "演出事件",
-          "近期新增"
+          "演出事件"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -156,15 +151,14 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 5,
+        "score": 4,
         "hot": true,
         "reasons": [
           "中国直飞城市",
           "持续30天",
-          "国际/大型节庆",
-          "近期新增"
+          "国际/大型节庆"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -185,13 +179,12 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 2,
+        "score": 1,
         "hot": false,
         "reasons": [
-          "持续67天",
-          "近期新增"
+          "持续67天"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
       }
@@ -212,14 +205,13 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 5,
+        "score": 4,
         "hot": true,
         "reasons": [
           "中国直飞城市",
-          "追星/音乐节信号",
-          "近期新增"
+          "追星/音乐节信号"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -240,13 +232,12 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 3,
+        "score": 2,
         "hot": false,
         "reasons": [
-          "中国直飞城市",
-          "近期新增"
+          "中国直飞城市"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -297,13 +288,12 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 3,
+        "score": 2,
         "hot": false,
         "reasons": [
-          "中国直飞城市",
-          "近期新增"
+          "中国直飞城市"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -324,14 +314,13 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 5,
+        "score": 4,
         "hot": true,
         "reasons": [
           "中国直飞城市",
-          "追星/音乐节信号",
-          "近期新增"
+          "追星/音乐节信号"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -352,15 +341,14 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 6,
+        "score": 5,
         "hot": true,
         "reasons": [
           "中国直飞城市",
           "追星/音乐节信号",
-          "持续41天",
-          "近期新增"
+          "持续41天"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -381,14 +369,13 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 3,
+        "score": 2,
         "hot": false,
         "reasons": [
           "演出事件",
-          "持续2天",
-          "近期新增"
+          "持续2天"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
       }
@@ -409,13 +396,11 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
       }
     },
@@ -435,15 +420,14 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 5,
+        "score": 4,
         "hot": true,
         "reasons": [
           "中国直飞城市",
           "持续64天",
-          "旅行场景强",
-          "近期新增"
+          "旅行场景强"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -496,13 +480,12 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 3,
+        "score": 2,
         "hot": false,
         "reasons": [
-          "中国直飞城市",
-          "近期新增"
+          "中国直飞城市"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -523,13 +506,12 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 3,
+        "score": 2,
         "hot": false,
         "reasons": [
-          "中国直飞城市",
-          "近期新增"
+          "中国直飞城市"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -550,14 +532,13 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 3,
+        "score": 2,
         "hot": false,
         "reasons": [
           "持续104天",
-          "旅行场景强",
-          "近期新增"
+          "旅行场景强"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
       }
@@ -578,13 +559,12 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 3,
+        "score": 2,
         "hot": false,
         "reasons": [
-          "中国直飞城市",
-          "近期新增"
+          "中国直飞城市"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -605,13 +585,12 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 2,
+        "score": 1,
         "hot": false,
         "reasons": [
-          "持续104天",
-          "近期新增"
+          "持续104天"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
       }
@@ -632,13 +611,12 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 2,
+        "score": 1,
         "hot": false,
         "reasons": [
-          "持续104天",
-          "近期新增"
+          "持续104天"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
       }
@@ -659,13 +637,12 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 2,
+        "score": 1,
         "hot": false,
         "reasons": [
-          "演出事件",
-          "近期新增"
+          "演出事件"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
       }
@@ -686,14 +663,13 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "中国直飞城市",
-          "旅行场景强",
-          "近期新增"
+          "旅行场景强"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -714,15 +690,14 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 5,
+        "score": 4,
         "hot": true,
         "reasons": [
           "中国直飞城市",
           "持续126天",
-          "主流票务平台",
-          "近期新增"
+          "主流票务平台"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -743,44 +718,14 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 5,
+        "score": 4,
         "hot": true,
         "reasons": [
           "中国直飞城市",
           "持续65天",
-          "国际/大型节庆",
-          "近期新增"
-        ],
-        "accessNote": "中国直飞配置：是（建议定期核验航季）"
-      }
-    },
-    {
-      "id": "e89bc3ec2855",
-      "title": "공연오늘을 살아내고 있는 성인을 위한 판타지 부조리극 <먼지 아기>2026-08-29 ~ 2026-08-30제천시민회관소극장",
-      "titleOriginal": "공연오늘을 살아내고 있는 성인을 위한 판타지 부조리극 <먼지 아기>2026-08-29 ~ 2026-08-30제천시민회관소극장",
-      "category": "concert",
-      "city": "清州",
-      "startDate": "2026-08-29",
-      "endDate": "2026-08-30",
-      "venue": "",
-      "address": "清州, South Korea",
-      "sourceName": "忠北文化财团（清州）",
-      "sourceUrl": "https://www.cbfc.or.kr/home/sub.php?menukey=6445&mod=view&no=2382858",
-      "sourceType": "culture",
-      "tags": [],
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "isNew": true,
-      "ops": {
-        "score": 5,
-        "hot": true,
-        "reasons": [
-          "中国直飞城市",
-          "演出事件",
-          "持续2天",
-          "近期新增"
+          "国际/大型节庆"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -818,6 +763,34 @@
       }
     },
     {
+      "id": "e89bc3ec2855",
+      "title": "공연오늘을 살아내고 있는 성인을 위한 판타지 부조리극 <먼지 아기>2026-08-29 ~ 2026-08-30제천시민회관소극장",
+      "titleOriginal": "공연오늘을 살아내고 있는 성인을 위한 판타지 부조리극 <먼지 아기>2026-08-29 ~ 2026-08-30제천시민회관소극장",
+      "category": "concert",
+      "city": "清州",
+      "startDate": "2026-08-29",
+      "endDate": "2026-08-30",
+      "venue": "",
+      "address": "清州, South Korea",
+      "sourceName": "忠北文化财团（清州）",
+      "sourceUrl": "https://www.cbfc.or.kr/home/sub.php?menukey=6445&mod=view&no=2382858",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-08",
+      "lastSeen": "2026-09-08",
+      "isNew": false,
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "演出事件",
+          "持续2天"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）"
+      }
+    },
+    {
       "id": "d843b89f0cc5",
       "title": "전시[청주 갤러리 원] B관 김초윤 개인전2026-09-01 ~ 2026-09-06충북 청주시 상당구 상당로81번길 63. 1층 갤러리 원",
       "titleOriginal": "전시[청주 갤러리 원] B관 김초윤 개인전2026-09-01 ~ 2026-09-06충북 청주시 상당구 상당로81번길 63. 1층 갤러리 원",
@@ -833,14 +806,13 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "中国直飞城市",
-          "持续6天",
-          "近期新增"
+          "持续6天"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -861,14 +833,13 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "中国直飞城市",
-          "持续6天",
-          "近期新增"
+          "持续6天"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -889,13 +860,12 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 3,
+        "score": 2,
         "hot": false,
         "reasons": [
-          "中国直飞城市",
-          "近期新增"
+          "中国直飞城市"
         ],
         "accessNote": "中国直飞配置：是"
       }
@@ -916,13 +886,12 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 2,
+        "score": 1,
         "hot": false,
         "reasons": [
-          "持续120天",
-          "近期新增"
+          "持续120天"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
       }
@@ -943,15 +912,14 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 5,
+        "score": 4,
         "hot": true,
         "reasons": [
           "中国直飞城市",
           "持续39天",
-          "旅行场景强",
-          "近期新增"
+          "旅行场景强"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -972,13 +940,12 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 3,
+        "score": 2,
         "hot": false,
         "reasons": [
-          "中国直飞城市",
-          "近期新增"
+          "中国直飞城市"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -999,15 +966,14 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 5,
+        "score": 4,
         "hot": true,
         "reasons": [
           "中国直飞城市",
           "演出事件",
-          "持续22天",
-          "近期新增"
+          "持续22天"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -1028,16 +994,42 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "追星/音乐节信号",
-          "持续112天",
-          "近期新增"
+          "持续112天"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
+      }
+    },
+    {
+      "id": "3568a8b2d3b8",
+      "title": "문화체험 HD아트센터 1인석) 도와줘요 티처스 쌤 〈이병훈〉 접수일자ㅣ 2026-09-05 ~ 2026-09-12",
+      "titleOriginal": "문화체험 HD아트센터 1인석) 도와줘요 티처스 쌤 〈이병훈〉 접수일자ㅣ 2026-09-05 ~ 2026-09-12",
+      "category": "art",
+      "city": "蔚山",
+      "startDate": "2026-09-05",
+      "endDate": "2026-09-12",
+      "venue": "",
+      "address": "蔚山, South Korea",
+      "sourceName": "蔚山市活动入口",
+      "sourceUrl": "https://hd-artscenter.co.kr/performance/detail.do?ticketingitemseq=0000004035&mid=0000&SVC_ID=detail&unicodeseqitemtype=0000000607&now=Y",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-08",
+      "lastSeen": "2026-09-08",
+      "isNew": true,
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "持续8天",
+          "近期新增"
+        ],
+        "accessNote": "默认按釜山接驳，不直接加直飞分"
       }
     },
     {
@@ -1056,14 +1048,13 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 3,
+        "score": 2,
         "hot": false,
         "reasons": [
           "持续70天",
-          "国际/大型节庆",
-          "近期新增"
+          "国际/大型节庆"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
       }
@@ -1084,15 +1075,14 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 5,
+        "score": 4,
         "hot": true,
         "reasons": [
           "追星/音乐节信号",
           "持续82天",
-          "国际/大型节庆",
-          "近期新增"
+          "国际/大型节庆"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
       }
@@ -1113,14 +1103,13 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "中国直飞城市",
-          "持续6天",
-          "近期新增"
+          "持续6天"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -1141,14 +1130,13 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "中国直飞城市",
-          "持续10天",
-          "近期新增"
+          "持续10天"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -1169,14 +1157,13 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 3,
+        "score": 2,
         "hot": false,
         "reasons": [
           "持续69天",
-          "国际/大型节庆",
-          "近期新增"
+          "国际/大型节庆"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
       }
@@ -1197,14 +1184,13 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 3,
+        "score": 2,
         "hot": false,
         "reasons": [
           "持续84天",
-          "旅行场景强",
-          "近期新增"
+          "旅行场景强"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
       }
@@ -1225,15 +1211,14 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 5,
+        "score": 4,
         "hot": true,
         "reasons": [
           "中国直飞城市",
           "演出事件",
-          "持续12天",
-          "近期新增"
+          "持续12天"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -1254,16 +1239,71 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "中国直飞城市",
-          "持续3天",
-          "近期新增"
+          "持续3天"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
+      }
+    },
+    {
+      "id": "93f0b055d9dc",
+      "title": "교육강좌 꽃바위문화관 (야간)다이어트건강요가 접수일자ㅣ 2026-09-09 ~ 2026-09-12 교육기간ㅣ 2026-10-01 ~ 2026-12-31",
+      "titleOriginal": "교육강좌 꽃바위문화관 (야간)다이어트건강요가 접수일자ㅣ 2026-09-09 ~ 2026-09-12 교육기간ㅣ 2026-10-01 ~ 2026-12-31",
+      "category": "season",
+      "city": "蔚山",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-12",
+      "venue": "",
+      "address": "蔚山, South Korea",
+      "sourceName": "蔚山市活动入口",
+      "sourceUrl": "https://crs.donggu.ulsan.kr/new_lecture/lecture.jsp?prc=detail&lec_id=L0014949&mem_id=B0000006",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-08",
+      "lastSeen": "2026-09-08",
+      "isNew": true,
+      "ops": {
+        "score": 3,
+        "hot": false,
+        "reasons": [
+          "持续4天",
+          "旅行场景强",
+          "近期新增"
+        ],
+        "accessNote": "默认按釜山接驳，不直接加直飞分"
+      }
+    },
+    {
+      "id": "481a1a9f2a61",
+      "title": "교육강좌 꽃바위문화관 (야간)라인댄스 접수일자ㅣ 2026-09-09 ~ 2026-09-12 교육기간ㅣ 2026-10-01 ~ 2026-12-31",
+      "titleOriginal": "교육강좌 꽃바위문화관 (야간)라인댄스 접수일자ㅣ 2026-09-09 ~ 2026-09-12 교육기간ㅣ 2026-10-01 ~ 2026-12-31",
+      "category": "season",
+      "city": "蔚山",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-12",
+      "venue": "",
+      "address": "蔚山, South Korea",
+      "sourceName": "蔚山市活动入口",
+      "sourceUrl": "https://crs.donggu.ulsan.kr/new_lecture/lecture.jsp?prc=detail&lec_id=L0014948&mem_id=B0000006",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-08",
+      "lastSeen": "2026-09-08",
+      "isNew": true,
+      "ops": {
+        "score": 3,
+        "hot": false,
+        "reasons": [
+          "持续4天",
+          "旅行场景强",
+          "近期新增"
+        ],
+        "accessNote": "默认按釜山接驳，不直接加直飞分"
       }
     },
     {
@@ -1282,14 +1322,13 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 3,
+        "score": 2,
         "hot": false,
         "reasons": [
           "演出事件",
-          "持续2天",
-          "近期新增"
+          "持续2天"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
       }
@@ -1310,15 +1349,14 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 5,
+        "score": 4,
         "hot": true,
         "reasons": [
           "中国直飞城市",
           "持续16天",
-          "主流票务平台",
-          "近期新增"
+          "主流票务平台"
         ],
         "accessNote": "中国直飞配置：是"
       }
@@ -1339,14 +1377,13 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "中国直飞城市",
-          "演出事件",
-          "近期新增"
+          "演出事件"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -1367,9 +1404,9 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 7,
+        "score": 6,
         "hot": true,
         "reasons": [
           "中国直飞城市",
@@ -1396,15 +1433,14 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 6,
+        "score": 5,
         "hot": true,
         "reasons": [
           "中国直飞城市",
           "追星/音乐节信号",
-          "持续15天",
-          "近期新增"
+          "持续15天"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -1425,16 +1461,70 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "中国直飞城市",
-          "演出事件",
-          "近期新增"
+          "演出事件"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
+      }
+    },
+    {
+      "id": "016de27b6ec1",
+      "title": "교육강좌",
+      "titleOriginal": "교육강좌",
+      "category": "season",
+      "city": "蔚山",
+      "startDate": "2026-09-14",
+      "endDate": "2026-09-23",
+      "venue": "",
+      "address": "蔚山, South Korea",
+      "sourceName": "蔚山市活动入口",
+      "sourceUrl": "https://ulsan.go.kr/y/yes/main.do#",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-08",
+      "lastSeen": "2026-09-08",
+      "isNew": true,
+      "ops": {
+        "score": 3,
+        "hot": false,
+        "reasons": [
+          "持续10天",
+          "旅行场景强",
+          "近期新增"
+        ],
+        "accessNote": "默认按釜山接驳，不直接加直飞分"
+      }
+    },
+    {
+      "id": "9053a38882d4",
+      "title": "교육강좌 울산광역시여성회관 (단기특강_05)든든한 한 끼 브런치 접수일자ㅣ 2026-09-14 ~ 2026-09-23 교육기간ㅣ 2026-10-01 ~ 2026-11-19",
+      "titleOriginal": "교육강좌 울산광역시여성회관 (단기특강_05)든든한 한 끼 브런치 접수일자ㅣ 2026-09-14 ~ 2026-09-23 교육기간ㅣ 2026-10-01 ~ 2026-11-19",
+      "category": "sport",
+      "city": "蔚山",
+      "startDate": "2026-09-14",
+      "endDate": "2026-09-23",
+      "venue": "",
+      "address": "蔚山, South Korea",
+      "sourceName": "蔚山市活动入口",
+      "sourceUrl": "https://ulsan.go.kr/y/yes/page.do?mnu_code=F399&step=step01&rsrcUnqId=LEC_0000000000001253",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-08",
+      "lastSeen": "2026-09-08",
+      "isNew": true,
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "持续10天",
+          "近期新增"
+        ],
+        "accessNote": "默认按釜山接驳，不直接加直飞分"
       }
     },
     {
@@ -1453,14 +1543,13 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "中国直飞城市",
-          "演出事件",
-          "近期新增"
+          "演出事件"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -1481,14 +1570,13 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "中国直飞城市",
-          "演出事件",
-          "近期新增"
+          "演出事件"
         ],
         "accessNote": "中国直飞配置：是"
       }
@@ -1509,15 +1597,14 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "持续24天",
           "主流票务平台",
-          "旅行场景强",
-          "近期新增"
+          "旅行场景强"
         ],
         "accessNote": ""
       }
@@ -1600,13 +1687,12 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 3,
+        "score": 2,
         "hot": false,
         "reasons": [
-          "中国直飞城市",
-          "近期新增"
+          "中国直飞城市"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -1657,15 +1743,14 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 5,
+        "score": 4,
         "hot": true,
         "reasons": [
           "中国直飞城市",
           "持续23天",
-          "旅行场景强",
-          "近期新增"
+          "旅行场景强"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -1700,6 +1785,86 @@
           "旅行场景强"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
+      }
+    },
+    {
+      "id": "76e092e32bb9",
+      "title": "문화체험",
+      "titleOriginal": "문화체험",
+      "category": "concert",
+      "city": "蔚山",
+      "startDate": "2026-09-27",
+      "endDate": "2026-09-27",
+      "venue": "",
+      "address": "蔚山, South Korea",
+      "sourceName": "蔚山市活动入口",
+      "sourceUrl": "https://ulsan.go.kr/y/yes/main.do#",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-08",
+      "lastSeen": "2026-09-08",
+      "isNew": true,
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "演出事件",
+          "近期新增"
+        ],
+        "accessNote": "默认按釜山接驳，不直接加直飞分"
+      }
+    },
+    {
+      "id": "8e7d5de80930",
+      "title": "문화체험 농소농협 문화센터 *특]이동혁의 수요 노래교실-가을일일 체험 접수일자ㅣ ~ 2026-09-27",
+      "titleOriginal": "문화체험 농소농협 문화센터 *특]이동혁의 수요 노래교실-가을일일 체험 접수일자ㅣ ~ 2026-09-27",
+      "category": "season",
+      "city": "蔚山",
+      "startDate": "2026-09-27",
+      "endDate": "2026-09-27",
+      "venue": "",
+      "address": "蔚山, South Korea",
+      "sourceName": "蔚山市活动入口",
+      "sourceUrl": "https://culture.nongso.co.kr/sub2/sub3_view.htm?smenu=sub2&stitle=subtitle2_2&page=1&no=27810",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-08",
+      "lastSeen": "2026-09-08",
+      "isNew": true,
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "旅行场景强",
+          "近期新增"
+        ],
+        "accessNote": "默认按釜山接驳，不直接加直飞分"
+      }
+    },
+    {
+      "id": "7d6d93195800",
+      "title": "문화체험 농소농협 문화센터 *특]리본아트 올림머리 집게 핀-9/20[목] 접수일자ㅣ ~ 2026-09-27",
+      "titleOriginal": "문화체험 농소농협 문화센터 *특]리본아트 올림머리 집게 핀-9/20[목] 접수일자ㅣ ~ 2026-09-27",
+      "category": "art",
+      "city": "蔚山",
+      "startDate": "2026-09-27",
+      "endDate": "2026-09-27",
+      "venue": "",
+      "address": "蔚山, South Korea",
+      "sourceName": "蔚山市活动入口",
+      "sourceUrl": "https://culture.nongso.co.kr/sub2/sub3_view.htm?smenu=sub2&stitle=subtitle2_2&page=1&no=27932",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-08",
+      "lastSeen": "2026-09-08",
+      "isNew": true,
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按釜山接驳，不直接加直飞分"
       }
     },
     {
@@ -1751,14 +1916,13 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "中国直飞城市",
-          "持续5天",
-          "近期新增"
+          "持续5天"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -1842,15 +2006,14 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 5,
+        "score": 4,
         "hot": true,
         "reasons": [
           "中国直飞城市",
           "演出事件",
-          "持续2天",
-          "近期新增"
+          "持续2天"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -1871,9 +2034,9 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 7,
+        "score": 6,
         "hot": true,
         "reasons": [
           "中国直飞城市",
@@ -1900,9 +2063,9 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 6,
+        "score": 5,
         "hot": true,
         "reasons": [
           "中国直飞城市",
@@ -1929,14 +2092,13 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "中国直飞城市",
-          "演出事件",
-          "近期新增"
+          "演出事件"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -1957,14 +2119,13 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "中国直飞城市",
-          "演出事件",
-          "近期新增"
+          "演出事件"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -2015,14 +2176,13 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "中国直飞城市",
-          "演出事件",
-          "近期新增"
+          "演出事件"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -2043,15 +2203,14 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 6,
+        "score": 5,
         "hot": true,
         "reasons": [
           "中国直飞城市",
           "追星/音乐节信号",
-          "主流票务平台",
-          "近期新增"
+          "主流票务平台"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -2105,13 +2264,12 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 3,
+        "score": 2,
         "hot": false,
         "reasons": [
-          "中国直飞城市",
-          "近期新增"
+          "中国直飞城市"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -2132,14 +2290,13 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "中国直飞城市",
-          "演出事件",
-          "近期新增"
+          "演出事件"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
