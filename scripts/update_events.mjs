@@ -5,9 +5,12 @@ import crypto from "node:crypto";
 const DATA="./data/events.json";
 const META="./data/meta.json";
 const ACCESS_DATA="./data/city_access.json";
+const TRANSLATIONS_DATA="./data/title_translations.json";
 const NOW=new Date();
 const TODAY=NOW.toISOString().slice(0,10);
 const cityAccess=JSON.parse(await fs.readFile(ACCESS_DATA,"utf8"));
+let titleTranslations={};
+try{titleTranslations=JSON.parse(await fs.readFile(TRANSLATIONS_DATA,"utf8"))}catch{}
 
 const sources=[
   // 城市官方 / 文旅
@@ -60,6 +63,25 @@ const obviousNonEvent=["채용","입찰","공모","선정결과","지원사업",
 const explicitEvent=["행사","축제","공연","전시","콘서트","페스티벌","영화제","비엔날레","마켓","야시장","팝업","팬미팅","대회","마라톤","festival","concert","exhibition","show"];
 
 function clean(s){return (s||"").replace(/\s+/g," ").trim()}
+function hasHangul(s){return /[\uac00-\ud7af]/.test(s||"")}
+async function translateTitle(original){
+  const key=clean(original);
+  if(!hasHangul(key)) return key;
+  if(titleTranslations[key]) return titleTranslations[key];
+  try{
+    const url=new URL("https://api.mymemory.translated.net/get");
+    url.search=new URLSearchParams({q:key,langpair:"ko|zh-CN"});
+    const r=await fetch(url,{headers:{"user-agent":"Mozilla/5.0 KoreaEventCalendar/3.0"},signal:AbortSignal.timeout(15000)});
+    if(!r.ok) throw new Error(`translate ${r.status}`);
+    const data=await r.json();
+    const translated=clean(data?.responseData?.translatedText||"");
+    if(translated&&!hasHangul(translated)){
+      titleTranslations[key]=translated;
+      return translated;
+    }
+  }catch(e){console.error("TRANSLATE_SOFT_FAIL",key.slice(0,50),e.message)}
+  return key;
+}
 function absolute(base,href){try{return new URL(href,base).href}catch{return base}}
 function classify(s){
   const t=(s||"").toLowerCase();
@@ -214,11 +236,18 @@ for(const e of fresh){
   merged.set(e.id,mergedEvent);
 }
 
-const events=[...merged.values()]
-  .filter(e=>e.city!=="首尔"&&e.city!=="济州")
+const translatedEvents=[];
+for(const e of [...merged.values()].filter(e=>e.city!=="首尔"&&e.city!=="济州")){
+  const original=clean(e.titleOriginal||e.title);
+  const title=await translateTitle(original);
+  translatedEvents.push({...e,title,titleOriginal:original});
+}
+
+const events=translatedEvents
   .map(e=>({...e,ops:operationalScore(e)}))
   .sort((a,b)=>a.startDate.localeCompare(b.startDate)||b.ops.score-a.ops.score||a.city.localeCompare(b.city,"ko"));
 
 await fs.writeFile(DATA,JSON.stringify({events},null,2));
+await fs.writeFile(TRANSLATIONS_DATA,JSON.stringify(titleTranslations,null,2));
 await fs.writeFile(META,JSON.stringify({updatedAt:new Date().toISOString(),sourceCount:sources.length,socialDiscovered,eventCount:events.length,newCount:events.filter(x=>x.isNew).length,hotCount:events.filter(x=>x.ops?.hot).length},null,2));
 console.log(`Saved ${events.length} events; hot=${events.filter(x=>x.ops?.hot).length}; discovered Instagram=${socialDiscovered}`);

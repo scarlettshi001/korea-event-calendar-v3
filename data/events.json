@@ -2,7 +2,7 @@
   "events": [
     {
       "id": "47da8c4e5fc6",
-      "title": "보도자료 더보기",
+      "title": "更多新闻稿",
       "titleOriginal": "보도자료 더보기",
       "category": "concert",
       "city": "大邱",
@@ -30,7 +30,7 @@
     },
     {
       "id": "7cbe01203b35",
-      "title": "2026 아트콘서트&오감한스푼 일정2026.03.12 ~ 2026.10.10",
+      "title": "2026艺术音乐会和感官勺子时间表2026年12月3日-2026年10月10日",
       "titleOriginal": "2026 아트콘서트&오감한스푼 일정2026.03.12 ~ 2026.10.10",
       "category": "concert",
       "city": "光州",
@@ -57,7 +57,7 @@
     },
     {
       "id": "dcf210ab97b8",
-      "title": "광주FC 경기 전, 블루퍼피 라이브 공연 함께 즐겨요!2026.03.12 ~ 2026.09.09",
+      "title": "享受光州足球俱乐部比赛前的Bloopuffy现场表演！ 2026.03.12 ~ 2026.09.09",
       "titleOriginal": "광주FC 경기 전, 블루퍼피 라이브 공연 함께 즐겨요!2026.03.12 ~ 2026.09.09",
       "category": "concert",
       "city": "光州",
@@ -71,21 +71,20 @@
       "tags": [],
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 3,
+        "score": 2,
         "hot": false,
         "reasons": [
           "演出事件",
-          "持续182天",
-          "近期新增"
+          "持续182天"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
       }
     },
     {
       "id": "6e7d32230ac1",
-      "title": "지원공모[공고] 2026년 4/4분기 부산공연예술연습공간 정기대관 신청 공고",
+      "title": "【公告】2026年第四季度釜山表演艺术实践空间定期申请公告",
       "titleOriginal": "지원공모[공고] 2026년 4/4분기 부산공연예술연습공간 정기대관 신청 공고",
       "category": "concert",
       "city": "釜山",
@@ -112,7 +111,7 @@
     },
     {
       "id": "63cb3b7af056",
-      "title": "2026 아트콘서트&오감한스푼 일정2026.04.11 ~ 2026.10.10",
+      "title": "2026艺术音乐会和感官勺子时间表2026.04.11〜2026.10.10",
       "titleOriginal": "2026 아트콘서트&오감한스푼 일정2026.04.11 ~ 2026.10.10",
       "category": "concert",
       "city": "光州",
@@ -126,21 +125,20 @@
       "tags": [],
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "追星/音乐节信号",
-          "持续183天",
-          "近期新增"
+          "持续183天"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
       }
     },
     {
       "id": "78a6ae8b32d7",
-      "title": "ACC 아시아 예술체험 –인도네시아 공예2026.04.15 ~ 2026.09.30",
+      "title": "ACC亚洲艺术体验--印尼手工艺2026.04.15~2026.09.30",
       "titleOriginal": "ACC 아시아 예술체험 –인도네시아 공예2026.04.15 ~ 2026.09.30",
       "category": "art",
       "city": "光州",
@@ -166,7 +164,7 @@
     },
     {
       "id": "b2d37d3e9140",
-      "title": "일반공지 더보기",
+      "title": "更多一般性公告",
       "titleOriginal": "일반공지 더보기",
       "category": "concert",
       "city": "大邱",
@@ -193,7 +191,7 @@
     },
     {
       "id": "2ab086d2922e",
-      "title": "행사[청주예총]국제현대미술관 소장품전 「상상 속으로의 여행」 개최2026-07-01 ~ 2026-07-30청주문화관 1~4전시실",
+      "title": "活动【清州叶冲】国际当代艺术博物馆藏品展“想象之旅”举行2026-07-01 ~ 2026-07-30清州文化中心展厅1 ~ 4",
       "titleOriginal": "행사[청주예총]국제현대미술관 소장품전 「상상 속으로의 여행」 개최2026-07-01 ~ 2026-07-30청주문화관 1~4전시실",
       "category": "art",
       "city": "清州",
@@ -221,7 +219,7 @@
     },
     {
       "id": "f512d0a66f4d",
-      "title": "양림아트워크 블로그 체험단 모집2026.07.04 ~ 2026.09.19",
+      "title": "杨林艺术品博客体验小组招募2026.07.04 ~ 2026.09.19",
       "titleOriginal": "양림아트워크 블로그 체험단 모집2026.07.04 ~ 2026.09.19",
       "category": "art",
       "city": "光州",
@@ -235,20 +233,19 @@
       "tags": [],
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 2,
+        "score": 1,
         "hot": false,
         "reasons": [
-          "持续78天",
-          "近期新增"
+          "持续78天"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
       }
     },
     {
       "id": "45f939c39cd2",
-      "title": "양림아트워크 블로그 체험단 모집2026.07.15 ~ 2026.09.19",
+      "title": "杨林艺术品博客体验组招募2026.07.15~2026.09.19",
       "titleOriginal": "양림아트워크 블로그 체험단 모집2026.07.15 ~ 2026.09.19",
       "category": "art",
       "city": "光州",
@@ -274,7 +271,7 @@
     },
     {
       "id": "4efb056a0fe3",
-      "title": "공연지브리와 사랑에 빠지다 : 지브리 영화음악 콘서트 2026 - 청주2026-07-19 ~ 2026-07-19청주아트홀",
+      "title": "表演艺术爱上吉卜力：吉卜力电影音乐会2026 -清州2026-07-19 ~ 2026-07-19清州艺术馆",
       "titleOriginal": "공연지브리와 사랑에 빠지다 : 지브리 영화음악 콘서트 2026 - 청주2026-07-19 ~ 2026-07-19청주아트홀",
       "category": "concert",
       "city": "清州",
@@ -301,7 +298,7 @@
     },
     {
       "id": "c63dafee8d35",
-      "title": "행사제24회 우민미술상 수상작가 김지아나 개인전 《사라진 것들의 기관, 버려진 ...2026-07-22 ~ 2026-07-22우민아트센터 전관",
+      "title": "第二十四届武门艺术大奖获奖艺术家金健娜个展《被遗弃的遗失之物》2026-07-22 ~ 2026-07-22武门艺术中心各馆",
       "titleOriginal": "행사제24회 우민미술상 수상작가 김지아나 개인전 《사라진 것들의 기관, 버려진 ...2026-07-22 ~ 2026-07-22우민아트센터 전관",
       "category": "art",
       "city": "清州",
@@ -327,7 +324,7 @@
     },
     {
       "id": "gwangju-kangyobae-2026",
-      "title": "姜尧培：拥抱时间",
+      "title": "强制船：拥抱时间",
       "titleOriginal": "강요배: 시간을 품다",
       "category": "art",
       "city": "光州",
@@ -357,7 +354,7 @@
     },
     {
       "id": "540829450e87",
-      "title": "「오마이갓 파티」 in 충북 행사기획 및 여행상품판매 용역 입찰 제안서 평가...",
+      "title": "Oh My God Party in Chungcheongbuk-do活动策划和旅游销售服务招标提案评估...",
       "titleOriginal": "「오마이갓 파티」 in 충북 행사기획 및 여행상품판매 용역 입찰 제안서 평가...",
       "category": "sport",
       "city": "清州",
@@ -383,7 +380,7 @@
     },
     {
       "id": "1396020ea84b",
-      "title": "공연우리가 사랑한 시네마 뮤직 콘서트 2026 - 충주2026-08-08 ~ 2026-08-08충추 호암예술관",
+      "title": "表演艺术The Cinema We Loved Music Concert 2026 - Chungju 2026-08-08 ~ 2026-08-08 Chungchu Hoam Art Museum",
       "titleOriginal": "공연우리가 사랑한 시네마 뮤직 콘서트 2026 - 충주2026-08-08 ~ 2026-08-08충추 호암예술관",
       "category": "concert",
       "city": "清州",
@@ -410,7 +407,7 @@
     },
     {
       "id": "ba8703841a32",
-      "title": "2026 별바다부산 나이트 뮤직 캠크닉 2026-08-10 ~ 2026-09-19",
+      "title": "2026 Byeolbada Busan Night Music Camcnic 2026-08-10 ~ 2026-09-19",
       "titleOriginal": "2026 별바다부산 나이트 뮤직 캠크닉 2026-08-10 ~ 2026-09-19",
       "category": "concert",
       "city": "釜山",
@@ -438,7 +435,7 @@
     },
     {
       "id": "9c26c766dfbb",
-      "title": "기획공연 11시 음악산책 단편선 시리즈Ⅴ ‘살로메’",
+      "title": "计划表演11:00音乐漫步短船系列五“莎乐美”",
       "titleOriginal": "기획공연 11시 음악산책 단편선 시리즈Ⅴ ‘살로메’",
       "category": "concert",
       "city": "光州",
@@ -465,7 +462,7 @@
     },
     {
       "id": "127d689437f2",
-      "title": "전남광주통합특별시립합창단 2026 기획연주회 Ⅴ 합창뮤지컬 맘마미아 'Dona's Diary'",
+      "title": "全南光州综合市级特别合唱团2026音乐会Ⅴ合唱团音乐剧《妈妈咪呀》《多娜的日记》",
       "titleOriginal": "전남광주통합특별시립합창단 2026 기획연주회 Ⅴ 합창뮤지컬 맘마미아 'Dona's Diary'",
       "category": "art",
       "city": "光州",
@@ -489,7 +486,7 @@
     },
     {
       "id": "91c550000be0",
-      "title": "2026 부산돼지국밥대전 2026-08-16 ~ 2026-10-18",
+      "title": "2026釜山猪汤大田2026-08-16 ~ 2026-10-18",
       "titleOriginal": "2026 부산돼지국밥대전 2026-08-16 ~ 2026-10-18",
       "category": "food",
       "city": "釜山",
@@ -517,7 +514,7 @@
     },
     {
       "id": "busan-pork-soup-2026",
-      "title": "2026 釜山猪肉汤饭大典",
+      "title": "2026年釜山猪肉Gukbap Daejeon",
       "titleOriginal": "2026 부산돼지국밥대전",
       "category": "food",
       "city": "釜山",
@@ -549,7 +546,7 @@
     },
     {
       "id": "9470f33f3135",
-      "title": "2026 충청권생활문화축제 참여단체 최종 선정 공고문",
+      "title": "2026年忠清文化节参展单位最终评选通知",
       "titleOriginal": "2026 충청권생활문화축제 참여단체 최종 선정 공고문",
       "category": "sport",
       "city": "清州",
@@ -575,7 +572,7 @@
     },
     {
       "id": "01e11a6f4360",
-      "title": "<찾아가는 아트코리아랩 비즈센터> 참여자 모집",
+      "title": "<韩国艺术实验室参观商务中心>参与者招募",
       "titleOriginal": "<찾아가는 아트코리아랩 비즈센터> 참여자 모집",
       "category": "art",
       "city": "清州",
@@ -601,7 +598,7 @@
     },
     {
       "id": "cbbb2a84d57d",
-      "title": "2026년 국가유산 아카데미 '식탁 위의 미래, K-푸드의 모든 것'2026.08.19 ~ 2026.11.30",
+      "title": "国家遗产学院“桌面上的未来，关于K-Food的一切” 2026.08.19 ~ 2026.11.30",
       "titleOriginal": "2026년 국가유산 아카데미 '식탁 위의 미래, K-푸드의 모든 것'2026.08.19 ~ 2026.11.30",
       "category": "food",
       "city": "光州",
@@ -628,7 +625,7 @@
     },
     {
       "id": "48dea5f5e76a",
-      "title": "행사[SAC ON SCREEN] 8월 19일 (수) 정통 인형극 <피노키오> 상영회2026-08-19 ~ 2026-08-19문화이음라운지",
+      "title": "活动[SAC ON SCREEN] 8月19日（周三）正宗木偶戏木偶戏放映2026-08-19 ~ 2026-08-19 Culture Splice Lounge",
       "titleOriginal": "행사[SAC ON SCREEN] 8월 19일 (수) 정통 인형극 <피노키오> 상영회2026-08-19 ~ 2026-08-19문화이음라운지",
       "category": "sport",
       "city": "清州",
@@ -654,7 +651,7 @@
     },
     {
       "id": "1e7bcb936324",
-      "title": "2026 제2차 전시 연계 어린이 감상 프로그램2026.08.19 ~ 2026.11.30",
+      "title": "2026第二届展览会儿童赏析计划2026.08.19~2026.11.30",
       "titleOriginal": "2026 제2차 전시 연계 어린이 감상 프로그램2026.08.19 ~ 2026.11.30",
       "category": "art",
       "city": "光州",
@@ -680,7 +677,7 @@
     },
     {
       "id": "b8e91332b09f",
-      "title": "ACC 아시아 예술체험 – 아시아 공예2026.08.21 ~ 2026.12.02",
+      "title": "ACC亚洲艺术体验–亚洲工艺品2026年8月21日-2026年12月2日",
       "titleOriginal": "ACC 아시아 예술체험 – 아시아 공예2026.08.21 ~ 2026.12.02",
       "category": "art",
       "city": "光州",
@@ -706,7 +703,7 @@
     },
     {
       "id": "a7961d3f715e",
-      "title": "전남광주통합특별시립오페라단 제22회 정기공연 '창작오페라 <용아>'",
+      "title": "全南光州统一特色城市歌剧团“创意歌剧”第22次定期演出",
       "titleOriginal": "전남광주통합특별시립오페라단 제22회 정기공연 '창작오페라 <용아>'",
       "category": "concert",
       "city": "光州",
@@ -732,7 +729,7 @@
     },
     {
       "id": "b3f948a0f299",
-      "title": "2026 대상그룹 지식존중프로젝트 괴산 찰떡합격런 성수동 팝업 안내 (운...",
+      "title": "2026目标群体知识尊重项目Goesan Chalkeok Pass Run Seongsu-dong弹出式指南（ Un...",
       "titleOriginal": "2026 대상그룹 지식존중프로젝트 괴산 찰떡합격런 성수동 팝업 안내 (운...",
       "category": "food",
       "city": "清州",
@@ -759,7 +756,7 @@
     },
     {
       "id": "bba0484b4c6f",
-      "title": "부산오토니엘전시회2026.08.28 ~ 2026.12.31F1963 석천홀",
+      "title": "釜山Otoniel展览会08/28/2026 ~ 12/31/2026F1963石川厅",
       "titleOriginal": "부산오토니엘전시회2026.08.28 ~ 2026.12.31F1963 석천홀",
       "category": "art",
       "city": "釜山",
@@ -787,7 +784,7 @@
     },
     {
       "id": "46360decf27e",
-      "title": "2026부산비엔날레 2026-08-29 ~ 2026-11-01",
+      "title": "釜山双年展2026-08-29 ~ 2026-11-01",
       "titleOriginal": "2026부산비엔날레 2026-08-29 ~ 2026-11-01",
       "category": "art",
       "city": "釜山",
@@ -815,7 +812,7 @@
     },
     {
       "id": "busan-biennale-2026",
-      "title": "2026 釜山双年展",
+      "title": "2026釜山双年展",
       "titleOriginal": "2026부산비엔날레",
       "category": "art",
       "city": "釜山",
@@ -847,7 +844,7 @@
     },
     {
       "id": "e89bc3ec2855",
-      "title": "공연오늘을 살아내고 있는 성인을 위한 판타지 부조리극 <먼지 아기>2026-08-29 ~ 2026-08-30제천시민회관소극장",
+      "title": "表演幻想荒诞剧场今日成人生活Dust Baby 2026-08-29 ~ 2026-08-30 Jecheon Civic Center小剧场",
       "titleOriginal": "공연오늘을 살아내고 있는 성인을 위한 판타지 부조리극 <먼지 아기>2026-08-29 ~ 2026-08-30제천시민회관소극장",
       "category": "concert",
       "city": "清州",
@@ -875,7 +872,7 @@
     },
     {
       "id": "d843b89f0cc5",
-      "title": "전시[청주 갤러리 원] B관 김초윤 개인전2026-09-01 ~ 2026-09-06충북 청주시 상당구 상당로81번길 63. 1층 갤러리 원",
+      "title": "展览【清州画廊一】B馆金朝云个展2026-09-01 ~ 2026-09-06韩国忠清北道清州市大学区大航路81号63",
       "titleOriginal": "전시[청주 갤러리 원] B관 김초윤 개인전2026-09-01 ~ 2026-09-06충북 청주시 상당구 상당로81번길 63. 1층 갤러리 원",
       "category": "art",
       "city": "清州",
@@ -902,7 +899,7 @@
     },
     {
       "id": "897b0df05a34",
-      "title": "전시[청주 갤러리 원] A관 송원혜 개인전 \" 매란국죽 이야기-행복을 건네다-\"2026-09-01 ~ 2026-09-06충북 청주시 상당구 상당로81번길 63. 1층 갤러리 원",
+      "title": "展览【清州画廊一】大韩民国忠清北道清州市大邱大昭路81号63 ， 2026-09-01 ~ 2026-09-06松原惠个展《湄兰郭菊的故事-给幸福-》1F画廊一",
       "titleOriginal": "전시[청주 갤러리 원] A관 송원혜 개인전 \" 매란국죽 이야기-행복을 건네다-\"2026-09-01 ~ 2026-09-06충북 청주시 상당구 상당로81번길 63. 1층 갤러리 원",
       "category": "art",
       "city": "清州",
@@ -929,7 +926,7 @@
     },
     {
       "id": "021bac200e86",
-      "title": "인천 문화예술 위클리 2026년 9월 2주차",
+      "title": "仁川文化艺术周刊2026年9月第2周",
       "titleOriginal": "인천 문화예술 위클리 2026년 9월 2주차",
       "category": "sport",
       "city": "仁川",
@@ -942,7 +939,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 2,
@@ -955,7 +952,7 @@
     },
     {
       "id": "099ad30a5628",
-      "title": "전남미술관 MTT 2026 하반기 인문학 아카데미2026.09.02 ~ 2026.12.30",
+      "title": "全南美术馆MTT 2026人文学院2026.09.02 ~ 2026.12.30",
       "titleOriginal": "전남미술관 MTT 2026 하반기 인문학 아카데미2026.09.02 ~ 2026.12.30",
       "category": "art",
       "city": "光州",
@@ -981,7 +978,7 @@
     },
     {
       "id": "d0e56b7460fb",
-      "title": "행사문화누리카드 찾아가는 아트마켓 「충북누리시장」2026-09-03 ~ 2026-10-11충청북도 내 지역축제장",
+      "title": "活动文化努里卡艺术市场参观“忠北努里市场” 2026-09-03 ~ 2026-10-11忠清北道地区节日大厅",
       "titleOriginal": "행사문화누리카드 찾아가는 아트마켓 「충북누리시장」2026-09-03 ~ 2026-10-11충청북도 내 지역축제장",
       "category": "food",
       "city": "清州",
@@ -1009,7 +1006,7 @@
     },
     {
       "id": "5fb902fc4e27",
-      "title": "2027년 충북 갤러리 청주오스코관 협업제안 및 전시대관 통합 공고",
+      "title": "2027年忠北画廊清州奥斯卡博物馆合作提案及展厅整合公告",
       "titleOriginal": "2027년 충북 갤러리 청주오스코관 협업제안 및 전시대관 통합 공고",
       "category": "art",
       "city": "清州",
@@ -1035,7 +1032,7 @@
     },
     {
       "id": "390d46d1dd2a",
-      "title": "「광안리 M 드론라이트쇼」 9월 공연 프로그램 안내 2026-09-05 ~ 2026-09-26",
+      "title": "广利M无人机灯光秀9月节目2026-09-05 ~ 2026-09-26",
       "titleOriginal": "「광안리 M 드론라이트쇼」 9월 공연 프로그램 안내 2026-09-05 ~ 2026-09-26",
       "category": "concert",
       "city": "釜山",
@@ -1063,7 +1060,7 @@
     },
     {
       "id": "aa828989ab5f",
-      "title": "[대관공연] 캔들라이트 콘서트(8-12월)2026.09.05 ~ 2026.12.25",
+      "title": "【大音乐会】烛光音乐会（ 8-12月） 2026.09.05~2026.12.25",
       "titleOriginal": "[대관공연] 캔들라이트 콘서트(8-12월)2026.09.05 ~ 2026.12.25",
       "category": "concert",
       "city": "光州",
@@ -1090,7 +1087,7 @@
     },
     {
       "id": "7ff6298c26dd",
-      "title": "2026 광주비엔날레 아카데미 시민 참여 투어 프로그램 「도시 기억의 변화」2026.09.05 ~ 2026.11.15",
+      "title": "2026光州双年展学院公民参与之旅计划“城市记忆的变化” 2026年9月5日-2026年11月15日",
       "titleOriginal": "2026 광주비엔날레 아카데미 시민 참여 투어 프로그램 「도시 기억의 변화」2026.09.05 ~ 2026.11.15",
       "category": "art",
       "city": "光州",
@@ -1104,47 +1101,20 @@
       "tags": [],
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 3,
+        "score": 2,
         "hot": false,
         "reasons": [
           "持续72天",
-          "国际/大型节庆",
-          "近期新增"
+          "国际/大型节庆"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
       }
     },
     {
-      "id": "3568a8b2d3b8",
-      "title": "문화체험 HD아트센터 1인석) 도와줘요 티처스 쌤 〈이병훈〉 접수일자ㅣ 2026-09-05 ~ 2026-09-12",
-      "titleOriginal": "문화체험 HD아트센터 1인석) 도와줘요 티처스 쌤 〈이병훈〉 접수일자ㅣ 2026-09-05 ~ 2026-09-12",
-      "category": "art",
-      "city": "蔚山",
-      "startDate": "2026-09-05",
-      "endDate": "2026-09-12",
-      "venue": "",
-      "address": "蔚山, South Korea",
-      "sourceName": "蔚山市活动入口",
-      "sourceUrl": "https://hd-artscenter.co.kr/performance/detail.do?ticketingitemseq=0000004035&mid=0000&SVC_ID=detail&unicodeseqitemtype=0000000607&now=Y",
-      "sourceType": "tour",
-      "tags": [],
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "isNew": false,
-      "ops": {
-        "score": 1,
-        "hot": false,
-        "reasons": [
-          "持续8天"
-        ],
-        "accessNote": "默认按釜山接驳，不直接加直飞分"
-      }
-    },
-    {
       "id": "5dbcb1d6c653",
-      "title": "백운광장 스트리트 푸드 페스티벌2026.09.07 ~ 2026.11.28",
+      "title": "百贡广场街头美食节2026.09.07 ~ 2026.11.28",
       "titleOriginal": "백운광장 스트리트 푸드 페스티벌2026.09.07 ~ 2026.11.28",
       "category": "concert",
       "city": "光州",
@@ -1158,22 +1128,21 @@
       "tags": [],
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 5,
+        "score": 4,
         "hot": true,
         "reasons": [
           "追星/音乐节信号",
           "持续83天",
-          "国际/大型节庆",
-          "近期新增"
+          "国际/大型节庆"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
       }
     },
     {
       "id": "8e6269a06503",
-      "title": "2026 광주비엔날레 아카데미 시민 참여 투어 프로그램 「도시 기억의 변화」2026.09.07 ~ 2026.11.15",
+      "title": "2026光州双年展学院公民参与之旅计划“城市记忆的变化” 2026年9月7日-2026年11月15日",
       "titleOriginal": "2026 광주비엔날레 아카데미 시민 참여 투어 프로그램 「도시 기억의 변화」2026.09.07 ~ 2026.11.15",
       "category": "art",
       "city": "光州",
@@ -1200,7 +1169,7 @@
     },
     {
       "id": "7251d29724fb",
-      "title": "백운광장 스트리트 푸드 페스티벌2026.09.08 ~ 2026.11.28",
+      "title": "百贡广场街头美食节2026.09.08 ~ 2026.11.28",
       "titleOriginal": "백운광장 스트리트 푸드 페스티벌2026.09.08 ~ 2026.11.28",
       "category": "concert",
       "city": "光州",
@@ -1228,7 +1197,7 @@
     },
     {
       "id": "2a2445ba7afd",
-      "title": "전시[청주 갤러리 원] A관 피그먼트 단체전2026-09-08 ~ 2026-09-13충북 청주시 상당구 상당로81번길 63. 1층 갤러리 원",
+      "title": "展览【清州画廊一】颜料A群展2026-09-08 ~ 2026-09-13韩国忠清北道清州市大白区大航路81号63",
       "titleOriginal": "전시[청주 갤러리 원] A관 피그먼트 단체전2026-09-08 ~ 2026-09-13충북 청주시 상당구 상당로81번길 63. 1층 갤러리 원",
       "category": "art",
       "city": "清州",
@@ -1255,7 +1224,7 @@
     },
     {
       "id": "6bd87cae39e5",
-      "title": "전시[청주 갤러리 원] B관 한국수묵캘리협회전2026-09-08 ~ 2026-09-17충북 청주시 상당구 상당로81번길 63. 1층 갤러리 원",
+      "title": "展览[清州画廊一号] B厅韩国Sumuk Calli协会展览2026-09-08 ~ 2026-09-17 63, Daehak-ro 81beon-gil, Daehak-gu, Cheongju-si, Chungcheongbuk-do, Korea画廊一号",
       "titleOriginal": "전시[청주 갤러리 원] B관 한국수묵캘리협회전2026-09-08 ~ 2026-09-17충북 청주시 상당구 상당로81번길 63. 1층 갤러리 원",
       "category": "art",
       "city": "清州",
@@ -1282,7 +1251,7 @@
     },
     {
       "id": "89ce647c5549",
-      "title": "제16회 광주비엔날레 몽골 파빌리온 《오랜 기억과 아득한 미래: 공동의 기억과 현대적 도전》2026.09.08 ~ 2026.11.15",
+      "title": "第十六届光州双年展蒙古馆“长久记忆与遥远未来：共享记忆与现代挑战” 2026.09.08 ~ 2026.11.15",
       "titleOriginal": "제16회 광주비엔날레 몽골 파빌리온 《오랜 기억과 아득한 미래: 공동의 기억과 현대적 도전》2026.09.08 ~ 2026.11.15",
       "category": "art",
       "city": "光州",
@@ -1309,7 +1278,7 @@
     },
     {
       "id": "9961d8b5c856",
-      "title": "✨가을 바람 맞으며 걷는 '충장예술 골목여행' 하반기 오픈✨2026.09.08 ~ 2026.11.30",
+      "title": "2026.09.08 ~ 2026.11.30下半年开启✨秋风漫步“中章艺术✨小巷之旅”",
       "titleOriginal": "✨가을 바람 맞으며 걷는 '충장예술 골목여행' 하반기 오픈✨2026.09.08 ~ 2026.11.30",
       "category": "season",
       "city": "光州",
@@ -1335,36 +1304,8 @@
       }
     },
     {
-      "id": "80189b551348",
-      "title": "[대관공연] 캔들라이트 콘서트(8-12월)2026.09.09 ~ 2026.12.25",
-      "titleOriginal": "[대관공연] 캔들라이트 콘서트(8-12월)2026.09.09 ~ 2026.12.25",
-      "category": "concert",
-      "city": "光州",
-      "startDate": "2026-09-09",
-      "endDate": "2026-12-25",
-      "venue": "",
-      "address": "光州, South Korea",
-      "sourceName": "光州旅游",
-      "sourceUrl": "https://dmgj.kr/event.es?mid=a10301000000&p_cate=0301&category=0301000000&act=view&seq=9383",
-      "sourceType": "tour",
-      "tags": [],
-      "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09",
-      "isNew": true,
-      "ops": {
-        "score": 4,
-        "hot": true,
-        "reasons": [
-          "追星/音乐节信号",
-          "持续108天",
-          "近期新增"
-        ],
-        "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
-      }
-    },
-    {
       "id": "2fa2be01b385",
-      "title": "공연극단청년극장 정기공연 연극<고향마을>2026-09-09 ~ 2026-09-20청주 씨어터제이",
+      "title": "表演艺术剧场定期演出剧场<故乡村> 2026-09-09 ~ 2026-09-20清州剧场J",
       "titleOriginal": "공연극단청년극장 정기공연 연극<고향마을>2026-09-09 ~ 2026-09-20청주 씨어터제이",
       "category": "concert",
       "city": "清州",
@@ -1391,36 +1332,62 @@
       }
     },
     {
-      "id": "3216f83d9d3a",
-      "title": "2026 광역문화재단 대표공연 콘텐츠‘충북은 공연중’ 입찰공고",
-      "titleOriginal": "2026 광역문화재단 대표공연 콘텐츠‘충북은 공연중’ 입찰공고",
+      "id": "80189b551348",
+      "title": "【大音乐会】烛光音乐会（ 8-12月） 2026.09.09~2026.12.25",
+      "titleOriginal": "[대관공연] 캔들라이트 콘서트(8-12월)2026.09.09 ~ 2026.12.25",
       "category": "concert",
-      "city": "清州",
+      "city": "光州",
+      "startDate": "2026-09-09",
+      "endDate": "2026-12-25",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://dmgj.kr/event.es?mid=a10301000000&p_cate=0301&category=0301000000&act=view&seq=9383",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-09",
+      "lastSeen": "2026-09-09",
+      "isNew": false,
+      "ops": {
+        "score": 3,
+        "hot": false,
+        "reasons": [
+          "追星/音乐节信号",
+          "持续108天"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
+      }
+    },
+    {
+      "id": "6cbf3650eb5a",
+      "title": "更多公告/公开发行",
+      "titleOriginal": "공고/공모 더보기",
+      "category": "concert",
+      "city": "大邱",
       "startDate": "2026-09-09",
       "endDate": "2026-09-09",
       "venue": "",
-      "address": "清州, South Korea",
-      "sourceName": "忠北文化财团（清州）",
-      "sourceUrl": "https://www.cbfc.or.kr/home/sub.php?menukey=6432&mod=view&no=2420827",
+      "address": "大邱, South Korea",
+      "sourceName": "大邱文化艺术振兴院",
+      "sourceUrl": "https://dgfca.or.kr/article/NOTICE/list",
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "中国直飞城市",
-          "演出事件",
-          "近期新增"
+          "演出事件"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
     },
     {
       "id": "b914181afc9f",
-      "title": "2026 월드 스마트시티 엑스포 2026-09-09 ~ 2026-09-11",
+      "title": "2026年世界智慧城市博览会2026-09-09 ~ 2026-09-11",
       "titleOriginal": "2026 월드 스마트시티 엑스포 2026-09-09 ~ 2026-09-11",
       "category": "sport",
       "city": "釜山",
@@ -1446,62 +1413,35 @@
       }
     },
     {
-      "id": "93f0b055d9dc",
-      "title": "교육강좌 꽃바위문화관 (야간)다이어트건강요가 접수일자ㅣ 2026-09-09 ~ 2026-09-12 교육기간ㅣ 2026-10-01 ~ 2026-12-31",
-      "titleOriginal": "교육강좌 꽃바위문화관 (야간)다이어트건강요가 접수일자ㅣ 2026-09-09 ~ 2026-09-12 교육기간ㅣ 2026-10-01 ~ 2026-12-31",
-      "category": "season",
-      "city": "蔚山",
+      "id": "3216f83d9d3a",
+      "title": "2026年大都会文化基金会（ Metropolitan Cultural Foundation ）的代表性表演内容“忠北正在表演” （ Chungbuk is Performing ）招标公告",
+      "titleOriginal": "2026 광역문화재단 대표공연 콘텐츠‘충북은 공연중’ 입찰공고",
+      "category": "concert",
+      "city": "清州",
       "startDate": "2026-09-09",
-      "endDate": "2026-09-12",
+      "endDate": "2026-09-09",
       "venue": "",
-      "address": "蔚山, South Korea",
-      "sourceName": "蔚山市活动入口",
-      "sourceUrl": "https://crs.donggu.ulsan.kr/new_lecture/lecture.jsp?prc=detail&lec_id=L0014949&mem_id=B0000006",
-      "sourceType": "tour",
+      "address": "清州, South Korea",
+      "sourceName": "忠北文化财团（清州）",
+      "sourceUrl": "https://www.cbfc.or.kr/home/sub.php?menukey=6432&mod=view&no=2420827",
+      "sourceType": "culture",
       "tags": [],
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "firstSeen": "2026-09-09",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
-        "score": 2,
+        "score": 3,
         "hot": false,
         "reasons": [
-          "持续4天",
-          "旅行场景强"
+          "中国直飞城市",
+          "演出事件"
         ],
-        "accessNote": "默认按釜山接驳，不直接加直飞分"
-      }
-    },
-    {
-      "id": "481a1a9f2a61",
-      "title": "교육강좌 꽃바위문화관 (야간)라인댄스 접수일자ㅣ 2026-09-09 ~ 2026-09-12 교육기간ㅣ 2026-10-01 ~ 2026-12-31",
-      "titleOriginal": "교육강좌 꽃바위문화관 (야간)라인댄스 접수일자ㅣ 2026-09-09 ~ 2026-09-12 교육기간ㅣ 2026-10-01 ~ 2026-12-31",
-      "category": "season",
-      "city": "蔚山",
-      "startDate": "2026-09-09",
-      "endDate": "2026-09-12",
-      "venue": "",
-      "address": "蔚山, South Korea",
-      "sourceName": "蔚山市活动入口",
-      "sourceUrl": "https://crs.donggu.ulsan.kr/new_lecture/lecture.jsp?prc=detail&lec_id=L0014948&mem_id=B0000006",
-      "sourceType": "tour",
-      "tags": [],
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "isNew": false,
-      "ops": {
-        "score": 2,
-        "hot": false,
-        "reasons": [
-          "持续4天",
-          "旅行场景强"
-        ],
-        "accessNote": "默认按釜山接驳，不直接加直飞分"
+        "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
     },
     {
       "id": "f6058e3ef62e",
-      "title": "전당 기획공연 그랜드스테이지 'Into the New World'",
+      "title": "大厅规划表演盛大舞台“走进新世界”",
       "titleOriginal": "전당 기획공연 그랜드스테이지 'Into the New World'",
       "category": "concert",
       "city": "光州",
@@ -1528,7 +1468,7 @@
     },
     {
       "id": "62e96b3f4e41",
-      "title": "전국뮤지컬그날들용인 2026.09.11~12대전 2026.09.26~27인천 2026.10.03~2026.10.04",
+      "title": "国家音乐日永仁2026.09.11~12大田2026.09.26~27仁川2026.10.03~2026.10.04",
       "titleOriginal": "전국뮤지컬그날들용인 2026.09.11~12대전 2026.09.26~27인천 2026.10.03~2026.10.04",
       "category": "art",
       "city": "仁川",
@@ -1556,7 +1496,7 @@
     },
     {
       "id": "98adad45a64c",
-      "title": "예매정보 바로가기",
+      "title": "订单信息的快捷方式",
       "titleOriginal": "예매정보 바로가기",
       "category": "concert",
       "city": "大邱",
@@ -1583,7 +1523,7 @@
     },
     {
       "id": "6852f3ec0351",
-      "title": "전국투어씨야 20주년콘서트대구 2026.09.12고양 2026.10.04청주 2026.10.10",
+      "title": "全国巡演C雅20周年纪念音乐会大邱2026.09.12高阳2026.10.04清州2026.10.10",
       "titleOriginal": "전국투어씨야 20주년콘서트대구 2026.09.12고양 2026.10.04청주 2026.10.10",
       "category": "concert",
       "city": "大邱",
@@ -1612,7 +1552,7 @@
     },
     {
       "id": "01d675117d16",
-      "title": "광복로 발코니 뮤직쇼 2026-09-12 ~ 2026-09-26",
+      "title": "广北路阳台音乐表演2026-09-12 ~ 2026-09-26",
       "titleOriginal": "광복로 발코니 뮤직쇼 2026-09-12 ~ 2026-09-26",
       "category": "concert",
       "city": "釜山",
@@ -1640,7 +1580,7 @@
     },
     {
       "id": "e6a9dfba849f",
-      "title": "예매정보 바로가기",
+      "title": "订单信息的快捷方式",
       "titleOriginal": "예매정보 바로가기",
       "category": "concert",
       "city": "大邱",
@@ -1666,61 +1606,8 @@
       }
     },
     {
-      "id": "016de27b6ec1",
-      "title": "교육강좌",
-      "titleOriginal": "교육강좌",
-      "category": "season",
-      "city": "蔚山",
-      "startDate": "2026-09-14",
-      "endDate": "2026-09-23",
-      "venue": "",
-      "address": "蔚山, South Korea",
-      "sourceName": "蔚山市活动入口",
-      "sourceUrl": "https://ulsan.go.kr/y/yes/main.do#",
-      "sourceType": "tour",
-      "tags": [],
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "isNew": false,
-      "ops": {
-        "score": 2,
-        "hot": false,
-        "reasons": [
-          "持续10天",
-          "旅行场景强"
-        ],
-        "accessNote": "默认按釜山接驳，不直接加直飞分"
-      }
-    },
-    {
-      "id": "9053a38882d4",
-      "title": "교육강좌 울산광역시여성회관 (단기특강_05)든든한 한 끼 브런치 접수일자ㅣ 2026-09-14 ~ 2026-09-23 교육기간ㅣ 2026-10-01 ~ 2026-11-19",
-      "titleOriginal": "교육강좌 울산광역시여성회관 (단기특강_05)든든한 한 끼 브런치 접수일자ㅣ 2026-09-14 ~ 2026-09-23 교육기간ㅣ 2026-10-01 ~ 2026-11-19",
-      "category": "sport",
-      "city": "蔚山",
-      "startDate": "2026-09-14",
-      "endDate": "2026-09-23",
-      "venue": "",
-      "address": "蔚山, South Korea",
-      "sourceName": "蔚山市活动入口",
-      "sourceUrl": "https://ulsan.go.kr/y/yes/page.do?mnu_code=F399&step=step01&rsrcUnqId=LEC_0000000000001253",
-      "sourceType": "tour",
-      "tags": [],
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "isNew": false,
-      "ops": {
-        "score": 1,
-        "hot": false,
-        "reasons": [
-          "持续10天"
-        ],
-        "accessNote": "默认按釜山接驳，不直接加直飞分"
-      }
-    },
-    {
       "id": "ef13a5d723e3",
-      "title": "예매정보 바로가기",
+      "title": "订单信息的快捷方式",
       "titleOriginal": "예매정보 바로가기",
       "category": "concert",
       "city": "大邱",
@@ -1747,7 +1634,7 @@
     },
     {
       "id": "617f68e52009",
-      "title": "재단소식 더보기",
+      "title": "更多基金会新闻",
       "titleOriginal": "재단소식 더보기",
       "category": "concert",
       "city": "仁川",
@@ -1760,7 +1647,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 3,
@@ -1774,7 +1661,7 @@
     },
     {
       "id": "464a8f549fce",
-      "title": "거창감악산 꽃별여행2026.09.18 ~ 2026.10.11거창 별바람언덕",
+      "title": "Geochangamaksan花之旅2026.09.18〜2026.10.11Geochang星风山",
       "titleOriginal": "거창감악산 꽃별여행2026.09.18 ~ 2026.10.11거창 별바람언덕",
       "category": "season",
       "city": "居昌",
@@ -1802,7 +1689,7 @@
     },
     {
       "id": "ulsan-mountain-film-2026",
-      "title": "第11届蔚山蔚州世界山岳电影节",
+      "title": "第十一届蔚山蔚州世界山地电影节",
       "titleOriginal": "제11회 울산울주세계산악영화제",
       "category": "art",
       "city": "蔚山",
@@ -1833,7 +1720,7 @@
     },
     {
       "id": "cheongju-concert-2026",
-      "title": "2026 无名传说全国巡演 - 清州",
+      "title": "2026年云明国家旅游音乐会-清州",
       "titleOriginal": "2026 무명전설 전국투어 콘서트 - 청주",
       "category": "concert",
       "city": "清州",
@@ -1864,7 +1751,7 @@
     },
     {
       "id": "bce44b2027ca",
-      "title": "세븐브릿지 투어 라이딩 인 부산 2026-09-20 ~ 2026-09-20",
+      "title": "釜山七桥骑行之旅2026-09-20 ~ 2026-09-20",
       "titleOriginal": "세븐브릿지 투어 라이딩 인 부산 2026-09-20 ~ 2026-09-20",
       "category": "sport",
       "city": "釜山",
@@ -1890,7 +1777,7 @@
     },
     {
       "id": "busan-seven-bridge-ride-2026",
-      "title": "Seven Bridge Tour Riding in Busan",
+      "title": "釜山七桥骑行之旅",
       "titleOriginal": "세븐브릿지 투어 라이딩 인 부산",
       "category": "sport",
       "city": "釜山",
@@ -1920,7 +1807,7 @@
     },
     {
       "id": "7096349a2809",
-      "title": "2026 9월 별바다부산 나이트마켓 2026-09-26 ~ 2026-10-18",
+      "title": "2026年9月海釜山夜市2026-09-26 ~ 2026-10-18",
       "titleOriginal": "2026 9월 별바다부산 나이트마켓 2026-09-26 ~ 2026-10-18",
       "category": "food",
       "city": "釜山",
@@ -1948,7 +1835,7 @@
     },
     {
       "id": "busan-night-market-sep-2026",
-      "title": "9月 星海釜山夜市",
+      "title": "2026年9月Byeolbada釜山夜市",
       "titleOriginal": "2026 9월 별바다부산 나이트마켓",
       "category": "food",
       "city": "釜山",
@@ -1979,84 +1866,8 @@
       }
     },
     {
-      "id": "76e092e32bb9",
-      "title": "문화체험",
-      "titleOriginal": "문화체험",
-      "category": "concert",
-      "city": "蔚山",
-      "startDate": "2026-09-27",
-      "endDate": "2026-09-27",
-      "venue": "",
-      "address": "蔚山, South Korea",
-      "sourceName": "蔚山市活动入口",
-      "sourceUrl": "https://ulsan.go.kr/y/yes/main.do#",
-      "sourceType": "tour",
-      "tags": [],
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "isNew": false,
-      "ops": {
-        "score": 1,
-        "hot": false,
-        "reasons": [
-          "演出事件"
-        ],
-        "accessNote": "默认按釜山接驳，不直接加直飞分"
-      }
-    },
-    {
-      "id": "8e7d5de80930",
-      "title": "문화체험 농소농협 문화센터 *특]이동혁의 수요 노래교실-가을일일 체험 접수일자ㅣ ~ 2026-09-27",
-      "titleOriginal": "문화체험 농소농협 문화센터 *특]이동혁의 수요 노래교실-가을일일 체험 접수일자ㅣ ~ 2026-09-27",
-      "category": "season",
-      "city": "蔚山",
-      "startDate": "2026-09-27",
-      "endDate": "2026-09-27",
-      "venue": "",
-      "address": "蔚山, South Korea",
-      "sourceName": "蔚山市活动入口",
-      "sourceUrl": "https://culture.nongso.co.kr/sub2/sub3_view.htm?smenu=sub2&stitle=subtitle2_2&page=1&no=27810",
-      "sourceType": "tour",
-      "tags": [],
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "isNew": false,
-      "ops": {
-        "score": 1,
-        "hot": false,
-        "reasons": [
-          "旅行场景强"
-        ],
-        "accessNote": "默认按釜山接驳，不直接加直飞分"
-      }
-    },
-    {
-      "id": "7d6d93195800",
-      "title": "문화체험 농소농협 문화센터 *특]리본아트 올림머리 집게 핀-9/20[목] 접수일자ㅣ ~ 2026-09-27",
-      "titleOriginal": "문화체험 농소농협 문화센터 *특]리본아트 올림머리 집게 핀-9/20[목] 접수일자ㅣ ~ 2026-09-27",
-      "category": "art",
-      "city": "蔚山",
-      "startDate": "2026-09-27",
-      "endDate": "2026-09-27",
-      "venue": "",
-      "address": "蔚山, South Korea",
-      "sourceName": "蔚山市活动入口",
-      "sourceUrl": "https://culture.nongso.co.kr/sub2/sub3_view.htm?smenu=sub2&stitle=subtitle2_2&page=1&no=27932",
-      "sourceType": "tour",
-      "tags": [],
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
-      "isNew": false,
-      "ops": {
-        "score": 0,
-        "hot": false,
-        "reasons": [],
-        "accessNote": "默认按釜山接驳，不直接加直飞分"
-      }
-    },
-    {
       "id": "gwangju-acc-xmusic-2026",
-      "title": "2026 ACC X Music Festival",
+      "title": "2026年ACC X音乐节",
       "titleOriginal": "2026 ACC 엑스뮤직페스티벌",
       "category": "concert",
       "city": "光州",
@@ -2089,7 +1900,7 @@
     },
     {
       "id": "ec8372c8c867",
-      "title": "예매정보 바로가기",
+      "title": "订单信息的快捷方式",
       "titleOriginal": "예매정보 바로가기",
       "category": "art",
       "city": "大邱",
@@ -2116,7 +1927,7 @@
     },
     {
       "id": "gwangju-graje-2026",
-      "title": "第8届 Graje 表演艺术节",
+      "title": "第八届表演艺术节放牧",
       "titleOriginal": "제8회 공연예술축제 그라제",
       "category": "art",
       "city": "光州",
@@ -2146,7 +1957,7 @@
     },
     {
       "id": "busan-rock-2026",
-      "title": "2026 釜山国际摇滚音乐节",
+      "title": "2026釜山国际摇滚音乐节",
       "titleOriginal": "2026 부산국제록페스티벌",
       "category": "concert",
       "city": "釜山",
@@ -2179,7 +1990,7 @@
     },
     {
       "id": "53a9bc2ab7db",
-      "title": "예매정보 바로가기",
+      "title": "订单信息的快捷方式",
       "titleOriginal": "예매정보 바로가기",
       "category": "concert",
       "city": "大邱",
@@ -2207,7 +2018,7 @@
     },
     {
       "id": "67667f435016",
-      "title": "서울/부산2026 하루첫 팬콘서트서울 2026.10.10부산 2026.10.17",
+      "title": "首尔/釜山2026首次粉丝音乐会首尔2026.10.10釜山2026.10.17",
       "titleOriginal": "서울/부산2026 하루첫 팬콘서트서울 2026.10.10부산 2026.10.17",
       "category": "concert",
       "city": "釜山",
@@ -2236,7 +2047,7 @@
     },
     {
       "id": "7c73056aa832",
-      "title": "대구/전주김건모라이브투어대구 2026.10.10전주 2026.10.31",
+      "title": "大邱/全州Kim Gun Mor现场之旅大邱2026.10.10全州2026.10.31",
       "titleOriginal": "대구/전주김건모라이브투어대구 2026.10.10전주 2026.10.31",
       "category": "concert",
       "city": "大邱",
@@ -2265,7 +2076,7 @@
     },
     {
       "id": "45245e1184a0",
-      "title": "예매정보 바로가기",
+      "title": "订单信息的快捷方式",
       "titleOriginal": "예매정보 바로가기",
       "category": "concert",
       "city": "大邱",
@@ -2292,7 +2103,7 @@
     },
     {
       "id": "e4f4ac0c82fb",
-      "title": "예매정보 바로가기",
+      "title": "订单信息的快捷方式",
       "titleOriginal": "예매정보 바로가기",
       "category": "concert",
       "city": "大邱",
@@ -2319,7 +2130,7 @@
     },
     {
       "id": "ulsan-whale-2026",
-      "title": "第30届蔚山鲸鱼节",
+      "title": "第30届蔚山鲸节",
       "titleOriginal": "제30회 울산고래축제",
       "category": "sport",
       "city": "蔚山",
@@ -2349,7 +2160,7 @@
     },
     {
       "id": "1690dbb8f25f",
-      "title": "예매정보 바로가기",
+      "title": "订单信息的快捷方式",
       "titleOriginal": "예매정보 바로가기",
       "category": "concert",
       "city": "大邱",
@@ -2376,7 +2187,7 @@
     },
     {
       "id": "9d7792949b93",
-      "title": "부산박경림토크콘서트2026.10.24부산 소향씨어터 우리은행홀",
+      "title": "釜山Bakgyeong Rim Talk音乐会2026.10.24釜山Sohyang剧院Woori银行大厅",
       "titleOriginal": "부산박경림토크콘서트2026.10.24부산 소향씨어터 우리은행홀",
       "category": "concert",
       "city": "釜山",
@@ -2404,7 +2215,7 @@
     },
     {
       "id": "daegu-everblue-2026",
-      "title": "Everblue Festival in 大邱",
+      "title": "大邱的Everblue音乐节",
       "titleOriginal": "에버블루 페스티벌 in 대구",
       "category": "concert",
       "city": "大邱",
@@ -2437,7 +2248,7 @@
     },
     {
       "id": "1ea2d0382029",
-      "title": "입찰공고 더보기",
+      "title": "查看更多出价公告",
       "titleOriginal": "입찰공고 더보기",
       "category": "sport",
       "city": "大邱",
@@ -2463,7 +2274,7 @@
     },
     {
       "id": "c1b6492b7a1a",
-      "title": "공고/공모 더보기",
+      "title": "更多公告/公开发行",
       "titleOriginal": "공고/공모 더보기",
       "category": "concert",
       "city": "大邱",
@@ -2476,7 +2287,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09",
+      "lastSeen": "2026-09-08",
       "isNew": false,
       "ops": {
         "score": 3,
