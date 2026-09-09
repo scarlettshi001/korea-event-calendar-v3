@@ -1,9 +1,12 @@
 const CATEGORY = {
-  concert: { label: "🎤 演唱会 / 音乐节 / 追星", short: "🎤 演出" },
-  food:    { label: "🍗 美食节 / 市集 / 快闪", short: "🍗 市集" },
-  season:  { label: "🌸 花期 / 枫叶 / 季节限定", short: "🌸 季节" },
-  art:     { label: "🎨 展览 / 电影节 / 艺术节", short: "🎨 艺术" },
-  sport:   { label: "🏃 体育赛事 / 城市大型活动", short: "🏃 城市" }
+  festival: { label: "🎪 特色盛典", short: "🎪 盛典" },
+  star:     { label: "✨ 追星人狂喜", short: "✨ 追星" },
+  local:    { label: "🎆 特色活动", short: "🎆 活动" },
+  shopping: { label: "🛍️ 购物狂欢", short: "🛍️ 购物" }
+};
+
+const OLD_CATEGORY_MAP = {
+  concert: "star", food: "local", season: "local", art: "local", sport: "local"
 };
 
 let allEvents = [];
@@ -20,14 +23,24 @@ const esc = s => (s || "").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&
 const normalize = s => (s||"").toLowerCase().replace(/\s+/g," ");
 const daysInclusive = (start,end) => Math.max(1,Math.round((new Date(end)-new Date(start))/86400000)+1);
 
+function normalizeCategory(e){
+  if(CATEGORY[e.category]) return e.category;
+  const text=normalize([e.title,e.titleOriginal,e.tags?.join(" ")].join(" "));
+  if(/sale|세일|할인|면세|쇼핑|olive young|올리브영|롯데면세|신라면세|신세계면세/.test(text)) return "shopping";
+  if(/festival|페스티벌|영화제|비엔날레|음악제|예술제|국제.*축제|세계.*축제|박람회|expo/.test(text)) return "festival";
+  if(/팬미팅|fan.?meeting|팬콘|concert|콘서트|월드투어|world tour|쇼케이스|리사이틀/.test(text)) return "star";
+  return OLD_CATEGORY_MAP[e.category] || "local";
+}
+
 function fallbackOps(e){
   let score=0;const reasons=[];const access=cityAccess[e.city];const text=normalize([e.title,e.titleOriginal,e.tags?.join(" ")].join(" "));const duration=daysInclusive(e.startDate,e.endDate||e.startDate);
   if(access?.chinaDirect){score+=2;reasons.push("中国直飞城市")}
-  if(e.category==="concert" && /(팬미팅|팬콘|월드투어|world tour|festival|페스티벌|콘서트|concert|뮤직|rock)/i.test(text)){score+=2;reasons.push("追星/音乐节信号")} else if(e.category==="concert"){score+=1;reasons.push("演出事件")}
+  if(e.category==="star"){score+=2;reasons.push("追星事件")}
+  if(e.category==="festival"){score+=2;reasons.push("大型节庆/盛典")}
+  if(e.category==="shopping"){score+=2;reasons.push("购物需求强")}
   if(duration>=2){score+=1;reasons.push(`持续${duration}天`)}
-  if(/국제|세계|international|비엔날레|biennale|영화제|festival|페스티벌|박람회|expo/i.test(text)){score+=1;reasons.push("国际/大型节庆")}
-  if(e.sourceType==="ticket" || /ticket|interpark|melon|yes24/i.test(e.sourceName||"")){score+=1;reasons.push("主流票务平台")}
-  if(e.category==="food" || e.category==="season"){score+=1;reasons.push("旅行场景强")}
+  if(e.sourceType==="ticket"){score+=1;reasons.push("主流票务平台")}
+  if(/불꽃|烟花|드론|无人机|미식|美食|야시장|夜市|벚꽃|樱花|단풍|枫叶/.test(text)){score+=1;reasons.push("旅行场景强")}
   if(e.isNew){score+=1;reasons.push("近期新增")}
   return {score,hot:score>=4,reasons:[...new Set(reasons)].slice(0,4),accessNote:access?.note||""};
 }
@@ -39,7 +52,11 @@ async function load() {
     fetch("./data/city_access.json").then(r=>r.json()).catch(()=>({}))
   ]);
   cityAccess=access;
-  allEvents=(ev.events||[]).map(e=>({...e,ops:e.ops||fallbackOps(e)}));
+  allEvents=(ev.events||[]).map(e=>{
+    const category=normalizeCategory(e);
+    const fixed={...e,category};
+    return {...fixed,ops:e.ops?.categoryVersion===4?e.ops:fallbackOps(fixed)};
+  });
   meta=mt;
   cursor=new Date();cursor.setDate(1);
   setupFilters();render();
@@ -52,7 +69,7 @@ function setupFilters(){
     b.onclick=()=>{if(activeCategories.has(key)){activeCategories.delete(key);b.classList.remove("active")}else{activeCategories.add(key);b.classList.add("active")}render()};cat.appendChild(b);
   }
   const cities=[...new Set(allEvents.map(x=>x.city).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"zh-CN"));
-  $("#cityFilter").innerHTML=`<option value="ALL">所有城市</option>`+cities.map(c=>`<option>${esc(c)}</option>`).join("");
+  $("#cityFilter").innerHTML=`<option value="ALL">所有城市 / 多地</option>`+cities.map(c=>`<option>${esc(c)}</option>`).join("");
   ["#searchInput","#cityFilter","#newOnly","#hotOnly","#sortMode"].forEach(id=>$(id).addEventListener(id==="#searchInput"?"input":"change",render));
   $("#prevMonth").onclick=()=>{cursor.setMonth(cursor.getMonth()-1);render()};
   $("#nextMonth").onclick=()=>{cursor.setMonth(cursor.getMonth()+1);render()};
@@ -72,7 +89,7 @@ function filtered(){
     return true;
   });
   if(sort==="potential") return items.sort((a,b)=>(b.ops?.score||0)-(a.ops?.score||0)||a.startDate.localeCompare(b.startDate));
-  return items.sort((a,b)=>a.startDate.localeCompare(b.startDate)||(b.ops?.score||0)-(a.ops?.score||0)||a.title.localeCompare(b.title));
+  return items.sort((a,b)=>a.startDate.localeCompare(b.startDate)||(b.ops?.score||0)-(a.ops?.score||0)||a.title.localeCompare(b.title,"zh-CN"));
 }
 
 function render(){
@@ -98,6 +115,8 @@ function renderList(items){
     const nb=node.querySelector(".new-badge");if(!e.isNew)nb.classList.add("hidden");
     const hb=node.querySelector(".hot-badge");if(e.ops?.hot){hb.textContent=`🔥 值得做 · ${e.ops.score}分`}else{hb.textContent=`潜力 ${e.ops?.score||0}分`;hb.classList.add("muted-hot")}
     node.querySelector(".event-title").textContent=e.title;
+    const original=node.querySelector(".event-original");
+    if(e.titleOriginal && normalize(e.titleOriginal)!==normalize(e.title)){original.textContent=`原名：${e.titleOriginal}`}else{original.remove()}
     node.querySelector(".event-date").textContent=`🗓 ${e.startDate}${e.endDate&&e.endDate!==e.startDate?" → "+e.endDate:""}`;
     node.querySelector(".event-city").textContent=`📍 ${e.city}${e.venue?" · "+e.venue:""}`;
     node.querySelector(".event-address").textContent=`⌂ ${e.address||e.venue||"地址待更新"}`;
@@ -111,4 +130,4 @@ function renderList(items){
 }
 
 function scrollToEvent(id){document.getElementById(`event-${id}`)?.scrollIntoView({behavior:"smooth",block:"center"})}
-load().catch(err=>{console.error(err);document.body.insertAdjacentHTML("beforeend",`<div class="empty">数据加载失败。请通过网页服务器打开本项目（例如 GitHub Pages / npx vite）。</div>`)});
+load().catch(err=>{console.error(err);document.body.insertAdjacentHTML("beforeend",`<div class="empty">数据加载失败。请通过网页服务器打开本项目（例如 GitHub Pages / npx vite）。</div>`) });
