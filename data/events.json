@@ -15,7 +15,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 4,
@@ -56,6 +56,34 @@
       }
     },
     {
+      "id": "dcf210ab97b8",
+      "title": "광주FC 경기 전, 블루퍼피 라이브 공연 함께 즐겨요!2026.03.12 ~ 2026.09.09",
+      "titleOriginal": "광주FC 경기 전, 블루퍼피 라이브 공연 함께 즐겨요!2026.03.12 ~ 2026.09.09",
+      "category": "concert",
+      "city": "光州",
+      "startDate": "2026-03-12",
+      "endDate": "2026-09-09",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://dmgj.kr/event.es?mid=a10301000000&p_cate=0301&category=0301000000&act=view&seq=9961",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-09",
+      "lastSeen": "2026-09-09",
+      "isNew": true,
+      "ops": {
+        "score": 3,
+        "hot": false,
+        "reasons": [
+          "演出事件",
+          "持续182天",
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
+      }
+    },
+    {
       "id": "6e7d32230ac1",
       "title": "지원공모[공고] 2026년 4/4분기 부산공연예술연습공간 정기대관 신청 공고",
       "titleOriginal": "지원공모[공고] 2026년 4/4분기 부산공연예술연습공간 정기대관 신청 공고",
@@ -70,7 +98,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 3,
@@ -80,6 +108,34 @@
           "演出事件"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
+      }
+    },
+    {
+      "id": "63cb3b7af056",
+      "title": "2026 아트콘서트&오감한스푼 일정2026.04.11 ~ 2026.10.10",
+      "titleOriginal": "2026 아트콘서트&오감한스푼 일정2026.04.11 ~ 2026.10.10",
+      "category": "concert",
+      "city": "光州",
+      "startDate": "2026-04-11",
+      "endDate": "2026-10-10",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://dmgj.kr/event.es?mid=a10301000000&p_cate=0301&category=0301000000&act=view&seq=8774",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-09",
+      "lastSeen": "2026-09-09",
+      "isNew": true,
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "追星/音乐节信号",
+          "持续183天",
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
       }
     },
     {
@@ -97,7 +153,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 1,
@@ -123,7 +179,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 3,
@@ -150,7 +206,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 4,
@@ -161,6 +217,33 @@
           "国际/大型节庆"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
+      }
+    },
+    {
+      "id": "f512d0a66f4d",
+      "title": "양림아트워크 블로그 체험단 모집2026.07.04 ~ 2026.09.19",
+      "titleOriginal": "양림아트워크 블로그 체험단 모집2026.07.04 ~ 2026.09.19",
+      "category": "art",
+      "city": "光州",
+      "startDate": "2026-07-04",
+      "endDate": "2026-09-19",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://dmgj.kr/event.es?mid=a10303000000&p_cate=0303&category=0303000000&act=view&seq=9840",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-09",
+      "lastSeen": "2026-09-09",
+      "isNew": true,
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "持续78天",
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
       }
     },
     {
@@ -204,7 +287,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 4,
@@ -231,7 +314,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 2,
@@ -287,7 +370,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 2,
@@ -313,7 +396,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 4,
@@ -340,7 +423,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 5,
@@ -395,7 +478,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 0,
@@ -419,7 +502,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 4,
@@ -479,7 +562,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 2,
@@ -505,7 +588,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 2,
@@ -531,7 +614,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 2,
@@ -558,7 +641,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 2,
@@ -584,7 +667,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 1,
@@ -610,7 +693,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 1,
@@ -636,7 +719,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 1,
@@ -662,7 +745,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 3,
@@ -689,7 +772,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 4,
@@ -717,7 +800,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 4,
@@ -777,7 +860,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 4,
@@ -805,7 +888,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 3,
@@ -832,7 +915,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 3,
@@ -885,7 +968,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 1,
@@ -911,7 +994,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 4,
@@ -939,7 +1022,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 2,
@@ -965,7 +1048,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 4,
@@ -1006,6 +1089,34 @@
       }
     },
     {
+      "id": "7ff6298c26dd",
+      "title": "2026 광주비엔날레 아카데미 시민 참여 투어 프로그램 「도시 기억의 변화」2026.09.05 ~ 2026.11.15",
+      "titleOriginal": "2026 광주비엔날레 아카데미 시민 참여 투어 프로그램 「도시 기억의 변화」2026.09.05 ~ 2026.11.15",
+      "category": "art",
+      "city": "光州",
+      "startDate": "2026-09-05",
+      "endDate": "2026-11-15",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://dmgj.kr/event.es?mid=a10303000000&p_cate=0303&category=0303000000&act=view&seq=9879",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-09",
+      "lastSeen": "2026-09-09",
+      "isNew": true,
+      "ops": {
+        "score": 3,
+        "hot": false,
+        "reasons": [
+          "持续72天",
+          "国际/大型节庆",
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
+      }
+    },
+    {
       "id": "3568a8b2d3b8",
       "title": "문화체험 HD아트센터 1인석) 도와줘요 티처스 쌤 〈이병훈〉 접수일자ㅣ 2026-09-05 ~ 2026-09-12",
       "titleOriginal": "문화체험 HD아트센터 1인석) 도와줘요 티처스 쌤 〈이병훈〉 접수일자ㅣ 2026-09-05 ~ 2026-09-12",
@@ -1021,15 +1132,43 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 2,
+        "score": 1,
         "hot": false,
         "reasons": [
-          "持续8天",
-          "近期新增"
+          "持续8天"
         ],
         "accessNote": "默认按釜山接驳，不直接加直飞分"
+      }
+    },
+    {
+      "id": "5dbcb1d6c653",
+      "title": "백운광장 스트리트 푸드 페스티벌2026.09.07 ~ 2026.11.28",
+      "titleOriginal": "백운광장 스트리트 푸드 페스티벌2026.09.07 ~ 2026.11.28",
+      "category": "concert",
+      "city": "光州",
+      "startDate": "2026-09-07",
+      "endDate": "2026-11-28",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://dmgj.kr/event.es?mid=a10303000000&p_cate=0303&category=0303000000&act=view&seq=9358",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-09",
+      "lastSeen": "2026-09-09",
+      "isNew": true,
+      "ops": {
+        "score": 5,
+        "hot": true,
+        "reasons": [
+          "追星/音乐节信号",
+          "持续83天",
+          "国际/大型节庆",
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
       }
     },
     {
@@ -1102,7 +1241,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 3,
@@ -1129,7 +1268,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 3,
@@ -1156,7 +1295,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 2,
@@ -1183,7 +1322,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 2,
@@ -1191,6 +1330,34 @@
         "reasons": [
           "持续84天",
           "旅行场景强"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
+      }
+    },
+    {
+      "id": "80189b551348",
+      "title": "[대관공연] 캔들라이트 콘서트(8-12월)2026.09.09 ~ 2026.12.25",
+      "titleOriginal": "[대관공연] 캔들라이트 콘서트(8-12월)2026.09.09 ~ 2026.12.25",
+      "category": "concert",
+      "city": "光州",
+      "startDate": "2026-09-09",
+      "endDate": "2026-12-25",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://dmgj.kr/event.es?mid=a10301000000&p_cate=0301&category=0301000000&act=view&seq=9383",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-09",
+      "lastSeen": "2026-09-09",
+      "isNew": true,
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "追星/音乐节信号",
+          "持续108天",
+          "近期新增"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分"
       }
@@ -1210,7 +1377,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 4,
@@ -1219,6 +1386,34 @@
           "中国直飞城市",
           "演出事件",
           "持续12天"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）"
+      }
+    },
+    {
+      "id": "3216f83d9d3a",
+      "title": "2026 광역문화재단 대표공연 콘텐츠‘충북은 공연중’ 입찰공고",
+      "titleOriginal": "2026 광역문화재단 대표공연 콘텐츠‘충북은 공연중’ 입찰공고",
+      "category": "concert",
+      "city": "清州",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-09",
+      "venue": "",
+      "address": "清州, South Korea",
+      "sourceName": "忠北文化财团（清州）",
+      "sourceUrl": "https://www.cbfc.or.kr/home/sub.php?menukey=6432&mod=view&no=2420827",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-09",
+      "lastSeen": "2026-09-09",
+      "isNew": true,
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "演出事件",
+          "近期新增"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）"
       }
@@ -1238,7 +1433,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 3,
@@ -1266,14 +1461,13 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 3,
+        "score": 2,
         "hot": false,
         "reasons": [
           "持续4天",
-          "旅行场景强",
-          "近期新增"
+          "旅行场景强"
         ],
         "accessNote": "默认按釜山接驳，不直接加直飞分"
       }
@@ -1294,14 +1488,13 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 3,
+        "score": 2,
         "hot": false,
         "reasons": [
           "持续4天",
-          "旅行场景强",
-          "近期新增"
+          "旅行场景强"
         ],
         "accessNote": "默认按釜山接驳，不直接加直飞分"
       }
@@ -1321,7 +1514,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 2,
@@ -1348,7 +1541,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 4,
@@ -1376,7 +1569,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 3,
@@ -1403,7 +1596,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 6,
@@ -1432,7 +1625,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 5,
@@ -1460,7 +1653,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 3,
@@ -1488,14 +1681,13 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 3,
+        "score": 2,
         "hot": false,
         "reasons": [
           "持续10天",
-          "旅行场景强",
-          "近期新增"
+          "旅行场景强"
         ],
         "accessNote": "默认按釜山接驳，不直接加直飞分"
       }
@@ -1516,13 +1708,12 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 2,
+        "score": 1,
         "hot": false,
         "reasons": [
-          "持续10天",
-          "近期新增"
+          "持续10天"
         ],
         "accessNote": "默认按釜山接驳，不直接加直飞分"
       }
@@ -1542,7 +1733,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 3,
@@ -1596,7 +1787,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 3,
@@ -1686,7 +1877,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 2,
@@ -1742,7 +1933,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 4,
@@ -1803,13 +1994,12 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 2,
+        "score": 1,
         "hot": false,
         "reasons": [
-          "演出事件",
-          "近期新增"
+          "演出事件"
         ],
         "accessNote": "默认按釜山接驳，不直接加直飞分"
       }
@@ -1830,13 +2020,12 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 2,
+        "score": 1,
         "hot": false,
         "reasons": [
-          "旅行场景强",
-          "近期新增"
+          "旅行场景强"
         ],
         "accessNote": "默认按釜山接驳，不直接加直飞分"
       }
@@ -1857,13 +2046,11 @@
       "tags": [],
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08",
-      "isNew": true,
+      "isNew": false,
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按釜山接驳，不直接加直飞分"
       }
     },
@@ -1915,7 +2102,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 3,
@@ -2005,7 +2192,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 4,
@@ -2033,7 +2220,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 6,
@@ -2062,7 +2249,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 5,
@@ -2091,7 +2278,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 3,
@@ -2118,7 +2305,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 3,
@@ -2175,7 +2362,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 3,
@@ -2202,7 +2389,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 5,
@@ -2263,7 +2450,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 2,
@@ -2289,7 +2476,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "isNew": false,
       "ops": {
         "score": 3,
