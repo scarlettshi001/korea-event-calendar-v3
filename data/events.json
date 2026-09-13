@@ -15,7 +15,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "更多新闻稿",
       "ops": {
@@ -58,6 +58,35 @@
       }
     },
     {
+      "id": "86cd292c6a94",
+      "title": "ACC亚洲艺术体验 · · 印尼手工艺2026.04.01 ~ 2026.09.30",
+      "titleOriginal": "ACC 아시아 예술체험 –인도네시아 공예2026.04.01 ~ 2026.09.30",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-04-01",
+      "endDate": "2026-09-30",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://dmgj.kr/event.es?mid=a10304000000&p_cate=0304&category=0304000000&act=view&seq=9578",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "isNew": true,
+      "titleZh": "ACC亚洲艺术体验 · · 印尼手工艺2026.04.01 ~ 2026.09.30",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "持续183天",
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 4
+      }
+    },
+    {
       "id": "6e7d32230ac1",
       "title": "【公告】2026年第四季度釜山表演艺术实践空间定期申请公告",
       "titleOriginal": "지원공모[공고] 2026년 4/4분기 부산공연예술연습공간 정기대관 신청 공고",
@@ -72,7 +101,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "【公告】2026年第四季度釜山表演艺术实践空间定期申请公告",
       "ops": {
@@ -101,14 +130,13 @@
       "tags": [],
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "ACC亚洲艺术体验 · · 印尼手工艺2026.04.07 ~ 2026.09.30",
       "ops": {
-        "score": 2,
+        "score": 1,
         "hot": false,
         "reasons": [
-          "持续177天",
-          "近期新增"
+          "持续177天"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 4
@@ -186,7 +214,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "更多一般性公告",
       "ops": {
@@ -196,6 +224,35 @@
           "中国直飞城市"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 4
+      }
+    },
+    {
+      "id": "25dfe5d6d55c",
+      "title": "江潭Nuriso节期间参观华峰儒艮第二公寓26.06.12~26.10.28",
+      "titleOriginal": "진행중 화봉주공2차아파트 찾아가는 장터누리소 축제기간ㅣ 26.06.12 ~ 26.10.28",
+      "category": "local",
+      "city": "蔚山",
+      "startDate": "2026-06-12",
+      "endDate": "2026-10-28",
+      "venue": "",
+      "address": "蔚山, South Korea",
+      "sourceName": "蔚山市活动入口",
+      "sourceUrl": "https://ulsanculture.kr/webuser/exhibit/%EC%B0%BE%EC%95%84%EA%B0%80%EB%8A%94-%EC%9E%A5%ED%84%B0%EB%88%84%EB%A6%AC%EC%86%8C-3136",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "isNew": true,
+      "titleZh": "江潭Nuriso节期间参观华峰儒艮第二公寓26.06.12~26.10.28",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "持续139天",
+          "近期新增"
+        ],
+        "accessNote": "默认按釜山接驳，不直接加直飞分",
         "categoryVersion": 4
       }
     },
@@ -333,15 +390,14 @@
       "tags": [],
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "2026年艺术音乐会和感官勺子时间表2026年8月1日 · 2026年10月10日",
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "追星事件",
-          "持续71天",
-          "近期新增"
+          "持续71天"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 4
@@ -419,7 +475,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "2026釜山猪汤大田2026 · 08 · 16 ~ 2026 · 10 · 18",
       "ops": {
@@ -467,35 +523,6 @@
       "titleZh": "2026釜山猪肉汤饭大典"
     },
     {
-      "id": "ea1b53a91705",
-      "title": "ACC资源循环绿色市场参与者招募指南2026年8月18日 · 2026年9月28日",
-      "titleOriginal": "ACC 자원순환 그린마켓 참가자 모집 안내2026.08.18 ~ 2026.09.28",
-      "category": "local",
-      "city": "光州",
-      "startDate": "2026-08-18",
-      "endDate": "2026-09-28",
-      "venue": "",
-      "address": "光州, South Korea",
-      "sourceName": "光州旅游",
-      "sourceUrl": "https://dmgj.kr/event.es?mid=a10303000000&p_cate=0303&category=0303000000&act=view&seq=10041",
-      "sourceType": "tour",
-      "tags": [],
-      "firstSeen": "2026-09-11",
-      "lastSeen": "2026-09-11",
-      "isNew": true,
-      "titleZh": "ACC资源循环绿色市场参与者招募指南2026年8月18日 · 2026年9月28日",
-      "ops": {
-        "score": 2,
-        "hot": false,
-        "reasons": [
-          "持续42天",
-          "近期新增"
-        ],
-        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
-        "categoryVersion": 4
-      }
-    },
-    {
       "id": "9470f33f3135",
       "title": "2026年忠清文化节参展单位最终评选通知",
       "titleOriginal": "2026 충청권생활문화축제 참여단체 최종 선정 공고문",
@@ -520,6 +547,34 @@
           "中国直飞城市"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 4
+      }
+    },
+    {
+      "id": "ea1b53a91705",
+      "title": "ACC资源循环绿色市场参与者招募指南2026年8月18日 · 2026年9月28日",
+      "titleOriginal": "ACC 자원순환 그린마켓 참가자 모집 안내2026.08.18 ~ 2026.09.28",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-08-18",
+      "endDate": "2026-09-28",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://dmgj.kr/event.es?mid=a10303000000&p_cate=0303&category=0303000000&act=view&seq=10041",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-11",
+      "lastSeen": "2026-09-11",
+      "isNew": false,
+      "titleZh": "ACC资源循环绿色市场参与者招募指南2026年8月18日 · 2026年9月28日",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "持续42天"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 4
       }
     },
@@ -595,7 +650,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "2026第二届展览会儿童赏析计划2026.08.19~2026.11.30",
       "ops": {
@@ -603,6 +658,36 @@
         "hot": false,
         "reasons": [
           "持续104天"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 4
+      }
+    },
+    {
+      "id": "c043d69501cb",
+      "title": "国家遗产学院“桌面上的未来，关于K · Food的一切” 2026.08.21〜2026.11.30",
+      "titleOriginal": "2026년 국가유산 아카데미 '식탁 위의 미래, K-푸드의 모든 것'2026.08.21 ~ 2026.11.30",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-08-21",
+      "endDate": "2026-11-30",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://dmgj.kr/event.es?mid=a10304000000&p_cate=0304&category=0304000000&act=view&seq=9235",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "isNew": true,
+      "titleZh": "国家遗产学院“桌面上的未来，关于K · Food的一切” 2026.08.21〜2026.11.30",
+      "ops": {
+        "score": 3,
+        "hot": false,
+        "reasons": [
+          "持续102天",
+          "旅行场景强",
+          "近期新增"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 4
@@ -624,14 +709,13 @@
       "tags": [],
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "2026第二届展览会儿童赏析计划2026.08.21~2026.11.30",
       "ops": {
-        "score": 2,
+        "score": 1,
         "hot": false,
         "reasons": [
-          "持续102天",
-          "近期新增"
+          "持续102天"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 4
@@ -652,7 +736,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "ACC亚洲艺术体验 · 亚洲工艺品2026年8月21日 · 2026年12月2日",
       "ops": {
@@ -680,7 +764,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "朴敏光：生命之花",
       "ops": {
@@ -736,7 +820,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "釜山Otoniel展览会08/28/2026 ~ 12/31/2026F1963石川厅",
       "ops": {
@@ -766,7 +850,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "2026釜山双年展 2026 · 08 · 29 ~ 2026 · 11 · 01",
       "ops": {
@@ -879,6 +963,35 @@
       }
     },
     {
+      "id": "cb94e01487aa",
+      "title": "正在进行的Okhyun儿童图书馆Okhyun儿童图书馆2026阅读月活动信息节期间26.09.01〜26.09.30",
+      "titleOriginal": "진행중 옥현어린이도서관 옥현어린이도서관 2026년 독서의 달 행사 안내 축제기간ㅣ 26.09.01 ~ 26.09.30",
+      "category": "local",
+      "city": "蔚山",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-30",
+      "venue": "",
+      "address": "蔚山, South Korea",
+      "sourceName": "蔚山市活动入口",
+      "sourceUrl": "https://ulsanculture.kr/webuser/exhibit/%EC%98%A5%ED%98%84%EC%96%B4%EB%A6%B0%EC%9D%B4%EB%8F%84%EC%84%9C%EA%B4%80-%EB%8F%85%EC%84%9C%EC%9D%98-%ED%96%89%EC%82%AC-%EC%95%88%EB%82%B4-3328",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "isNew": true,
+      "titleZh": "正在进行的Okhyun儿童图书馆Okhyun儿童图书馆2026阅读月活动信息节期间26.09.01〜26.09.30",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "持续30天",
+          "近期新增"
+        ],
+        "accessNote": "默认按釜山接驳，不直接加直飞分",
+        "categoryVersion": 4
+      }
+    },
+    {
       "id": "56d2e5849fa6",
       "title": "西津河故事摄影展2026.09.01 ~ 2026.09.29",
       "titleOriginal": "섬진강 이야기 사진전시회2026.09.01 ~ 2026.09.29",
@@ -893,15 +1006,14 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-11",
-      "lastSeen": "2026-09-11",
-      "isNew": true,
+      "lastSeen": "2026-09-13",
+      "isNew": false,
       "titleZh": "西津河故事摄影展2026.09.01 ~ 2026.09.29",
       "ops": {
-        "score": 2,
+        "score": 1,
         "hot": false,
         "reasons": [
-          "持续29天",
-          "近期新增"
+          "持续29天"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 4
@@ -922,7 +1034,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "仁川文化艺术周刊2026年9月第2周",
       "ops": {
@@ -1007,7 +1119,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "广利M无人机灯光秀9月节目2026 · 09 · 05 ~ 2026 · 09 · 26",
       "ops": {
@@ -1019,6 +1131,36 @@
           "旅行场景强"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 4
+      }
+    },
+    {
+      "id": "e15de1fedc3b",
+      "title": "2026年艺术音乐会和感官勺子时间表2026年9月5日至2026年10月10日",
+      "titleOriginal": "2026 아트콘서트&오감한스푼 일정2026.09.05 ~ 2026.10.10",
+      "category": "star",
+      "city": "光州",
+      "startDate": "2026-09-05",
+      "endDate": "2026-10-10",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://dmgj.kr/event.es?mid=a10301000000&p_cate=0301&category=0301000000&act=view&seq=8774",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "isNew": true,
+      "titleZh": "2026年艺术音乐会和感官勺子时间表2026年9月5日至2026年10月10日",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "追星事件",
+          "持续36天",
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 4
       }
     },
@@ -1037,16 +1179,15 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-11",
-      "lastSeen": "2026-09-11",
-      "isNew": true,
+      "lastSeen": "2026-09-13",
+      "isNew": false,
       "titleZh": "第16届光州双年展赌场卢森堡馆螳螂之日2026.09.05 ~ 2026.11.15",
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "大型节庆/盛典",
-          "持续72天",
-          "近期新增"
+          "持续72天"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 4
@@ -1068,15 +1209,14 @@
       "tags": [],
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "第十六届光州双年展蒙古馆长久记忆与遥远未来：共同记忆与现代挑战2026/05/09 · 2026/11/15",
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "大型节庆/盛典",
-          "持续72天",
-          "近期新增"
+          "持续72天"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 4
@@ -1098,15 +1238,14 @@
       "tags": [],
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "第16届光州双年展“你必须改变你的生活” 2026.09.05~2026.11.15",
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "大型节庆/盛典",
-          "持续72天",
-          "近期新增"
+          "持续72天"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 4
@@ -1142,6 +1281,35 @@
       }
     },
     {
+      "id": "b920aa5acefb",
+      "title": "ACC资源流通绿色市场参与者招募指南2026.09.05 ~ 2026.09.28",
+      "titleOriginal": "ACC 자원순환 그린마켓 참가자 모집 안내2026.09.05 ~ 2026.09.28",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-05",
+      "endDate": "2026-09-28",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://dmgj.kr/event.es?mid=a10303000000&p_cate=0303&category=0303000000&act=view&seq=10041",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "isNew": true,
+      "titleZh": "ACC资源流通绿色市场参与者招募指南2026.09.05 ~ 2026.09.28",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "持续24天",
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 4
+      }
+    },
+    {
       "id": "16c03a583abd",
       "title": "第十六届光州双年展台湾馆实例地牢：灰色地带2026.09.07~2026.11.15",
       "titleOriginal": "제16회 광주비엔날레 대만 파빌리온 《인스턴스 던전: 회색지대》2026.09.07 ~ 2026.11.15",
@@ -1156,16 +1324,15 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-11",
-      "lastSeen": "2026-09-11",
-      "isNew": true,
+      "lastSeen": "2026-09-13",
+      "isNew": false,
       "titleZh": "第十六届光州双年展台湾馆实例地牢：灰色地带2026.09.07~2026.11.15",
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "大型节庆/盛典",
-          "持续70天",
-          "近期新增"
+          "持续70天"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 4
@@ -1200,6 +1367,36 @@
       }
     },
     {
+      "id": "44f2e9990378",
+      "title": "第16届光州双年展“你必须改变你的生活” 2026.09.08 ~ 2026.11.15",
+      "titleOriginal": "제16회 광주비엔날레 《너는 네 삶을 바꿔야 한다(You must change your life)》2026.09.08 ~ 2026.11.15",
+      "category": "festival",
+      "city": "光州",
+      "startDate": "2026-09-08",
+      "endDate": "2026-11-15",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://dmgj.kr/event.es?mid=a10302000000&p_cate=0302&category=0302000000&act=view&seq=9871",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "isNew": true,
+      "titleZh": "第16届光州双年展“你必须改变你的生活” 2026.09.08 ~ 2026.11.15",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "大型节庆/盛典",
+          "持续69天",
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 4
+      }
+    },
+    {
       "id": "89ce647c5549",
       "title": "第十六届光州双年展蒙古馆“长久记忆与遥远未来：共享记忆与现代挑战” 2026.09.08 ~ 2026.11.15",
       "titleOriginal": "제16회 광주비엔날레 몽골 파빌리온 《오랜 기억과 아득한 미래: 공동의 기억과 현대적 도전》2026.09.08 ~ 2026.11.15",
@@ -1214,7 +1411,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "第十六届光州双年展蒙古馆“长久记忆与遥远未来：共享记忆与现代挑战” 2026.09.08 ~ 2026.11.15",
       "ops": {
@@ -1429,6 +1626,35 @@
       }
     },
     {
+      "id": "dea423c4230e",
+      "title": "在建参观清阳邑行政福利中心市场Nuriso节期间26.09.09〜26.09.30",
+      "titleOriginal": "진행중 청량읍 행정복지센터 찾아가는 장터누리소 축제기간ㅣ 26.09.09 ~ 26.09.30",
+      "category": "local",
+      "city": "蔚山",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-30",
+      "venue": "",
+      "address": "蔚山, South Korea",
+      "sourceName": "蔚山市活动入口",
+      "sourceUrl": "https://ulsanculture.kr/webuser/exhibit/%EC%B0%BE%EC%95%84%EA%B0%80%EB%8A%94-%EC%9E%A5%ED%84%B0%EB%88%84%EB%A6%AC%EC%86%8C-3392",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "isNew": true,
+      "titleZh": "在建参观清阳邑行政福利中心市场Nuriso节期间26.09.09〜26.09.30",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "持续22天",
+          "近期新增"
+        ],
+        "accessNote": "默认按釜山接驳，不直接加直飞分",
+        "categoryVersion": 4
+      }
+    },
+    {
       "id": "c284253e767b",
       "title": "国家音乐日永仁2026.09.11~12大田2026.09.26~27仁川2026.10.03~04",
       "titleOriginal": "전국뮤지컬그날들용인 2026.09.11~12대전 2026.09.26~27인천 2026.10.03~04",
@@ -1443,49 +1669,18 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-11",
-      "lastSeen": "2026-09-11",
-      "isNew": true,
+      "lastSeen": "2026-09-13",
+      "isNew": false,
       "titleZh": "国家音乐日永仁2026.09.11~12大田2026.09.26~27仁川2026.10.03~04",
-      "ops": {
-        "score": 5,
-        "hot": true,
-        "reasons": [
-          "中国直飞城市",
-          "持续16天",
-          "主流票务平台",
-          "近期新增"
-        ],
-        "accessNote": "中国直飞配置：是",
-        "categoryVersion": 4
-      }
-    },
-    {
-      "id": "1a1e183edd35",
-      "title": "【大音乐会】烛光音乐会（ 8 · 12月） 2026.09.11~2026.12.25",
-      "titleOriginal": "[대관공연] 캔들라이트 콘서트(8-12월)2026.09.11 ~ 2026.12.25",
-      "category": "star",
-      "city": "光州",
-      "startDate": "2026-09-11",
-      "endDate": "2026-12-25",
-      "venue": "",
-      "address": "光州, South Korea",
-      "sourceName": "光州旅游",
-      "sourceUrl": "https://dmgj.kr/event.es?mid=a10301000000&p_cate=0301&category=0301000000&act=view&seq=9383",
-      "sourceType": "tour",
-      "tags": [],
-      "firstSeen": "2026-09-11",
-      "lastSeen": "2026-09-11",
-      "isNew": true,
-      "titleZh": "【大音乐会】烛光音乐会（ 8 · 12月） 2026.09.11~2026.12.25",
       "ops": {
         "score": 4,
         "hot": true,
         "reasons": [
-          "追星事件",
-          "持续106天",
-          "近期新增"
+          "中国直飞城市",
+          "持续16天",
+          "主流票务平台"
         ],
-        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "accessNote": "中国直飞配置：是",
         "categoryVersion": 4
       }
     },
@@ -1520,6 +1715,35 @@
       }
     },
     {
+      "id": "1a1e183edd35",
+      "title": "【大音乐会】烛光音乐会（ 8 · 12月） 2026.09.11~2026.12.25",
+      "titleOriginal": "[대관공연] 캔들라이트 콘서트(8-12월)2026.09.11 ~ 2026.12.25",
+      "category": "star",
+      "city": "光州",
+      "startDate": "2026-09-11",
+      "endDate": "2026-12-25",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://dmgj.kr/event.es?mid=a10301000000&p_cate=0301&category=0301000000&act=view&seq=9383",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-11",
+      "lastSeen": "2026-09-11",
+      "isNew": false,
+      "titleZh": "【大音乐会】烛光音乐会（ 8 · 12月） 2026.09.11~2026.12.25",
+      "ops": {
+        "score": 3,
+        "hot": false,
+        "reasons": [
+          "追星事件",
+          "持续106天"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 4
+      }
+    },
+    {
       "id": "e6dc0c5cd46f",
       "title": "更多公告/公开发行",
       "titleOriginal": "공고/공모 더보기",
@@ -1534,15 +1758,14 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-11",
-      "lastSeen": "2026-09-11",
-      "isNew": true,
+      "lastSeen": "2026-09-13",
+      "isNew": false,
       "titleZh": "更多公告/公开发行",
       "ops": {
-        "score": 3,
+        "score": 2,
         "hot": false,
         "reasons": [
-          "中国直飞城市",
-          "近期新增"
+          "中国直飞城市"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）",
         "categoryVersion": 4
@@ -1591,7 +1814,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "全国巡演C雅20周年纪念音乐会大邱2026.09.12高阳2026.10.04清州2026.10.10",
       "ops": {
@@ -1604,6 +1827,95 @@
           "主流票务平台"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 4
+      }
+    },
+    {
+      "id": "4220a4787bca",
+      "title": "2026光州双年展学院公民参与之旅计划“城市记忆的变化” 09.12.2026 · 11.15.2026",
+      "titleOriginal": "2026 광주비엔날레 아카데미 시민 참여 투어 프로그램 「도시 기억의 변화」2026.09.12 ~ 2026.11.15",
+      "category": "festival",
+      "city": "光州",
+      "startDate": "2026-09-12",
+      "endDate": "2026-11-15",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://dmgj.kr/event.es?mid=a10303000000&p_cate=0303&category=0303000000&act=view&seq=9879",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "isNew": true,
+      "titleZh": "2026光州双年展学院公民参与之旅计划“城市记忆的变化” 09.12.2026 · 11.15.2026",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "大型节庆/盛典",
+          "持续65天",
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 4
+      }
+    },
+    {
+      "id": "3b5f4a999d95",
+      "title": "百贡广场街头美食节2026.09.12 ~ 2026.11.28",
+      "titleOriginal": "백운광장 스트리트 푸드 페스티벌2026.09.12 ~ 2026.11.28",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-12",
+      "endDate": "2026-11-28",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://dmgj.kr/event.es?mid=a10303000000&p_cate=0303&category=0303000000&act=view&seq=9358",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "isNew": true,
+      "titleZh": "百贡广场街头美食节2026.09.12 ~ 2026.11.28",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "持续78天",
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 4
+      }
+    },
+    {
+      "id": "2149c734a834",
+      "title": "【大音乐会】烛光音乐会（ 8 · 12月） 2026.09.13~2026.12.25",
+      "titleOriginal": "[대관공연] 캔들라이트 콘서트(8-12월)2026.09.13 ~ 2026.12.25",
+      "category": "star",
+      "city": "光州",
+      "startDate": "2026-09-13",
+      "endDate": "2026-12-25",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://dmgj.kr/event.es?mid=a10301000000&p_cate=0301&category=0301000000&act=view&seq=9383",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "isNew": true,
+      "titleZh": "【大音乐会】烛光音乐会（ 8 · 12月） 2026.09.13~2026.12.25",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "追星事件",
+          "持续104天",
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 4
       }
     },
@@ -1622,7 +1934,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "订单信息的快捷方式",
       "ops": {
@@ -1632,6 +1944,35 @@
           "中国直飞城市"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 4
+      }
+    },
+    {
+      "id": "ab2cfb6649d1",
+      "title": "2026.09.13 ~ 2026.11.14居民与村民通过艺术“乡村艺术中心”交流的表演场地项目",
+      "titleOriginal": "주민과 마을이 예술로 소통하는 공연장 프로젝트 '마을 예술의 전당'2026.09.13 ~ 2026.11.14",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-13",
+      "endDate": "2026-11-14",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://dmgj.kr/event.es?mid=a10301000000&p_cate=0301&category=0301000000&act=view&seq=9722",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "isNew": true,
+      "titleZh": "2026.09.13 ~ 2026.11.14居民与村民通过艺术“乡村艺术中心”交流的表演场地项目",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "持续63天",
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 4
       }
     },
@@ -1679,7 +2020,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "订单信息的快捷方式",
       "ops": {
@@ -1707,7 +2048,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "更多基金会新闻",
       "ops": {
@@ -1735,17 +2076,46 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-11",
-      "lastSeen": "2026-09-11",
-      "isNew": true,
+      "lastSeen": "2026-09-13",
+      "isNew": false,
       "titleZh": "2026爱情 · 印度文化节2026 · 09 · 16 ~ 2026 · 09 · 16",
       "ops": {
-        "score": 3,
+        "score": 2,
         "hot": false,
         "reasons": [
-          "中国直飞城市",
-          "近期新增"
+          "中国直飞城市"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 4
+      }
+    },
+    {
+      "id": "f28c00b21500",
+      "title": "正在进行的蔚山中区文化馆2026第四届电影音乐明星之夜音乐会2017年9月26日~ 2018年9月26日",
+      "titleOriginal": "진행중 울산 중구문화의 전당 2026 제4회 영화음악 별밤 콘서트 축제기간ㅣ 26.09.17 ~ 26.09.18",
+      "category": "star",
+      "city": "蔚山",
+      "startDate": "2026-09-17",
+      "endDate": "2026-09-18",
+      "venue": "",
+      "address": "蔚山, South Korea",
+      "sourceName": "蔚山市活动入口",
+      "sourceUrl": "https://ulsanculture.kr/webuser/exhibit/%EC%98%81%ED%99%94%EC%9D%8C%EC%95%85-%EB%B3%84%EB%B0%A4-%EC%BD%98%EC%84%9C%ED%8A%B8-3406",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "isNew": true,
+      "titleZh": "正在进行的蔚山中区文化馆2026第四届电影音乐明星之夜音乐会2017年9月26日~ 2018年9月26日",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "追星事件",
+          "持续2天",
+          "近期新增"
+        ],
+        "accessNote": "默认按釜山接驳，不直接加直飞分",
         "categoryVersion": 4
       }
     },
@@ -1793,7 +2163,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "2026以昌平为中心的世界音乐剧节：全南光州综合特色市级橱窗剧团",
       "ops": {
@@ -1803,6 +2173,36 @@
           "持续2天"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 4
+      }
+    },
+    {
+      "id": "b8a7ea742d7b",
+      "title": "在建永南阿尔卑斯大厦迎宾中心第十一届蔚山蔚州世界山电影节2018年9月26日~ 2022年9月26日",
+      "titleOriginal": "진행중 영남알프스 복합웰컴센터 제11회 울산울주세계산악영화제 축제기간ㅣ 26.09.18 ~ 26.09.22",
+      "category": "festival",
+      "city": "蔚山",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-22",
+      "venue": "",
+      "address": "蔚山, South Korea",
+      "sourceName": "蔚山市活动入口",
+      "sourceUrl": "https://ulsanculture.kr/webuser/exhibit/%EC%9A%B8%EC%82%B0%EC%9A%B8%EC%A3%BC%EC%84%B8%EA%B3%84%EC%82%B0%EC%95%85%EC%98%81%ED%99%94%EC%A0%9C-3316",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "isNew": true,
+      "titleZh": "在建永南阿尔卑斯大厦迎宾中心第十一届蔚山蔚州世界山电影节2018年9月26日~ 2022年9月26日",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "大型节庆/盛典",
+          "持续5天",
+          "近期新增"
+        ],
+        "accessNote": "默认按釜山接驳，不直接加直飞分",
         "categoryVersion": 4
       }
     },
@@ -1854,7 +2254,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "Geochangamaksan花之旅2026.09.18〜2026.10.11Geochang星风山",
       "ops": {
@@ -1865,6 +2265,35 @@
           "主流票务平台"
         ],
         "accessNote": "",
+        "categoryVersion": 4
+      }
+    },
+    {
+      "id": "9b6a807b0d3b",
+      "title": "在建Taehwa Complex Cultural Space Mandi 2026 Sunmyeongsang 节 （蔚山）节日期26.09.18 ~ 26.09.20",
+      "titleOriginal": "진행중 태화복합문화공간 만디 2026 선명상축제 (울산) 축제기간ㅣ 26.09.18 ~ 26.09.20",
+      "category": "local",
+      "city": "蔚山",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-20",
+      "venue": "",
+      "address": "蔚山, South Korea",
+      "sourceName": "蔚山市活动入口",
+      "sourceUrl": "https://ulsanculture.kr/webuser/exhibit/%EC%84%A0%EB%AA%85%EC%83%81%EC%B6%95%EC%A0%9C-%EC%9A%B8%EC%82%B0-3435",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "isNew": true,
+      "titleZh": "在建Taehwa Complex Cultural Space Mandi 2026 Sunmyeongsang 节 （蔚山）节日期26.09.18 ~ 26.09.20",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "持续3天",
+          "近期新增"
+        ],
+        "accessNote": "默认按釜山接驳，不直接加直飞分",
         "categoryVersion": 4
       }
     },
@@ -1883,7 +2312,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "全南光州统一特色城市歌剧团“创意歌剧”第22次定期演出",
       "ops": {
@@ -1944,7 +2373,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "大厅策划表演大舞台“超级经典怪兽Ⅱ”",
       "ops": {
@@ -1970,7 +2399,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "釜山七桥骑行之旅2026 · 09 · 20 ~ 2026 · 09 · 20",
       "ops": {
@@ -2016,6 +2445,34 @@
       "titleZh": "釜山七桥城市骑行大会"
     },
     {
+      "id": "b2cb331e26c7",
+      "title": "进行中Ohyoung水文博物馆Ohyoung水文中心青年想象比赛节日期26.09.20 ~ 26.09.20",
+      "titleOriginal": "진행중 오영수문학관 오영수문학관 청소년 상상대회 축제기간ㅣ 26.09.20 ~ 26.09.20",
+      "category": "local",
+      "city": "蔚山",
+      "startDate": "2026-09-20",
+      "endDate": "2026-09-20",
+      "venue": "",
+      "address": "蔚山, South Korea",
+      "sourceName": "蔚山市活动入口",
+      "sourceUrl": "https://ulsanculture.kr/webuser/exhibit/%EC%98%A4%EC%98%81%EC%88%98%EB%AC%B8%ED%95%99%EA%B4%80-%EC%B2%AD%EC%86%8C%EB%85%84-%EC%83%81%EC%83%81%EB%8C%80%ED%9A%8C-3343",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "isNew": true,
+      "titleZh": "进行中Ohyoung水文博物馆Ohyoung水文中心青年想象比赛节日期26.09.20 ~ 26.09.20",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按釜山接驳，不直接加直飞分",
+        "categoryVersion": 4
+      }
+    },
+    {
       "id": "c8fd695d6000",
       "title": "国家釜山国学园2026秋夕邀请演出光州特色市立橱窗剧院",
       "titleOriginal": "국립부산국악원 2026 추석 초청공연 광주특별시립창극단 <희경루방회도>",
@@ -2030,7 +2487,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "国家釜山国学园2026秋夕邀请演出光州特色市立橱窗剧院",
       "ops": {
@@ -2056,7 +2513,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "2026年9月海釜山夜市2026 · 09 · 26 ~ 2026 · 10 · 18",
       "ops": {
@@ -2104,6 +2561,34 @@
       "titleZh": "9月星海釜山夜市"
     },
     {
+      "id": "76e092e32bb9",
+      "title": "文化体验",
+      "titleOriginal": "문화체험",
+      "category": "local",
+      "city": "蔚山",
+      "startDate": "2026-09-27",
+      "endDate": "2026-09-27",
+      "venue": "",
+      "address": "蔚山, South Korea",
+      "sourceName": "蔚山市活动入口",
+      "sourceUrl": "https://ulsan.go.kr/y/yes/main.do#",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "isNew": true,
+      "titleZh": "文化体验",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按釜山接驳，不直接加直飞分",
+        "categoryVersion": 4
+      }
+    },
+    {
       "id": "6c763a121dce",
       "title": "全南光州综合特色城市歌剧团的计划表演“参观<附近的歌剧院>的文化表演”",
       "titleOriginal": "전남광주통합특별시립오페라단 기획공연 '찾아가는 문화공연 <오페라 THE 가까이>'",
@@ -2118,7 +2603,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "全南光州综合特色城市歌剧团的计划表演“参观<附近的歌剧院>的文化表演”",
       "ops": {
@@ -2178,7 +2663,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "订单信息的快捷方式",
       "ops": {
@@ -2273,7 +2758,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "第八届表演艺术节GRAZE ×市男童女童合唱团《今日， GRAZE也一同歌唱》",
       "ops": {
@@ -2299,7 +2784,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "订单信息的快捷方式",
       "ops": {
@@ -2328,7 +2813,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "首尔/釜山2026首次粉丝音乐会首尔2026.10.10釜山2026.10.17",
       "ops": {
@@ -2359,17 +2844,16 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-11",
-      "lastSeen": "2026-09-11",
-      "isNew": true,
+      "lastSeen": "2026-09-13",
+      "isNew": false,
       "titleZh": "大邱/全州/光州Kim Gun Mor现场之旅大邱2026.10.10全州2026.10.31光州2026.12.05",
       "ops": {
-        "score": 5,
+        "score": 4,
         "hot": true,
         "reasons": [
           "中国直飞城市",
           "持续22天",
-          "主流票务平台",
-          "近期新增"
+          "主流票务平台"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）",
         "categoryVersion": 4
@@ -2420,7 +2904,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "订单信息的快捷方式",
       "ops": {
@@ -2448,7 +2932,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "订单信息的快捷方式",
       "ops": {
@@ -2462,30 +2946,31 @@
       }
     },
     {
-      "id": "538b09f2107a",
-      "title": "全南光州综合特色城市歌剧团的计划表演“参观<附近的歌剧院>的文化表演”",
-      "titleOriginal": "전남광주통합특별시립오페라단 기획공연 '찾아가는 문화공연 <오페라 THE 가까이>'",
+      "id": "6c37963b5cb1",
+      "title": "长生鲸文化特区第30届蔚山鲸节期间26.10.15~26.10.18",
+      "titleOriginal": "진행중 장생포고래문화특구 제30회 울산고래축제 축제기간ㅣ 26.10.15 ~ 26.10.18",
       "category": "local",
-      "city": "光州",
+      "city": "蔚山",
       "startDate": "2026-10-15",
-      "endDate": "2026-10-15",
+      "endDate": "2026-10-18",
       "venue": "",
-      "address": "光州, South Korea",
-      "sourceName": "光州艺术殿堂",
-      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0101&boper=view&bnum=10192",
-      "sourceType": "culture",
+      "address": "蔚山, South Korea",
+      "sourceName": "蔚山市活动入口",
+      "sourceUrl": "https://ulsanculture.kr/webuser/exhibit/%EC%9A%B8%EC%82%B0%EA%B3%A0%EB%9E%98%EC%B6%95%EC%A0%9C-3375",
+      "sourceType": "tour",
       "tags": [],
-      "firstSeen": "2026-09-11",
-      "lastSeen": "2026-09-11",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
       "isNew": true,
-      "titleZh": "全南光州综合特色城市歌剧团的计划表演“参观<附近的歌剧院>的文化表演”",
+      "titleZh": "长生鲸文化特区第30届蔚山鲸节期间26.10.15~26.10.18",
       "ops": {
-        "score": 1,
+        "score": 2,
         "hot": false,
         "reasons": [
+          "持续4天",
           "近期新增"
         ],
-        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "accessNote": "默认按釜山接驳，不直接加直飞分",
         "categoryVersion": 4
       }
     },
@@ -2522,6 +3007,32 @@
       "titleZh": "第30届蔚山鲸鱼节"
     },
     {
+      "id": "538b09f2107a",
+      "title": "全南光州综合特色城市歌剧团的计划表演“参观<附近的歌剧院>的文化表演”",
+      "titleOriginal": "전남광주통합특별시립오페라단 기획공연 '찾아가는 문화공연 <오페라 THE 가까이>'",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-10-15",
+      "endDate": "2026-10-15",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0101&boper=view&bnum=10192",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
+      "isNew": false,
+      "titleZh": "全南光州综合特色城市歌剧团的计划表演“参观<附近的歌剧院>的文化表演”",
+      "ops": {
+        "score": 0,
+        "hot": false,
+        "reasons": [],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 4
+      }
+    },
+    {
       "id": "a738492a059e",
       "title": "大厅规划表演盛大舞台“走进新世界”",
       "titleOriginal": "전당 기획공연 그랜드스테이지 'Into the New World'",
@@ -2536,7 +3047,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "大厅规划表演盛大舞台“走进新世界”",
       "ops": {
@@ -2562,7 +3073,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "订单信息的快捷方式",
       "ops": {
@@ -2572,6 +3083,34 @@
           "中国直飞城市"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 4
+      }
+    },
+    {
+      "id": "b8e91222710a",
+      "title": "全南光州综合特色城市歌剧团的计划表演“参观<附近的歌剧院>的文化表演”",
+      "titleOriginal": "전남광주통합특별시립오페라단 기획공연 '찾아가는 문화공연 <오페라 THE 가까이>'",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-10-20",
+      "endDate": "2026-10-20",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0101&boper=view&bnum=10193",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "isNew": true,
+      "titleZh": "全南光州综合特色城市歌剧团的计划表演“参观<附近的歌剧院>的文化表演”",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 4
       }
     },
@@ -2590,7 +3129,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "11点音乐漫步短剧《都柏林人中的伊芙琳》（ Evelyn ）",
       "ops": {
@@ -2598,6 +3137,35 @@
         "hot": false,
         "reasons": [],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 4
+      }
+    },
+    {
+      "id": "119979783b5c",
+      "title": "订单信息的快捷方式",
+      "titleOriginal": "예매정보 바로가기",
+      "category": "local",
+      "city": "大邱",
+      "startDate": "2026-10-22",
+      "endDate": "2026-10-22",
+      "venue": "대구문화예술회관 비슬홀 문의 053-430-7667 관람료 전석 1만 예매정보 바로가기",
+      "address": "대구문화예술회관 비슬홀 문의 053-430-7667 관람료 전석 1만 예매정보 바로가기, 大邱, South Korea",
+      "sourceName": "大邱文化艺术振兴院",
+      "sourceUrl": "https://daeguartscenter.or.kr/index.do?menu_id=00001483&menu_link=/front/dgac/prfrInfo/viewDgacPrfrInfo.do&pageIndex=3&searchPrfrTtl=&searchCondition=1&searchPrfrFcltId=&ctartId=CTART_ID_0000000341",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "isNew": true,
+      "titleZh": "订单信息的快捷方式",
+      "ops": {
+        "score": 3,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
         "categoryVersion": 4
       }
     },
@@ -2616,7 +3184,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "釜山Bakgyeong Rim Talk音乐会2026.10.24釜山Sohyang剧院Woori银行大厅",
       "ops": {
@@ -2626,6 +3194,35 @@
           "中国直飞城市",
           "追星事件",
           "主流票务平台"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 4
+      }
+    },
+    {
+      "id": "b95c8d339832",
+      "title": "订单信息的快捷方式",
+      "titleOriginal": "예매정보 바로가기",
+      "category": "local",
+      "city": "大邱",
+      "startDate": "2026-10-30",
+      "endDate": "2026-10-30",
+      "venue": "대구콘서트하우스 그랜드홀 문의 053-430-7763 관람료 전석 무료 상세내용 무료로 만나는 클래식 라이징 스타들의 공연.대구시립교향악단이 치",
+      "address": "대구콘서트하우스 그랜드홀 문의 053-430-7763 관람료 전석 무료 상세내용 무료로 만나는 클래식 라이징 스타들의 공연.대구시립교향악단이 치, 大邱, South Korea",
+      "sourceName": "大邱文化艺术振兴院",
+      "sourceUrl": "https://www.daeguconcerthouse.or.kr/index.do?menu_link=%2Ffront%2Fschedule%2FconcertScheduleDetailView.do&menu_id=00000032&pageIndex=1&con_id=SC_00000000000000003015&con_type=B&year=",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "isNew": true,
+      "titleZh": "订单信息的快捷方式",
+      "ops": {
+        "score": 3,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市",
+          "近期新增"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）",
         "categoryVersion": 4
@@ -2665,6 +3262,35 @@
       "titleZh": "大邱 Everblue 音乐节"
     },
     {
+      "id": "c82215653e05",
+      "title": "订单信息的快捷方式",
+      "titleOriginal": "예매정보 바로가기",
+      "category": "local",
+      "city": "大邱",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "venue": "대구문화예술회관 비슬홀 문의 053-430-7667 관람료 전석 1만 예매정보 바로가기",
+      "address": "대구문화예술회관 비슬홀 문의 053-430-7667 관람료 전석 1만 예매정보 바로가기, 大邱, South Korea",
+      "sourceName": "大邱文化艺术振兴院",
+      "sourceUrl": "https://daeguartscenter.or.kr/index.do?menu_id=00001483&menu_link=/front/dgac/prfrInfo/viewDgacPrfrInfo.do&pageIndex=3&searchPrfrTtl=&searchCondition=1&searchPrfrFcltId=&ctartId=CTART_ID_0000000342",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "isNew": true,
+      "titleZh": "订单信息的快捷方式",
+      "ops": {
+        "score": 3,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 4
+      }
+    },
+    {
       "id": "1ea2d0382029",
       "title": "查看更多出价公告",
       "titleOriginal": "입찰공고 더보기",
@@ -2679,7 +3305,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "isNew": false,
       "titleZh": "查看更多出价公告",
       "ops": {
