@@ -55,7 +55,7 @@ async function load() {
   allEvents=(ev.events||[]).map(e=>{
     const category=normalizeCategory(e);
     const fixed={...e,category};
-    return {...fixed,ops:e.ops?.categoryVersion===4?e.ops:fallbackOps(fixed)};
+    return {...fixed,ops:e.ops?.categoryVersion>=4?e.ops:fallbackOps(fixed)};
   });
   meta=mt;
   cursor=new Date();cursor.setDate(1);
@@ -120,7 +120,7 @@ function renderList(items){
     node.querySelector(".event-date").textContent=`🗓 ${e.startDate}${e.endDate&&e.endDate!==e.startDate?" → "+e.endDate:""}`;
     node.querySelector(".event-city").textContent=`📍 ${e.city}${e.venue?" · "+e.venue:""}`;
     node.querySelector(".event-address").textContent=`⌂ ${e.address||e.venue||"地址待更新"}`;
-    node.querySelector(".event-source").textContent=`来源：${e.sourceName||"未知"}`;
+    node.querySelector(".event-source").textContent=`来源：${e.sourceName||"未知"}${e.verified?" · ✓已核验":""}`;
     const reasons=node.querySelector(".ops-reasons");reasons.innerHTML=(e.ops?.reasons||[]).map(r=>`<span>${esc(r)}</span>`).join("");
     if(e.ops?.accessNote){const tip=document.createElement("div");tip.className="access-note";tip.textContent=e.ops.accessNote;reasons.after(tip)}
     const sl=node.querySelector(".source-link");sl.href=e.sourceUrl;sl.textContent=`查看原始信息 ↗`;

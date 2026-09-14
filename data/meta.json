@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-09-13T06:13:30.442Z",
-  "sourceCount": 23,
-  "socialDiscovered": 5,
-  "eventCount": 114,
-  "newCount": 22,
-  "hotCount": 22
+  "updatedAt": "2026-09-14T17:49:00+08:00",
+  "sourceCount": 20,
+  "eventCount": 25,
+  "hotCount": 0,
+  "categoryVersion": 4,
+  "categoryLabels": [
+    "特色盛典",
+    "追星人狂喜",
+    "特色活动",
+    "购物狂欢"
+  ],
+  "verifiedCount": 12,
+  "coverageVersion": 6,
+  "excludedCities": [
+    "首尔",
+    "济州",
+    "仁川"
+  ]
 }
