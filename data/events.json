@@ -1,6 +1,35 @@
 {
   "events": [
     {
+      "id": "eb1c0bc42361",
+      "title": "西津河故事摄影展2026.03.10 ~ 2026.09.29",
+      "titleOriginal": "섬진강 이야기 사진전시회2026.03.10 ~ 2026.09.29",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-03-10",
+      "endDate": "2026-09-29",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://dmgj.kr/event.es?mid=a10302000000&p_cate=0302&category=0302000000&act=view&seq=9804",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "西津河故事摄影展2026.03.10 ~ 2026.09.29",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "持续204天",
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
       "id": "7cbe01203b35",
       "title": "2026艺术音乐会和感官勺子时间表2026年12月3日 · 2026年10月10日",
       "titleOriginal": "2026 아트콘서트&오감한스푼 일정2026.03.12 ~ 2026.10.10",
@@ -58,6 +87,122 @@
       }
     },
     {
+      "id": "41dc094e0bc7",
+      "title": "招聘公告【通知】2026年下半年全职员工申请状态通知",
+      "titleOriginal": "채용공고[알림] 2026 하반기 정규직원 채용 지원현황 알림",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-04-04",
+      "endDate": "2026-04-04",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "釜山文化财团",
+      "sourceUrl": "https://www.bscf.or.kr/view.do?no=1025&pgMode=show&pbancSn=2431",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "招聘公告【通知】2026年下半年全职员工申请状态通知",
+      "ops": {
+        "score": 3,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "b842a31cff7b",
+      "title": "征集申请【招聘】2026 K · Arts Consulting参与者招聘 · 表演艺术海外拓展，询问现场策划师",
+      "titleOriginal": "지원공모[모집] 2026 K-Arts 컨설팅 참가자 모집 - 공연예술 해외진출, 현장 기획자에게 묻다",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-04-04",
+      "endDate": "2026-04-04",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "釜山文化财团",
+      "sourceUrl": "https://www.bscf.or.kr/view.do?no=1010&pgMode=show&pbancSn=2432",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "征集申请【招聘】2026 K · Arts Consulting参与者招聘 · 表演艺术海外拓展，询问现场策划师",
+      "ops": {
+        "score": 3,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "4c570a2c1d25",
+      "title": "活动新闻【展览】15分钟城市文化艺术教育节点空间节目《移动房间：拼凑回忆的空间》",
+      "titleOriginal": "행사소식[전시] 15분도시 문화예술교육 거점공간 프로그램 <움직이는 방 : 기억을 조립하는 공간>",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-04-04",
+      "endDate": "2026-04-04",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "釜山文化财团",
+      "sourceUrl": "https://www.bscf.or.kr/view.do?no=1015&pgMode=show&evntNewsSn=455",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "活动新闻【展览】15分钟城市文化艺术教育节点空间节目《移动房间：拼凑回忆的空间》",
+      "ops": {
+        "score": 3,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "4f31255c3652",
+      "title": "[记录外] EEDA Ahn Hye · jeong/Webzine Empathy和No. 66 ，提出问题，进行实验，创造一个尚未存在的未来",
+      "titleOriginal": "[오프더레코드] 질문하고 실험하며 아직 없는 미래를 만드는 EEDA 안혜정 / 웹진 공감 그리고 66호",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-04-04",
+      "endDate": "2026-04-04",
+      "venue": "부산문화재단 재정관리팀 입찰집행관 PC * 문 의 처 - 경영지원팀 051-745-7213 - 재정관리팀 051-745-7255 자세한 사항은",
+      "address": "부산문화재단 재정관리팀 입찰집행관 PC * 문 의 처 - 경영지원팀 051-745-7213 - 재정관리팀 051-745-7255 자세한 사항은, 釜山, South Korea",
+      "sourceName": "釜山文化财团",
+      "sourceUrl": "https://www.youtube.com/watch?v=xR3T4xgYNoU",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "[记录外] EEDA Ahn Hye · jeong/Webzine Empathy和No. 66 ，提出问题，进行实验，创造一个尚未存在的未来",
+      "ops": {
+        "score": 3,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
       "id": "497bfe503e30",
       "title": "釜山文化基金会",
       "titleOriginal": "부산문화재단",
@@ -72,7 +217,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "釜山文化基金会",
       "ops": {
@@ -100,7 +245,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "主营业务",
       "ops": {
@@ -128,7 +273,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "关于房源",
       "ops": {
@@ -156,7 +301,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "比赛·参赛",
       "ops": {
@@ -184,7 +329,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "基金会新闻",
       "ops": {
@@ -212,7 +357,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "Open Plaza",
       "ops": {
@@ -240,7 +385,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "关于基金会",
       "ops": {
@@ -268,7 +413,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "披露",
       "ops": {
@@ -296,7 +441,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "活动新闻【招募】哈哈哈野餐<好棒的Youngdo >参与者招募",
       "ops": {
@@ -324,7 +469,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "活动新闻[招聘] < Woori Neighborhood Daily Archives · Why We Leave >计划参与者招聘",
       "ops": {
@@ -352,7 +497,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "活动新闻[信息] 2026年釜山庆尚·日本SNS大奖",
       "ops": {
@@ -380,7 +525,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "支持竞赛【持续招募】艺人咨询配对艺人参与",
       "ops": {
@@ -408,7 +553,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "申请比赛【持续招募】2026 B ·艺术住宿（釜山+艺术家+住宿）参赛者",
       "ops": {
@@ -436,7 +581,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "申请竞赛【公告】艺术家权利保障合作项目参赛团体招募",
       "ops": {
@@ -464,7 +609,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "【公告】2026年第四季度釜山表演艺术实践空间定期申请公告",
       "ops": {
@@ -492,7 +637,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "申请大赛【招聘】2026釜山国际表演艺术市场（ BPAM ）联谊计划参赛团体大赛",
       "ops": {
@@ -520,7 +665,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "【公告】2026年青年艺术家参与国际交流（舞蹈）的招募",
       "ops": {
@@ -548,7 +693,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "【公告】2026年青年艺术家参加国际交流（舞蹈）的招募（延期）",
       "ops": {
@@ -576,7 +721,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "招聘公告（再）釜山文化基金会2026年下半年全职员工招聘公告",
       "ops": {
@@ -604,7 +749,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "活动新闻【展会】2026 CATS Sasang Endistations <B · SIDE: 도시의 B면을 그리다>",
       "ops": {
@@ -632,7 +777,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "活动新闻【招聘】釜山港建港150周年海事文化艺术教育项目",
       "ops": {
@@ -660,7 +805,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "活动新闻【展览】2026年居于创意空间的艺术家接力展独孤5美式分层季",
       "ops": {
@@ -688,7 +833,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "活动动态【活动】2026年汉城1918年开放工作室《破砖》",
       "ops": {
@@ -716,7 +861,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "活动新闻【演出】2026年CATS Sasang Indistation规划演出独立战争馆第1卷<简历>",
       "ops": {
@@ -744,7 +889,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "活动新闻【演出】2026年周六Sangseol传统民俗游乐场7号<大大浦Fury Sound, Gudeok Manga Sound, Busan Gofun Street >",
       "ops": {
@@ -772,7 +917,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "活动新闻[展览] 2026 Hong Tiat Center Artist in Residence ∑ MMM （拆分） Before 4 · Kim E · hwa “Oceanic Grammar”",
       "ops": {
@@ -800,7 +945,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "活动新闻【活动】2026釜山海上图书馆Vol.3",
       "ops": {
@@ -828,7 +973,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "活动新闻【演出】2026年周六Sangseol传统民俗游乐场第八版<东海岸Byeol Shin Goode, Gijang Ogu Goode >",
       "ops": {
@@ -856,7 +1001,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "活动新闻[招募和活动]釜山艺术家！ ！注意！ ！ 2026 Jopper Star K参与者招募（字幕： Boogie Mocking Party ）",
       "ops": {
@@ -884,7 +1029,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "公开发行说明",
       "ops": {
@@ -912,7 +1057,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "投标公告",
       "ops": {
@@ -940,7 +1085,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "招聘启事",
       "ops": {
@@ -968,7 +1113,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "公告",
       "ops": {
@@ -996,7 +1141,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "验尸官申请",
       "ops": {
@@ -1024,7 +1169,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "申请加入该计划",
       "ops": {
@@ -1052,7 +1197,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "数据堆场",
       "ops": {
@@ -1080,7 +1225,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "模板库",
       "ops": {
@@ -1108,7 +1253,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "发起人会员招募",
       "ops": {
@@ -1136,7 +1281,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "伍里街区阁楼观景廊+黑麦田",
       "ops": {
@@ -1164,7 +1309,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "【全球文化🌏】2026下关事件｜朝鲜通讯社游行Jaehyeon Highlights🎈 2026 ｜🎈",
       "ops": {
@@ -1192,37 +1337,9 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "[釜山海图书馆]我的Bookinic工具包里有什么！🧺",
-      "ops": {
-        "score": 2,
-        "hot": false,
-        "reasons": [
-          "中国直飞城市"
-        ],
-        "accessNote": "中国直飞配置：是（建议定期核验航季）",
-        "categoryVersion": 5
-      }
-    },
-    {
-      "id": "641daf9a793a",
-      "title": "[釜山海上图书馆]图书守卫选择的头号图书是什么？ 📖",
-      "titleOriginal": "[부산바다도서관] 책방지기가 뽑은 최애도서 1위는? 📖",
-      "category": "local",
-      "city": "釜山",
-      "startDate": "2026-04-04",
-      "endDate": "2026-04-04",
-      "venue": "부산문화재단 재정관리팀 입찰집행관 PC * 문 의 처 - 경영지원팀 051-745-7213 - 재정관리팀 051-745-7255 자세한 사항은",
-      "address": "부산문화재단 재정관리팀 입찰집행관 PC * 문 의 처 - 경영지원팀 051-745-7213 - 재정관리팀 051-745-7255 자세한 사항은, 釜山, South Korea",
-      "sourceName": "釜山文化财团",
-      "sourceUrl": "https://www.youtube.com/watch?v=HyVARXweYOE",
-      "sourceType": "culture",
-      "tags": [],
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-27",
-      "isNew": false,
-      "titleZh": "[釜山海上图书馆]图书守卫选择的头号图书是什么？ 📖",
       "ops": {
         "score": 2,
         "hot": false,
@@ -1248,7 +1365,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "Webzine “同理心”和“订阅” Webzine同理心和“订阅”",
       "ops": {
@@ -1276,7 +1393,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "釜山大都市办公室",
       "ops": {
@@ -1304,7 +1421,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "釜山文化中心",
       "ops": {
@@ -1332,7 +1449,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "釜山电影中心",
       "ops": {
@@ -1360,7 +1477,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "釜山美术馆",
       "ops": {
@@ -1388,7 +1505,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "韩国文化艺术委员会",
       "ops": {
@@ -1416,7 +1533,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "韩国文化艺术教育促进会",
       "ops": {
@@ -1444,7 +1561,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "CleanEye",
       "ops": {
@@ -1472,7 +1589,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "釜山南区文化基金会",
       "ops": {
@@ -1500,7 +1617,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "釜山金文化基金会",
       "ops": {
@@ -1528,7 +1645,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "金井文化基金会",
       "ops": {
@@ -1556,7 +1673,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "隐私权政策",
       "ops": {
@@ -1584,7 +1701,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "固定式视频信息处理设备运营管理策略",
       "ops": {
@@ -1612,7 +1729,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "拒绝未经授权的电子邮件收集",
       "ops": {
@@ -1640,7 +1757,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "举报违反公共利益的行为",
       "ops": {
@@ -1668,7 +1785,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "路线",
       "ops": {
@@ -1704,6 +1821,36 @@
         "hot": false,
         "reasons": [
           "持续167天"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "55001c894998",
+      "title": "「Prima the 演唱会 VII · Oh Chang Hoon」2026.04.11 ~ 2026.09.29",
+      "titleOriginal": "「Prima the Concert VII – Oh Chang Hoon」2026.04.11 ~ 2026.09.29",
+      "category": "star",
+      "city": "光州",
+      "startDate": "2026-04-11",
+      "endDate": "2026-09-29",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://dmgj.kr/event.es?mid=a10301000000&p_cate=0301&category=0301000000&act=view&seq=10055",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "「Prima the 演唱会 VII · Oh Chang Hoon」2026.04.11 ~ 2026.09.29",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "追星事件",
+          "持续172天",
+          "近期新增"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 5
@@ -1790,6 +1937,35 @@
         "reasons": [
           "大型节庆/盛典",
           "持续150天"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "fa2e1864a83c",
+      "title": "光州50年残疾人<残疾人骄傲，成为世界之光>展览2026.04.23 ~ 2026.10.02",
+      "titleOriginal": "광주 장애인 50년 <장애 프라이드, 세상의 빛이 되다> 전시2026.04.23 ~ 2026.10.02",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-04-23",
+      "endDate": "2026-10-02",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://dmgj.kr/event.es?mid=a10302000000&p_cate=0302&category=0302000000&act=view&seq=10122",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "光州50年残疾人<残疾人骄傲，成为世界之光>展览2026.04.23 ~ 2026.10.02",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "持续163天",
+          "近期新增"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 5
@@ -2190,14 +2366,13 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "2026年元旦，大宝龙假期文化活动策划2026.07.04 ~ 2026.09.27",
       "ops": {
-        "score": 2,
+        "score": 1,
         "hot": false,
         "reasons": [
-          "持续86天",
-          "近期新增"
+          "持续86天"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 5
@@ -2465,6 +2640,36 @@
           "主流票务平台"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "f0fe8ed603bb",
+      "title": "2026年艺术音乐会和感官勺子时间表2026年8月1日 · 2026年10月10日",
+      "titleOriginal": "2026 아트콘서트&오감한스푼 일정2026.08.01 ~ 2026.10.10",
+      "category": "star",
+      "city": "光州",
+      "startDate": "2026-08-01",
+      "endDate": "2026-10-10",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://dmgj.kr/event.es?mid=a10301000000&p_cate=0301&category=0301000000&act=view&seq=8774",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "2026年艺术音乐会和感官勺子时间表2026年8月1日 · 2026年10月10日",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "追星事件",
+          "持续71天",
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 5
       }
     },
@@ -4156,7 +4361,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "国家遗产学院“桌面上的未来，关于K · Food的一切” 2026.08.19 ~ 2026.11.30",
       "ops": {
@@ -4270,7 +4475,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-17",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "2026第二届展览会儿童赏析计划2026.08.21~2026.11.30",
       "ops": {
@@ -4755,7 +4960,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "釜山Otoniel展览会08/28/2026 ~ 12/31/2026F1963石川厅",
       "ops": {
@@ -4852,6 +5057,35 @@
         "reasons": [
           "持续95天",
           "旅行场景强"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "1a81b095480a",
+      "title": "ACC亚洲艺术体验 · 亚洲工艺品2026年8月28日 · 2026年12月2日",
+      "titleOriginal": "ACC 아시아 예술체험 – 아시아 공예2026.08.28 ~ 2026.12.02",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-08-28",
+      "endDate": "2026-12-02",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://dmgj.kr/event.es?mid=a10304000000&p_cate=0304&category=0304000000&act=view&seq=9581",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "ACC亚洲艺术体验 · 亚洲工艺品2026年8月28日 · 2026年12月2日",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "持续97天",
+          "近期新增"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 5
@@ -5625,14 +5859,13 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "K博物馆区域之旅，拓展抽象艺术的⟪边界：点、线、棉和颜色2026年9月1日至2026年⟫10月31日",
       "ops": {
-        "score": 2,
+        "score": 1,
         "hot": false,
         "reasons": [
-          "持续61天",
-          "近期新增"
+          "持续61天"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 5
@@ -5880,7 +6113,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "K博物馆区域之旅，拓展抽象艺术的⟪边界：点、线、棉和颜色2026年9月4日至2026年⟫10月31日",
       "ops": {
@@ -5938,7 +6171,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "第16届光州双年展“你必须改变你的生活” 2026.09.05~2026.11.15",
       "ops": {
@@ -5967,7 +6200,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "【李江河美术馆】第16届光州双年展加拿大馆Sgannagowa Thistle?您是否拥有巨大的和平？ 2026年9月5日 · 2026年11月15日",
       "ops": {
@@ -5996,7 +6229,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "第十六届光州双年展蒙古馆长久记忆与遥远未来：共同记忆与现代挑战2026/05/09 · 2026/11/15",
       "ops": {
@@ -6025,7 +6258,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "第十六届光州双年展台湾馆实例地牢：灰色地带2026.09.05~2026.11.15",
       "ops": {
@@ -6054,7 +6287,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "第16届光州双年展赌场卢森堡馆螳螂之日2026.09.05 ~ 2026.11.15",
       "ops": {
@@ -6083,7 +6316,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-21",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "2026光州双年展学院公民参与之旅计划“城市记忆的变化” 2026年9月5日 · 2026年11月15日",
       "ops": {
@@ -6197,7 +6430,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-17",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "百根广场街头美食节2026年9月5日至2026年11月28日",
       "ops": {
@@ -6369,15 +6602,14 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "【李江河美术馆】第16届光州双年展加拿大馆Sgannagowa Thistle?您是否拥有巨大的和平？ 2026年9月9日 · 2026年11月15日",
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "大型节庆/盛典",
-          "持续68天",
-          "近期新增"
+          "持续68天"
         ],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 5
@@ -7751,7 +7983,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "Vium博物馆2026年秋季展2026.09.10~2026.11.17",
       "ops": {
@@ -7779,7 +8011,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "大厅规划表演盛大舞台“走进新世界”",
       "ops": {
@@ -7805,7 +8037,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "(点击预览)",
       "ops": {
@@ -7831,7 +8063,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "预订",
       "ops": {
@@ -7862,7 +8094,7 @@
         "国际盛典"
       ],
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "verified": true,
       "verifiedAt": "2026-09-09",
@@ -9170,7 +9402,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-17",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "2026.09.12 ~ 2026.11.14居民与村民通过艺术“乡村艺术中心”交流的表演场地项目",
       "ops": {
@@ -12053,7 +12285,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "2026爱情 · 印度文化节2026 · 09 · 16 ~ 2026 · 09 · 16",
       "ops": {
@@ -14110,7 +14342,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "(点击预览)",
       "ops": {
@@ -14136,7 +14368,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "预订",
       "ops": {
@@ -14526,7 +14758,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "11点音乐漫步短剧《都柏林人中的伊芙琳》（ Evelyn ）",
       "ops": {
@@ -15078,7 +15310,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "放大屏幕",
       "ops": {
@@ -15106,7 +15338,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "重置",
       "ops": {
@@ -15134,7 +15366,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "缩小屏幕",
       "ops": {
@@ -15162,7 +15394,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "注册",
       "ops": {
@@ -15190,7 +15422,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "关于该机构",
       "ops": {
@@ -15218,7 +15450,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "提醒·加入",
       "ops": {
@@ -15246,7 +15478,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "运营业务",
       "ops": {
@@ -15274,7 +15506,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "营业空间",
       "ops": {
@@ -15302,7 +15534,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "表演/展览/观光",
       "ops": {
@@ -15330,7 +15562,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "披露",
       "ops": {
@@ -15358,7 +15590,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "更多公告/公开发行",
       "ops": {
@@ -15386,7 +15618,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "更多新闻稿",
       "ops": {
@@ -15414,7 +15646,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "更多一般性公告",
       "ops": {
@@ -15442,7 +15674,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "大邱之旅之路",
       "ops": {
@@ -15470,7 +15702,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "大邱旅游B2B信息交流网站",
       "ops": {
@@ -15498,7 +15730,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "大邱旅游SNS频道",
       "ops": {
@@ -15526,7 +15758,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "隐私权政策",
       "ops": {
@@ -15554,7 +15786,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "视频信息处理设备运营管理政策",
       "ops": {
@@ -15582,7 +15814,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "拒绝未经授权的电子邮件收集",
       "ops": {
@@ -15610,7 +15842,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "路线",
       "ops": {
@@ -15923,7 +16155,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "2026市民秋节2026 · 09 · 19 ~ 2026 · 11 · 14",
       "ops": {
@@ -19284,7 +19516,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "釜山七桥骑行之旅2026 · 09 · 20 ~ 2026 · 09 · 20",
       "ops": {
@@ -19960,7 +20192,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "2026年，孩子们在市立芭蕾舞团表演《胡桃夹子》……",
       "ops": {
@@ -19986,7 +20218,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "09.10城市剧团《哈姆雷特》第27届例行演出的试镜候选人公告",
       "ops": {
@@ -20012,7 +20244,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "09.04关于更正2026年市立芭蕾舞团“胡桃夹子”招募儿童表演的公告",
       "ops": {
@@ -20038,7 +20270,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "09.04关于招募儿童参加2026年市立芭蕾舞团“胡桃夹子”表演的公告",
       "ops": {
@@ -20064,7 +20296,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "09.02城市剧团《哈姆雷特》第二十七届例行演出试镜公告",
       "ops": {
@@ -20090,7 +20322,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "09.01 2027年上半年全南光州综合特色城市艺术中心……",
       "ops": {
@@ -20116,7 +20348,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "绩效时间表",
       "ops": {
@@ -20150,6 +20382,35 @@
         "hot": false,
         "reasons": [],
         "accessNote": "默认按釜山接驳，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "6dd0ff32a1d7",
+      "title": "第8届表演艺术节GRAZE ×户外音乐会Sohyang & Son Seung · yeon",
+      "titleOriginal": "제8회 공연예술축제 그라제 × 야외 콘서트 소향 & 손승연",
+      "category": "star",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0101&boper=view&bnum=10205",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "第8届表演艺术节GRAZE ×户外音乐会Sohyang & Son Seung · yeon",
+      "ops": {
+        "score": 3,
+        "hot": false,
+        "reasons": [
+          "追星事件",
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 5
       }
     },
@@ -20208,6 +20469,1098 @@
           "持续9天"
         ],
         "accessNote": "默认按釜山接驳，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "0659e19b5294",
+      "title": "绩效指南",
+      "titleOriginal": "공연안내",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "绩效指南",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "5a5c72ef094b",
+      "title": "预订/会员资格",
+      "titleOriginal": "예매/회원",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "预订/会员资格",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "c30174892f1d",
+      "title": "给副总裁的指导",
+      "titleOriginal": "대관안내",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "给副总裁的指导",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "96823f1023ef",
+      "title": "艺术团信息",
+      "titleOriginal": "예술단정보",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "艺术团信息",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "b54887ff8d9e",
+      "title": "通知堆场",
+      "titleOriginal": "알림마당",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "通知堆场",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "51e1207f4c8a",
+      "title": "关于大厅",
+      "titleOriginal": "전당소개",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "关于大厅",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "90652bc5bf44",
+      "title": "文化和艺术课",
+      "titleOriginal": "문화예술교실",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/onedu/cmd.do",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "文化和艺术课",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "b3bf1a616554",
+      "title": "注册",
+      "titleOriginal": "회원가입",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=pg_regist",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "注册",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "7e18644330a3",
+      "title": "第八届表演艺术节牧草×城市芭蕾舞团解说“堂吉诃德亮点”",
+      "titleOriginal": "제8회 공연예술축제 그라제×시립발레단 해설이 있는 발레 '돈키호테 하이라이트'",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0101&boper=view&bnum=10190",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "第八届表演艺术节牧草×城市芭蕾舞团解说“堂吉诃德亮点”",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "1065c2819110",
+      "title": "第八届表演艺术节GRAZE ×普罗旺斯萨克斯合奏“秋天的萨克斯”",
+      "titleOriginal": "제8회 공연예술축제 그라제×프로방스 색소폰 앙상블 '가을엔 색소폰'",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0101&boper=view&bnum=10200",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "第八届表演艺术节GRAZE ×普罗旺斯萨克斯合奏“秋天的萨克斯”",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "354a3551d638",
+      "title": "第八届表演艺术节放牧音乐剧《雨中的爱情游乐设施》",
+      "titleOriginal": "제8회 공연예술축제 그라제 뮤지컬 <사랑은 비를 타고>",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0101&boper=view&bnum=10173",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "第八届表演艺术节放牧音乐剧《雨中的爱情游乐设施》",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "9847a775a131",
+      "title": "第八届表演艺术节GRAZE ×市立国家交响乐团“抽象”",
+      "titleOriginal": "제8회 공연예술축제 그라제×시립국악관현악단 '추상(秋想)'",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0101&boper=view&bnum=10172",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "第八届表演艺术节GRAZE ×市立国家交响乐团“抽象”",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "f499f882ee2a",
+      "title": "第八届表演艺术节GRAZE ×市男童女童合唱团《今日， GRAZE也一同歌唱》",
+      "titleOriginal": "제8회 공연예술축제 그라제×시립소년소녀합창단 '오늘도 그라제 함께 노래하제'",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0101&boper=view&bnum=10191",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "第八届表演艺术节GRAZE ×市男童女童合唱团《今日， GRAZE也一同歌唱》",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "40491f0a1bdf",
+      "title": "埃尔加的哀悼，德沃夏克的激情与浪漫和谐相交",
+      "titleOriginal": "엘가의 애수, 드보르작의 열정이 교차하는 로맨틱 하모니",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0101&boper=view&bnum=10123",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "埃尔加的哀悼，德沃夏克的激情与浪漫和谐相交",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "6cbf1362c31e",
+      "title": "第八届表演艺术节GRAZE ×市立歌剧院“趣味歌剧之旅+解说”",
+      "titleOriginal": "제8회 공연예술축제 그라제×시립오페라단 '해설이 있는 즐거운 오페라 여행'",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0101&boper=view&bnum=10176",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "第八届表演艺术节GRAZE ×市立歌剧院“趣味歌剧之旅+解说”",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "a71f34c6f14f",
+      "title": "第8届表演艺术节放牧×与臭氧和Sosubin一起",
+      "titleOriginal": "제8회 공연예술축제 그라제 × with 오존&소수빈",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0101&boper=view&bnum=10204",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "第8届表演艺术节放牧×与臭氧和Sosubin一起",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "f0740b60afe6",
+      "title": "第8届表演艺术节GRAZE ×儿童DJ “Boom Boom Show”和Bubble Magic Show",
+      "titleOriginal": "제8회 공연예술축제 그라제×키즈 디제잉 '붐붐쇼' & 버블 매직쇼",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0101&boper=view&bnum=10201",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "第8届表演艺术节GRAZE ×儿童DJ “Boom Boom Show”和Bubble Magic Show",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "ca09ef2f47e9",
+      "title": "第八届表演艺术节放牧“Uncle Youngver × Swan Lake”",
+      "titleOriginal": "제8회 공연예술축제 그라제 '엉클영버×백조의 호수'",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0101&boper=view&bnum=10177",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "第八届表演艺术节放牧“Uncle Youngver × Swan Lake”",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "b90cfcb34254",
+      "title": "第8届“Graje”表演艺术节",
+      "titleOriginal": "제8회 공연예술축제 '그라제'",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0101&boper=view&bnum=10150",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "第8届“Graje”表演艺术节",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "931a547c8c21",
+      "title": "全南光州综合特种市立交响乐团室内乐系列6 “三重奏： Pathétique”",
+      "titleOriginal": "전남광주통합특별시립교향악단 체임버 시리즈Ⅵ 'Trio : Pathétique'",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0101&boper=view&bnum=10184",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "全南光州综合特种市立交响乐团室内乐系列6 “三重奏： Pathétique”",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "9f85b6ce89ff",
+      "title": "大厅规划表演盛大舞台“走进新世界”",
+      "titleOriginal": "전당 기획공연 그랜드스테이지 'Into the New World'",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0101&boper=view&bnum=10194",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "大厅规划表演盛大舞台“走进新世界”",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "0791f9d40e96",
+      "title": "光州市合唱团第205次订听音乐会《秋西井Ⅱ》",
+      "titleOriginal": "광주시립합창단 205회 정기연주회 '가을의 서정 Ⅱ'",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0101&boper=view&bnum=10228",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "光州市合唱团第205次订听音乐会《秋西井Ⅱ》",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "c5dfa4f83611",
+      "title": "11点音乐漫步短剧《都柏林人中的伊芙琳》（ Evelyn ）",
+      "titleOriginal": "기획공연 11시 음악산책 단편선 시리즈 Ⅵ 더블린 사람들 中 '에블린'",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0101&boper=view&bnum=10188",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "11点音乐漫步短剧《都柏林人中的伊芙琳》（ Evelyn ）",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "4394206bc60f",
+      "title": "全南光州特别市立交响乐团第411次订演音乐会《北欧回声》",
+      "titleOriginal": "전남광주통합특별시립교향악단 411회 정기연주회 'Nordic Echo'",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0101&boper=view&bnum=10227",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "全南光州特别市立交响乐团第411次订演音乐会《北欧回声》",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "ee2790eedeb9",
+      "title": "Kukkwan 151st",
+      "titleOriginal": "국관 제151회",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0101&boper=view&bnum=10218",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "Kukkwan 151st",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "302669c36348",
+      "title": "来自韩国9个地区的60位来自日本、台湾、泰国、马来西亚和英国的艺术家参加的国际印刷品交流展",
+      "titleOriginal": "국내 9개 지역과 일본·대만·태국·말레이시아·영국 작가 등 60명이 참여하는 국제판화교류 전시",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0104&boper=view&bnum=10242",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "来自韩国9个地区的60位来自日本、台湾、泰国、马来西亚和英国的艺术家参加的国际印刷品交流展",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "16e82e4af499",
+      "title": "完整日程安排",
+      "titleOriginal": "전체일정",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0101&tab=2",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "完整日程安排",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "9d89f3127d3a",
+      "title": "付费会员",
+      "titleOriginal": "유료회원",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0205",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "付费会员",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "cc5c0ec38ba1",
+      "title": "绩效时间表",
+      "titleOriginal": "공연일정",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0101",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "绩效时间表",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "862ffc0d0e25",
+      "title": "座位布置图",
+      "titleOriginal": "좌석배치도",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0106",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "座位布置图",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "53d3b0c84894",
+      "title": "路线",
+      "titleOriginal": "찾아오시는길",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0706",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "路线",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "7b86ad7fd729",
+      "title": "交响乐团",
+      "titleOriginal": "교향악단",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p05011",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "交响乐团",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "95819c71c393",
+      "title": "Gugak Orchestra",
+      "titleOriginal": "국악관현악단",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p05041",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "Gugak Orchestra",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "ae16228bf331",
+      "title": "男童和女童合唱团",
+      "titleOriginal": "소년소녀합창단",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p05061",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "男童和女童合唱团",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "66c2e17d65f6",
+      "title": "Opera Company",
+      "titleOriginal": "오페라단",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p05081",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "Opera Company",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "1f2df03d643c",
+      "title": "视频信息处理运营政策",
+      "titleOriginal": "영상정보처리운영방침",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=pg_com06",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "视频信息处理运营政策",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "d86bc98c4325",
+      "title": "行政服务章程",
+      "titleOriginal": "행정서비스헌장",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0703",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "行政服务章程",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "d2c65b224739",
+      "title": "使用条款",
+      "titleOriginal": "이용약관",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=pg_com05",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "使用条款",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "1b996648cb2e",
+      "title": "拒绝收集电子邮件地址",
+      "titleOriginal": "이메일주소수집거부",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=pg_com04",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "拒绝收集电子邮件地址",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 5
       }
     },
@@ -21581,12 +22934,12 @@
       "endDate": "2026-09-21",
       "venue": "",
       "address": "光州, South Korea",
-      "sourceName": "光州旅游",
-      "sourceUrl": "https://www.gwangju.go.kr/contentsView.do?pageId=www817",
-      "sourceType": "tour",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=pg_com02",
+      "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-09-21",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "隐私权政策",
       "ops": {
@@ -21607,12 +22960,12 @@
       "endDate": "2026-09-21",
       "venue": "",
       "address": "光州, South Korea",
-      "sourceName": "光州旅游",
-      "sourceUrl": "https://www.gwangju.go.kr/contentsView.do?pageId=www818",
-      "sourceType": "tour",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=pg_com03",
+      "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-09-21",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "版权保护政策",
       "ops": {
@@ -21638,7 +22991,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "全南光州综合特别市立芭蕾舞团第143届定期演出< La Sylphide >",
       "ops": {
@@ -21664,7 +23017,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "(点击预览)",
       "ops": {
@@ -21690,7 +23043,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "预订",
       "ops": {
@@ -22061,7 +23414,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "查看更多",
       "ops": {
@@ -22663,586 +24016,6 @@
       }
     },
     {
-      "id": "1b7ea5e2b8a1",
-      "title": "忠北文化基金会",
-      "titleOriginal": "충북문화재단",
-      "category": "local",
-      "city": "清州",
-      "startDate": "2026-09-23",
-      "endDate": "2026-09-23",
-      "venue": "",
-      "address": "清州, South Korea",
-      "sourceName": "忠北文化财团（清州）",
-      "sourceUrl": "https://www.cbfc.or.kr/home/main.php",
-      "sourceType": "culture",
-      "tags": [],
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-27",
-      "isNew": true,
-      "titleZh": "忠北文化基金会",
-      "ops": {
-        "score": 3,
-        "hot": false,
-        "reasons": [
-          "中国直飞城市",
-          "近期新增"
-        ],
-        "accessNote": "中国直飞配置：是（建议定期核验航季）",
-        "categoryVersion": 5
-      }
-    },
-    {
-      "id": "f8b628c34f80",
-      "title": "艺术团契",
-      "titleOriginal": "예술동호회",
-      "category": "local",
-      "city": "清州",
-      "startDate": "2026-09-23",
-      "endDate": "2026-09-23",
-      "venue": "",
-      "address": "清州, South Korea",
-      "sourceName": "忠北文化财团（清州）",
-      "sourceUrl": "https://www.cbfc.or.kr/fcal",
-      "sourceType": "culture",
-      "tags": [],
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-27",
-      "isNew": true,
-      "titleZh": "艺术团契",
-      "ops": {
-        "score": 3,
-        "hot": false,
-        "reasons": [
-          "中国直飞城市",
-          "近期新增"
-        ],
-        "accessNote": "中国直飞配置：是（建议定期核验航季）",
-        "categoryVersion": 5
-      }
-    },
-    {
-      "id": "ddd2a766fc31",
-      "title": "忠北画廊",
-      "titleOriginal": "충북갤러리",
-      "category": "local",
-      "city": "清州",
-      "startDate": "2026-09-23",
-      "endDate": "2026-09-23",
-      "venue": "",
-      "address": "清州, South Korea",
-      "sourceName": "忠北文化财团（清州）",
-      "sourceUrl": "https://www.cbartgallery.com/",
-      "sourceType": "culture",
-      "tags": [],
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-27",
-      "isNew": true,
-      "titleZh": "忠北画廊",
-      "ops": {
-        "score": 3,
-        "hot": false,
-        "reasons": [
-          "中国直飞城市",
-          "近期新增"
-        ],
-        "accessNote": "中国直飞配置：是（建议定期核验航季）",
-        "categoryVersion": 5
-      }
-    },
-    {
-      "id": "6cf538d6bb3d",
-      "title": "Chungbuk Gallery清州Oskokan",
-      "titleOriginal": "충북갤러리청주오스코관",
-      "category": "local",
-      "city": "清州",
-      "startDate": "2026-09-23",
-      "endDate": "2026-09-23",
-      "venue": "",
-      "address": "清州, South Korea",
-      "sourceName": "忠北文化财团（清州）",
-      "sourceUrl": "https://www.cbartgallery-osco.com/cbart-osco/index.do",
-      "sourceType": "culture",
-      "tags": [],
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-27",
-      "isNew": true,
-      "titleZh": "Chungbuk Gallery清州Oskokan",
-      "ops": {
-        "score": 3,
-        "hot": false,
-        "reasons": [
-          "中国直飞城市",
-          "近期新增"
-        ],
-        "accessNote": "中国直飞配置：是（建议定期核验航季）",
-        "categoryVersion": 5
-      }
-    },
-    {
-      "id": "003eac97a978",
-      "title": "文化消费365",
-      "titleOriginal": "문화소비365",
-      "category": "local",
-      "city": "清州",
-      "startDate": "2026-09-23",
-      "endDate": "2026-09-23",
-      "venue": "",
-      "address": "清州, South Korea",
-      "sourceName": "忠北文化财团（清州）",
-      "sourceUrl": "http://www.mhsb365.or.kr/",
-      "sourceType": "culture",
-      "tags": [],
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-27",
-      "isNew": true,
-      "titleZh": "文化消费365",
-      "ops": {
-        "score": 3,
-        "hot": false,
-        "reasons": [
-          "中国直飞城市",
-          "近期新增"
-        ],
-        "accessNote": "中国直飞配置：是（建议定期核验航季）",
-        "categoryVersion": 5
-      }
-    },
-    {
-      "id": "73cd3fa5a917",
-      "title": "忠清北道省立剧院",
-      "titleOriginal": "충북도립극단",
-      "category": "local",
-      "city": "清州",
-      "startDate": "2026-09-23",
-      "endDate": "2026-09-23",
-      "venue": "",
-      "address": "清州, South Korea",
-      "sourceName": "忠北文化财团（清州）",
-      "sourceUrl": "https://www.cbfc.or.kr/cbto",
-      "sourceType": "culture",
-      "tags": [],
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-27",
-      "isNew": true,
-      "titleZh": "忠清北道省立剧院",
-      "ops": {
-        "score": 3,
-        "hot": false,
-        "reasons": [
-          "中国直飞城市",
-          "近期新增"
-        ],
-        "accessNote": "中国直飞配置：是（建议定期核验航季）",
-        "categoryVersion": 5
-      }
-    },
-    {
-      "id": "13f270d8e6db",
-      "title": "旅游部",
-      "titleOriginal": "관광사업본부",
-      "category": "local",
-      "city": "清州",
-      "startDate": "2026-09-23",
-      "endDate": "2026-09-23",
-      "venue": "",
-      "address": "清州, South Korea",
-      "sourceName": "忠北文化财团（清州）",
-      "sourceUrl": "https://www.cbtour.or.kr/",
-      "sourceType": "culture",
-      "tags": [],
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-27",
-      "isNew": true,
-      "titleZh": "旅游部",
-      "ops": {
-        "score": 3,
-        "hot": false,
-        "reasons": [
-          "中国直飞城市",
-          "近期新增"
-        ],
-        "accessNote": "中国直飞配置：是（建议定期核验航季）",
-        "categoryVersion": 5
-      }
-    },
-    {
-      "id": "55caa1e7a6a8",
-      "title": "打开搜索",
-      "titleOriginal": "검색열기",
-      "category": "local",
-      "city": "清州",
-      "startDate": "2026-09-23",
-      "endDate": "2026-09-23",
-      "venue": "",
-      "address": "清州, South Korea",
-      "sourceName": "忠北文化财团（清州）",
-      "sourceUrl": "https://www.cbfc.or.kr/home/main.php#",
-      "sourceType": "culture",
-      "tags": [],
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-27",
-      "isNew": true,
-      "titleZh": "打开搜索",
-      "ops": {
-        "score": 3,
-        "hot": false,
-        "reasons": [
-          "中国直飞城市",
-          "近期新增"
-        ],
-        "accessNote": "中国直飞配置：是（建议定期核验航季）",
-        "categoryVersion": 5
-      }
-    },
-    {
-      "id": "ff92b072ff7a",
-      "title": "注册",
-      "titleOriginal": "회원가입",
-      "category": "local",
-      "city": "清州",
-      "startDate": "2026-09-23",
-      "endDate": "2026-09-23",
-      "venue": "",
-      "address": "清州, South Korea",
-      "sourceName": "忠北文化财团（清州）",
-      "sourceUrl": "https://www.cbfc.or.kr/home/sub.php?menukey=6583",
-      "sourceType": "culture",
-      "tags": [],
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-27",
-      "isNew": true,
-      "titleZh": "注册",
-      "ops": {
-        "score": 3,
-        "hot": false,
-        "reasons": [
-          "中国直飞城市",
-          "近期新增"
-        ],
-        "accessNote": "中国直飞配置：是（建议定期核验航季）",
-        "categoryVersion": 5
-      }
-    },
-    {
-      "id": "b7da6acdd0a4",
-      "title": "網站地圖",
-      "titleOriginal": "사이트맵",
-      "category": "local",
-      "city": "清州",
-      "startDate": "2026-09-23",
-      "endDate": "2026-09-23",
-      "venue": "",
-      "address": "清州, South Korea",
-      "sourceName": "忠北文化财团（清州）",
-      "sourceUrl": "https://www.cbfc.or.kr/home/sub.php?menukey=6568",
-      "sourceType": "culture",
-      "tags": [],
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-27",
-      "isNew": true,
-      "titleZh": "網站地圖",
-      "ops": {
-        "score": 3,
-        "hot": false,
-        "reasons": [
-          "中国直飞城市",
-          "近期新增"
-        ],
-        "accessNote": "中国直飞配置：是（建议定期核验航季）",
-        "categoryVersion": 5
-      }
-    },
-    {
-      "id": "35e984c7e6d6",
-      "title": "基金会新闻",
-      "titleOriginal": "재단소식",
-      "category": "local",
-      "city": "清州",
-      "startDate": "2026-09-23",
-      "endDate": "2026-09-23",
-      "venue": "",
-      "address": "清州, South Korea",
-      "sourceName": "忠北文化财团（清州）",
-      "sourceUrl": "https://www.cbfc.or.kr/home/sub.php?menukey=6430",
-      "sourceType": "culture",
-      "tags": [],
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-27",
-      "isNew": true,
-      "titleZh": "基金会新闻",
-      "ops": {
-        "score": 3,
-        "hot": false,
-        "reasons": [
-          "中国直飞城市",
-          "近期新增"
-        ],
-        "accessNote": "中国直飞配置：是（建议定期核验航季）",
-        "categoryVersion": 5
-      }
-    },
-    {
-      "id": "2f1eb69dba76",
-      "title": "业务信息",
-      "titleOriginal": "사업안내",
-      "category": "local",
-      "city": "清州",
-      "startDate": "2026-09-23",
-      "endDate": "2026-09-23",
-      "venue": "",
-      "address": "清州, South Korea",
-      "sourceName": "忠北文化财团（清州）",
-      "sourceUrl": "https://www.cbfc.or.kr/home/sub.php?menukey=6735",
-      "sourceType": "culture",
-      "tags": [],
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-27",
-      "isNew": true,
-      "titleZh": "业务信息",
-      "ops": {
-        "score": 3,
-        "hot": false,
-        "reasons": [
-          "中国直飞城市",
-          "近期新增"
-        ],
-        "accessNote": "中国直飞配置：是（建议定期核验航季）",
-        "categoryVersion": 5
-      }
-    },
-    {
-      "id": "401a008cf31e",
-      "title": "串通支持",
-      "titleOriginal": "공모지원",
-      "category": "local",
-      "city": "清州",
-      "startDate": "2026-09-23",
-      "endDate": "2026-09-23",
-      "venue": "",
-      "address": "清州, South Korea",
-      "sourceName": "忠北文化财团（清州）",
-      "sourceUrl": "https://www.cbfc.or.kr/home/sub.php?menukey=6670",
-      "sourceType": "culture",
-      "tags": [],
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-27",
-      "isNew": true,
-      "titleZh": "串通支持",
-      "ops": {
-        "score": 3,
-        "hot": false,
-        "reasons": [
-          "中国直飞城市",
-          "近期新增"
-        ],
-        "accessNote": "中国直飞配置：是（建议定期核验航季）",
-        "categoryVersion": 5
-      }
-    },
-    {
-      "id": "6457ee31a745",
-      "title": "文化新闻",
-      "titleOriginal": "문화소식",
-      "category": "local",
-      "city": "清州",
-      "startDate": "2026-09-23",
-      "endDate": "2026-09-23",
-      "venue": "",
-      "address": "清州, South Korea",
-      "sourceName": "忠北文化财团（清州）",
-      "sourceUrl": "https://www.cbfc.or.kr/home/sub.php?menukey=6445",
-      "sourceType": "culture",
-      "tags": [],
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-27",
-      "isNew": true,
-      "titleZh": "文化新闻",
-      "ops": {
-        "score": 3,
-        "hot": false,
-        "reasons": [
-          "中国直飞城市",
-          "近期新增"
-        ],
-        "accessNote": "中国直飞配置：是（建议定期核验航季）",
-        "categoryVersion": 5
-      }
-    },
-    {
-      "id": "060dfce79868",
-      "title": "社区",
-      "titleOriginal": "커뮤니티",
-      "category": "local",
-      "city": "清州",
-      "startDate": "2026-09-23",
-      "endDate": "2026-09-23",
-      "venue": "",
-      "address": "清州, South Korea",
-      "sourceName": "忠北文化财团（清州）",
-      "sourceUrl": "https://www.cbfc.or.kr/home/sub.php?menukey=6450",
-      "sourceType": "culture",
-      "tags": [],
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-27",
-      "isNew": true,
-      "titleZh": "社区",
-      "ops": {
-        "score": 3,
-        "hot": false,
-        "reasons": [
-          "中国直飞城市",
-          "近期新增"
-        ],
-        "accessNote": "中国直飞配置：是（建议定期核验航季）",
-        "categoryVersion": 5
-      }
-    },
-    {
-      "id": "4ba6f833d94b",
-      "title": "关于基金会",
-      "titleOriginal": "재단소개",
-      "category": "local",
-      "city": "清州",
-      "startDate": "2026-09-23",
-      "endDate": "2026-09-23",
-      "venue": "",
-      "address": "清州, South Korea",
-      "sourceName": "忠北文化财团（清州）",
-      "sourceUrl": "https://www.cbfc.or.kr/home/sub.php?menukey=6463",
-      "sourceType": "culture",
-      "tags": [],
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-27",
-      "isNew": true,
-      "titleZh": "关于基金会",
-      "ops": {
-        "score": 3,
-        "hot": false,
-        "reasons": [
-          "中国直飞城市",
-          "近期新增"
-        ],
-        "accessNote": "中国直飞配置：是（建议定期核验航季）",
-        "categoryVersion": 5
-      }
-    },
-    {
-      "id": "554f55cc6ace",
-      "title": "关于房源",
-      "titleOriginal": "공간소개",
-      "category": "local",
-      "city": "清州",
-      "startDate": "2026-09-23",
-      "endDate": "2026-09-23",
-      "venue": "",
-      "address": "清州, South Korea",
-      "sourceName": "忠北文化财团（清州）",
-      "sourceUrl": "https://www.cbfc.or.kr/home/sub.php?menukey=6475",
-      "sourceType": "culture",
-      "tags": [],
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-27",
-      "isNew": true,
-      "titleZh": "关于房源",
-      "ops": {
-        "score": 3,
-        "hot": false,
-        "reasons": [
-          "中国直飞城市",
-          "近期新增"
-        ],
-        "accessNote": "中国直飞配置：是（建议定期核验航季）",
-        "categoryVersion": 5
-      }
-    },
-    {
-      "id": "038bb0b4f519",
-      "title": "转到网站",
-      "titleOriginal": "사이트바로가기",
-      "category": "local",
-      "city": "清州",
-      "startDate": "2026-09-23",
-      "endDate": "2026-09-23",
-      "venue": "",
-      "address": "清州, South Korea",
-      "sourceName": "忠北文化财团（清州）",
-      "sourceUrl": "https://www.cbfc.or.kr/home/main.php#",
-      "sourceType": "culture",
-      "tags": [],
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-27",
-      "isNew": true,
-      "titleZh": "转到网站",
-      "ops": {
-        "score": 3,
-        "hot": false,
-        "reasons": [
-          "中国直飞城市",
-          "近期新增"
-        ],
-        "accessNote": "中国直飞配置：是（建议定期核验航季）",
-        "categoryVersion": 5
-      }
-    },
-    {
-      "id": "3472a7055ebb",
-      "title": "忠北文化中心",
-      "titleOriginal": "충북문화관",
-      "category": "local",
-      "city": "清州",
-      "startDate": "2026-09-23",
-      "endDate": "2026-09-23",
-      "venue": "",
-      "address": "清州, South Korea",
-      "sourceName": "忠北文化财团（清州）",
-      "sourceUrl": "https://www.cbfc.or.kr/cc",
-      "sourceType": "culture",
-      "tags": [],
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-27",
-      "isNew": true,
-      "titleZh": "忠北文化中心",
-      "ops": {
-        "score": 3,
-        "hot": false,
-        "reasons": [
-          "中国直飞城市",
-          "近期新增"
-        ],
-        "accessNote": "中国直飞配置：是（建议定期核验航季）",
-        "categoryVersion": 5
-      }
-    },
-    {
-      "id": "59535912f323",
-      "title": "查看相关横幅",
-      "titleOriginal": "관련배너 보기",
-      "category": "local",
-      "city": "清州",
-      "startDate": "2026-09-23",
-      "endDate": "2026-09-23",
-      "venue": "",
-      "address": "清州, South Korea",
-      "sourceName": "忠北文化财团（清州）",
-      "sourceUrl": "https://www.cbfc.or.kr/home/sub.php?menukey=6624",
-      "sourceType": "culture",
-      "tags": [],
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-27",
-      "isNew": true,
-      "titleZh": "查看相关横幅",
-      "ops": {
-        "score": 3,
-        "hot": false,
-        "reasons": [
-          "中国直飞城市",
-          "近期新增"
-        ],
-        "accessNote": "中国直飞配置：是（建议定期核验航季）",
-        "categoryVersion": 5
-      }
-    },
-    {
       "id": "b526d20a215f",
       "title": "当地文化有机联系和交流，振兴当地文化",
       "titleOriginal": "지역문화 지역 문화 활성화를 위한유기적 연결 및 교류 활성화 지역문화",
@@ -23257,7 +24030,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "当地文化有机联系和交流，振兴当地文化",
       "ops": {
@@ -23285,7 +24058,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "艺术支持通过扩展艺术支持建立稳定和可持续的文化环境艺术支持",
       "ops": {
@@ -23313,7 +24086,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "文化艺术教育合作文化艺术教育体系建设强化居民文化平台功能居民文化艺术教育",
       "ops": {
@@ -23341,7 +24114,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "内容产业支撑京南内容产业生态系统拓展内容产业支撑",
       "ops": {
@@ -23369,7 +24142,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "流行文化产业庆南式流行文化产业强化竞争力流行文化产业支撑",
       "ops": {
@@ -23397,7 +24170,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "构建内容增长系统，将下一代内容的创建、启动和商业化有机地联系起来",
       "ops": {
@@ -23425,7 +24198,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "游戏产业游戏和电子竞技产业游戏公司的振兴和发展游戏产业",
       "ops": {
@@ -23453,7 +24226,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "管理规划可持续管理管理规划",
       "ops": {
@@ -23481,7 +24254,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "查看更多",
       "ops": {
@@ -23509,7 +24282,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "庆南文化艺术促进学院， “当地共存和文化节”特别奖……",
       "ops": {
@@ -23537,7 +24310,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "推广机构的设施申请",
       "ops": {
@@ -23565,9 +24338,569 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "Happy Gyeongnam小额捐款筹款申请",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "1b7ea5e2b8a1",
+      "title": "忠北文化基金会",
+      "titleOriginal": "충북문화재단",
+      "category": "local",
+      "city": "清州",
+      "startDate": "2026-09-23",
+      "endDate": "2026-09-23",
+      "venue": "",
+      "address": "清州, South Korea",
+      "sourceName": "忠北文化财团（清州）",
+      "sourceUrl": "https://www.cbfc.or.kr/home/main.php",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27",
+      "isNew": false,
+      "titleZh": "忠北文化基金会",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "f8b628c34f80",
+      "title": "艺术团契",
+      "titleOriginal": "예술동호회",
+      "category": "local",
+      "city": "清州",
+      "startDate": "2026-09-23",
+      "endDate": "2026-09-23",
+      "venue": "",
+      "address": "清州, South Korea",
+      "sourceName": "忠北文化财团（清州）",
+      "sourceUrl": "https://www.cbfc.or.kr/fcal",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27",
+      "isNew": false,
+      "titleZh": "艺术团契",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "ddd2a766fc31",
+      "title": "忠北画廊",
+      "titleOriginal": "충북갤러리",
+      "category": "local",
+      "city": "清州",
+      "startDate": "2026-09-23",
+      "endDate": "2026-09-23",
+      "venue": "",
+      "address": "清州, South Korea",
+      "sourceName": "忠北文化财团（清州）",
+      "sourceUrl": "https://www.cbartgallery.com/",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27",
+      "isNew": false,
+      "titleZh": "忠北画廊",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "6cf538d6bb3d",
+      "title": "Chungbuk Gallery清州Oskokan",
+      "titleOriginal": "충북갤러리청주오스코관",
+      "category": "local",
+      "city": "清州",
+      "startDate": "2026-09-23",
+      "endDate": "2026-09-23",
+      "venue": "",
+      "address": "清州, South Korea",
+      "sourceName": "忠北文化财团（清州）",
+      "sourceUrl": "https://www.cbartgallery-osco.com/cbart-osco/index.do",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27",
+      "isNew": false,
+      "titleZh": "Chungbuk Gallery清州Oskokan",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "003eac97a978",
+      "title": "文化消费365",
+      "titleOriginal": "문화소비365",
+      "category": "local",
+      "city": "清州",
+      "startDate": "2026-09-23",
+      "endDate": "2026-09-23",
+      "venue": "",
+      "address": "清州, South Korea",
+      "sourceName": "忠北文化财团（清州）",
+      "sourceUrl": "http://www.mhsb365.or.kr/",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27",
+      "isNew": false,
+      "titleZh": "文化消费365",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "73cd3fa5a917",
+      "title": "忠清北道省立剧院",
+      "titleOriginal": "충북도립극단",
+      "category": "local",
+      "city": "清州",
+      "startDate": "2026-09-23",
+      "endDate": "2026-09-23",
+      "venue": "",
+      "address": "清州, South Korea",
+      "sourceName": "忠北文化财团（清州）",
+      "sourceUrl": "https://www.cbfc.or.kr/cbto",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27",
+      "isNew": false,
+      "titleZh": "忠清北道省立剧院",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "13f270d8e6db",
+      "title": "旅游部",
+      "titleOriginal": "관광사업본부",
+      "category": "local",
+      "city": "清州",
+      "startDate": "2026-09-23",
+      "endDate": "2026-09-23",
+      "venue": "",
+      "address": "清州, South Korea",
+      "sourceName": "忠北文化财团（清州）",
+      "sourceUrl": "https://www.cbtour.or.kr/",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27",
+      "isNew": false,
+      "titleZh": "旅游部",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "55caa1e7a6a8",
+      "title": "打开搜索",
+      "titleOriginal": "검색열기",
+      "category": "local",
+      "city": "清州",
+      "startDate": "2026-09-23",
+      "endDate": "2026-09-23",
+      "venue": "",
+      "address": "清州, South Korea",
+      "sourceName": "忠北文化财团（清州）",
+      "sourceUrl": "https://www.cbfc.or.kr/home/main.php#",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27",
+      "isNew": false,
+      "titleZh": "打开搜索",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "ff92b072ff7a",
+      "title": "注册",
+      "titleOriginal": "회원가입",
+      "category": "local",
+      "city": "清州",
+      "startDate": "2026-09-23",
+      "endDate": "2026-09-23",
+      "venue": "",
+      "address": "清州, South Korea",
+      "sourceName": "忠北文化财团（清州）",
+      "sourceUrl": "https://www.cbfc.or.kr/home/sub.php?menukey=6583",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27",
+      "isNew": false,
+      "titleZh": "注册",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "b7da6acdd0a4",
+      "title": "網站地圖",
+      "titleOriginal": "사이트맵",
+      "category": "local",
+      "city": "清州",
+      "startDate": "2026-09-23",
+      "endDate": "2026-09-23",
+      "venue": "",
+      "address": "清州, South Korea",
+      "sourceName": "忠北文化财团（清州）",
+      "sourceUrl": "https://www.cbfc.or.kr/home/sub.php?menukey=6568",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27",
+      "isNew": false,
+      "titleZh": "網站地圖",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "35e984c7e6d6",
+      "title": "基金会新闻",
+      "titleOriginal": "재단소식",
+      "category": "local",
+      "city": "清州",
+      "startDate": "2026-09-23",
+      "endDate": "2026-09-23",
+      "venue": "",
+      "address": "清州, South Korea",
+      "sourceName": "忠北文化财团（清州）",
+      "sourceUrl": "https://www.cbfc.or.kr/home/sub.php?menukey=6430",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27",
+      "isNew": false,
+      "titleZh": "基金会新闻",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "2f1eb69dba76",
+      "title": "业务信息",
+      "titleOriginal": "사업안내",
+      "category": "local",
+      "city": "清州",
+      "startDate": "2026-09-23",
+      "endDate": "2026-09-23",
+      "venue": "",
+      "address": "清州, South Korea",
+      "sourceName": "忠北文化财团（清州）",
+      "sourceUrl": "https://www.cbfc.or.kr/home/sub.php?menukey=6735",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27",
+      "isNew": false,
+      "titleZh": "业务信息",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "401a008cf31e",
+      "title": "串通支持",
+      "titleOriginal": "공모지원",
+      "category": "local",
+      "city": "清州",
+      "startDate": "2026-09-23",
+      "endDate": "2026-09-23",
+      "venue": "",
+      "address": "清州, South Korea",
+      "sourceName": "忠北文化财团（清州）",
+      "sourceUrl": "https://www.cbfc.or.kr/home/sub.php?menukey=6670",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27",
+      "isNew": false,
+      "titleZh": "串通支持",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "6457ee31a745",
+      "title": "文化新闻",
+      "titleOriginal": "문화소식",
+      "category": "local",
+      "city": "清州",
+      "startDate": "2026-09-23",
+      "endDate": "2026-09-23",
+      "venue": "",
+      "address": "清州, South Korea",
+      "sourceName": "忠北文化财团（清州）",
+      "sourceUrl": "https://www.cbfc.or.kr/home/sub.php?menukey=6445",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27",
+      "isNew": false,
+      "titleZh": "文化新闻",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "060dfce79868",
+      "title": "社区",
+      "titleOriginal": "커뮤니티",
+      "category": "local",
+      "city": "清州",
+      "startDate": "2026-09-23",
+      "endDate": "2026-09-23",
+      "venue": "",
+      "address": "清州, South Korea",
+      "sourceName": "忠北文化财团（清州）",
+      "sourceUrl": "https://www.cbfc.or.kr/home/sub.php?menukey=6450",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27",
+      "isNew": false,
+      "titleZh": "社区",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "4ba6f833d94b",
+      "title": "关于基金会",
+      "titleOriginal": "재단소개",
+      "category": "local",
+      "city": "清州",
+      "startDate": "2026-09-23",
+      "endDate": "2026-09-23",
+      "venue": "",
+      "address": "清州, South Korea",
+      "sourceName": "忠北文化财团（清州）",
+      "sourceUrl": "https://www.cbfc.or.kr/home/sub.php?menukey=6463",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27",
+      "isNew": false,
+      "titleZh": "关于基金会",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "554f55cc6ace",
+      "title": "关于房源",
+      "titleOriginal": "공간소개",
+      "category": "local",
+      "city": "清州",
+      "startDate": "2026-09-23",
+      "endDate": "2026-09-23",
+      "venue": "",
+      "address": "清州, South Korea",
+      "sourceName": "忠北文化财团（清州）",
+      "sourceUrl": "https://www.cbfc.or.kr/home/sub.php?menukey=6475",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27",
+      "isNew": false,
+      "titleZh": "关于房源",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "038bb0b4f519",
+      "title": "转到网站",
+      "titleOriginal": "사이트바로가기",
+      "category": "local",
+      "city": "清州",
+      "startDate": "2026-09-23",
+      "endDate": "2026-09-23",
+      "venue": "",
+      "address": "清州, South Korea",
+      "sourceName": "忠北文化财团（清州）",
+      "sourceUrl": "https://www.cbfc.or.kr/home/main.php#",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27",
+      "isNew": false,
+      "titleZh": "转到网站",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "3472a7055ebb",
+      "title": "忠北文化中心",
+      "titleOriginal": "충북문화관",
+      "category": "local",
+      "city": "清州",
+      "startDate": "2026-09-23",
+      "endDate": "2026-09-23",
+      "venue": "",
+      "address": "清州, South Korea",
+      "sourceName": "忠北文化财团（清州）",
+      "sourceUrl": "https://www.cbfc.or.kr/cc",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27",
+      "isNew": false,
+      "titleZh": "忠北文化中心",
+      "ops": {
+        "score": 2,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "59535912f323",
+      "title": "查看相关横幅",
+      "titleOriginal": "관련배너 보기",
+      "category": "local",
+      "city": "清州",
+      "startDate": "2026-09-23",
+      "endDate": "2026-09-23",
+      "venue": "",
+      "address": "清州, South Korea",
+      "sourceName": "忠北文化财团（清州）",
+      "sourceUrl": "https://www.cbfc.or.kr/home/sub.php?menukey=6624",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27",
+      "isNew": false,
+      "titleZh": "查看相关横幅",
       "ops": {
         "score": 2,
         "hot": false,
@@ -24893,7 +26226,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "查看更多",
       "ops": {
@@ -26627,6 +27960,486 @@
       }
     },
     {
+      "id": "6e2141402f5f",
+      "title": "如果你去釜山",
+      "titleOriginal": "부산에가면",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-09-26",
+      "endDate": "2026-10-18",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "Visit Busan",
+      "sourceUrl": "javascript:",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "如果你去釜山",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "持续23天",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "6eaca12a546e",
+      "title": "旅程灵感",
+      "titleOriginal": "추천여행",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-09-26",
+      "endDate": "2026-10-18",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "Visit Busan",
+      "sourceUrl": "javascript:",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "旅程灵感",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "持续23天",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "37bf8a2221c6",
+      "title": "为您的旅程做好准备",
+      "titleOriginal": "여행준비",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-09-26",
+      "endDate": "2026-10-18",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "Visit Busan",
+      "sourceUrl": "javascript:",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "为您的旅程做好准备",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "持续23天",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "0708b9a7dcb1",
+      "title": "实用信息",
+      "titleOriginal": "유용한정보",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-09-26",
+      "endDate": "2026-10-18",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "Visit Busan",
+      "sourceUrl": "javascript:",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "实用信息",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "持续23天",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "95f0721a2b6b",
+      "title": "釜山特色活动",
+      "titleOriginal": "English",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-09-26",
+      "endDate": "2026-10-18",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "Visit Busan",
+      "sourceUrl": "https://www.visitbusan.net/en/index.do",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "釜山特色活动",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "持续23天",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "e9dc7f5f7364",
+      "title": "中文(简体)",
+      "titleOriginal": "中文(简体)",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-09-26",
+      "endDate": "2026-10-18",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "Visit Busan",
+      "sourceUrl": "https://www.visitbusan.net/zhs/index.do",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "中文(简体)",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "持续23天",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "f8f1bbc1097c",
+      "title": "中文(繁體)",
+      "titleOriginal": "中文(繁體)",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-09-26",
+      "endDate": "2026-10-18",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "Visit Busan",
+      "sourceUrl": "https://www.visitbusan.net/zht/index.do",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "中文(繁體)",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "持续23天",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "71a9418ac2ca",
+      "title": "请输入关键词",
+      "titleOriginal": "검색어를 입력해주세요",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-09-26",
+      "endDate": "2026-10-18",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "Visit Busan",
+      "sourceUrl": "javascript:",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "请输入关键词",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "持续23天",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "96a53ab814ff",
+      "title": "登录",
+      "titleOriginal": "로그인.",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-09-26",
+      "endDate": "2026-10-18",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "Visit Busan",
+      "sourceUrl": "javascript:void(0);",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "登录",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "持续23天",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "8e4c2000ac60",
+      "title": "我的页面",
+      "titleOriginal": "마이페이지",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-09-26",
+      "endDate": "2026-10-18",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "Visit Busan",
+      "sourceUrl": "javascript:void(0);",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "我的页面",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "持续23天",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "71cdcaa25276",
+      "title": "节日和活动",
+      "titleOriginal": "축제·행사",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-09-26",
+      "endDate": "2026-10-18",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "Visit Busan",
+      "sourceUrl": "https://www.visitbusan.net/index.do;jsessionid=37EEB9FF24E17449E99C7DB4466B4743?menuCd=DOM_000000204012000000",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "节日和活动",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "持续23天",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "0a6a67487e7f",
+      "title": "表演和展览",
+      "titleOriginal": "공연·전시",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-09-26",
+      "endDate": "2026-10-18",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "Visit Busan",
+      "sourceUrl": "https://www.visitbusan.net/index.do?menuCd=DOM_000000204019000000",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "表演和展览",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "持续23天",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "02d92fff08cb",
+      "title": "活动和节日",
+      "titleOriginal": "행사·축제",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-09-26",
+      "endDate": "2026-10-18",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "Visit Busan",
+      "sourceUrl": "https://www.visitbusan.net/index.do?menuCd=DOM_000000204012000000",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "活动和节日",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "持续23天",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "5ecaec739495",
+      "title": "隐私政策",
+      "titleOriginal": "개인정보보호방침",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-09-26",
+      "endDate": "2026-10-18",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "Visit Busan",
+      "sourceUrl": "https://www.busan.go.kr/vprivacy1",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "隐私政策",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "持续23天",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "42472fe5a59d",
+      "title": "版权政策条款",
+      "titleOriginal": "저작권보호정책 약관",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-09-26",
+      "endDate": "2026-10-18",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "Visit Busan",
+      "sourceUrl": "https://www.busan.go.kr/cright",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "版权政策条款",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "持续23天",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "f807ad4860da",
+      "title": "下载查看器",
+      "titleOriginal": "뷰어다운로드",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-09-26",
+      "endDate": "2026-10-18",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "Visit Busan",
+      "sourceUrl": "https://www.busan.go.kr/viewdn",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "下载查看器",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "持续23天",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
       "id": "36877cc70bd0",
       "title": "家庭站点",
       "titleOriginal": "Family Site",
@@ -26642,15 +28455,14 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "家庭站点",
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "中国直飞城市",
-          "主流票务平台",
-          "近期新增"
+          "主流票务平台"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）",
         "categoryVersion": 5
@@ -26672,15 +28484,14 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "STYLE24",
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "中国直飞城市",
-          "主流票务平台",
-          "近期新增"
+          "主流票务平台"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）",
         "categoryVersion": 5
@@ -26702,15 +28513,14 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "Hansayes 24 Holdings",
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "中国直飞城市",
-          "主流票务平台",
-          "近期新增"
+          "主流票务平台"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）",
         "categoryVersion": 5
@@ -26732,15 +28542,14 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "Hansae失业率",
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "中国直飞城市",
-          "主流票务平台",
-          "近期新增"
+          "主流票务平台"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）",
         "categoryVersion": 5
@@ -26762,15 +28571,14 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "HANSE DREAM",
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "中国直飞城市",
-          "主流票务平台",
-          "近期新增"
+          "主流票务平台"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）",
         "categoryVersion": 5
@@ -26792,15 +28600,14 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "Hansei MK",
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "中国直飞城市",
-          "主流票务平台",
-          "近期新增"
+          "主流票务平台"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）",
         "categoryVersion": 5
@@ -26822,15 +28629,14 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "Dong · A Publishing",
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "中国直飞城市",
-          "主流票务平台",
-          "近期新增"
+          "主流票务平台"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）",
         "categoryVersion": 5
@@ -26852,15 +28658,14 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "1:1 询问",
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "中国直飞城市",
-          "主流票务平台",
-          "近期新增"
+          "主流票务平台"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）",
         "categoryVersion": 5
@@ -26882,15 +28687,14 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "确认公司信息",
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "中国直飞城市",
-          "主流票务平台",
-          "近期新增"
+          "主流票务平台"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）",
         "categoryVersion": 5
@@ -26912,15 +28716,14 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "确认服务已加入",
       "ops": {
-        "score": 4,
-        "hot": true,
+        "score": 3,
+        "hot": false,
         "reasons": [
           "中国直飞城市",
-          "主流票务平台",
-          "近期新增"
+          "主流票务平台"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）",
         "categoryVersion": 5
@@ -26970,7 +28773,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "2026年9月海釜山夜市2026 · 09 · 26 ~ 2026 · 10 · 18",
       "ops": {
@@ -26999,7 +28802,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "广利M无人机×激光秀秋夜特别表演2026 · 09 · 26 ~ 2026 · 09 · 26",
       "ops": {
@@ -27090,14 +28893,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "开始探索",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27118,14 +28919,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "主页",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27146,14 +28945,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "在Facebook上分享",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27174,14 +28971,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "分享到Twitter",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27202,14 +28997,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "2026 大田...",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27230,14 +29023,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "2026赛季……",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27258,14 +29049,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "大田合唱团……",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27286,14 +29075,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "Family Opera Lo...",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27314,14 +29101,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "【生活的艺术……",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27342,14 +29127,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "Daejeon Art Okes...",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27370,14 +29153,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "经典浪漫……",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27398,14 +29179,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "2026年早晨……",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27426,14 +29205,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "第十五届韩国……",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27454,14 +29231,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "第6个Cellis……",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27482,14 +29257,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "第十四届年会……",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27510,14 +29283,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "大田歌剧院……",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27538,14 +29309,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "尹美京打击乐……",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27566,14 +29335,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "钢琴家黄……",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27594,14 +29361,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "Liberte Cla...",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27622,14 +29387,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "第十七部罗曼史……",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27650,14 +29413,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "我们的故事",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27678,14 +29439,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "大田交响乐团...",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27706,14 +29465,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "Daejeon Gwakak广播...",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27734,14 +29491,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "大田市青年……",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27762,14 +29517,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "2026年签名...",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27790,14 +29543,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "斯特林斯县...",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27818,14 +29569,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "Clashmophil Harmo……",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27846,14 +29595,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "黄铜B……",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27874,14 +29621,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "音乐剧[那天...",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27902,14 +29647,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "Im Young Shin Fusion...",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27930,14 +29673,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "真正的圣...",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27958,14 +29699,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "[成员音乐会] ……",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -27986,14 +29725,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "隐私权政策",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -28014,14 +29751,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "视频信息处理设备运营管理政策",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -28042,14 +29777,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "Nouri家居装修意见",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -28070,14 +29803,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "路线",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按清州机场接驳，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -28098,14 +29829,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "光州大前光州观光",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -28126,14 +29855,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "参观全南光州",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -28154,14 +29881,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "全南光州综合特色城市",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -28182,14 +29907,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "Facebook",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -28210,14 +29933,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "Instagram",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -28238,14 +29959,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "Naver博客",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -28266,14 +29985,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "Daumtvpot",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -28294,14 +30011,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "主页",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -28322,14 +30037,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "今天，光州",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -28350,14 +30063,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "活动时间表",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -28378,14 +30089,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "节日和活动",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -28406,14 +30115,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "教育/体验",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -28434,14 +30141,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "隐私权政策",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -28462,14 +30167,12 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "版权保护政策",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -28501,6 +30204,786 @@
       }
     },
     {
+      "id": "1b33723e3a1e",
+      "title": "家庭站点",
+      "titleOriginal": "Family Site",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-28",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "YES24 Ticket 地区演出",
+      "sourceUrl": "https://ticket.yes24.com/New/Recommend/Area.aspx#",
+      "sourceType": "ticket",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "家庭站点",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "主流票务平台",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "926f37915f86",
+      "title": "STYLE24",
+      "titleOriginal": "STYLE24",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-28",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "YES24 Ticket 地区演出",
+      "sourceUrl": "https://www.style24.com/",
+      "sourceType": "ticket",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "STYLE24",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "主流票务平台",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "3818fbe101ab",
+      "title": "Hansayes 24 Holdings",
+      "titleOriginal": "한세예스24홀딩스",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-28",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "YES24 Ticket 地区演出",
+      "sourceUrl": "https://hansaeyes24.com/",
+      "sourceType": "ticket",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "Hansayes 24 Holdings",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "主流票务平台",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "2b8fe1f85ca9",
+      "title": "Hansae失业率",
+      "titleOriginal": "한세실업",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-28",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "YES24 Ticket 地区演出",
+      "sourceUrl": "https://www.hansae.com/",
+      "sourceType": "ticket",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "Hansae失业率",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "主流票务平台",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "570a024f352f",
+      "title": "HANSE DREAM",
+      "titleOriginal": "한세드림",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-28",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "YES24 Ticket 地区演出",
+      "sourceUrl": "https://www.hansaedreams.co.kr/",
+      "sourceType": "ticket",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "HANSE DREAM",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "主流票务平台",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "bce68490008d",
+      "title": "Hansei MK",
+      "titleOriginal": "한세MK",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-28",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "YES24 Ticket 地区演出",
+      "sourceUrl": "https://hansaemk.com/",
+      "sourceType": "ticket",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "Hansei MK",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "主流票务平台",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "41bf080d04de",
+      "title": "Dong · A Publishing",
+      "titleOriginal": "동아출판",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-28",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "YES24 Ticket 地区演出",
+      "sourceUrl": "https://www.dongapublishing.com/main.donga",
+      "sourceType": "ticket",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "Dong · A Publishing",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "主流票务平台",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "b59a77cdf08b",
+      "title": "1:1 询问",
+      "titleOriginal": "1:1 문의",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-28",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "YES24 Ticket 地区演出",
+      "sourceUrl": "https://www.yes24.com/Mall/Help/Main",
+      "sourceType": "ticket",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "1:1 询问",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "主流票务平台",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "6d03706754fe",
+      "title": "确认公司信息",
+      "titleOriginal": "사업자 정보확인",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-28",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "YES24 Ticket 地区演出",
+      "sourceUrl": "https://www.ftc.go.kr/bizCommPop.do?wrkr_no=2298137000",
+      "sourceType": "ticket",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "确认公司信息",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "主流票务平台",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "0f2926575c2e",
+      "title": "确认服务已加入",
+      "titleOriginal": "서비스가입사실확인",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-28",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "YES24 Ticket 地区演出",
+      "sourceUrl": "https://mall.sgic.co.kr/csh/iutf/sh/shop/CSHINFO004VM0.mvc?tm=3&q_sk=2&q_sv=2298137000",
+      "sourceType": "ticket",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "确认服务已加入",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "主流票务平台",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "0e21464f1894",
+      "title": "【大音乐会】烛光音乐会（ 8 · 12月） 2026.09.29~2026.12.25",
+      "titleOriginal": "[대관공연] 캔들라이트 콘서트(8-12월)2026.09.29 ~ 2026.12.25",
+      "category": "star",
+      "city": "光州",
+      "startDate": "2026-09-29",
+      "endDate": "2026-12-25",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://dmgj.kr/event.es?mid=a10301000000&p_cate=0301&category=0301000000&act=view&seq=9383",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "【大音乐会】烛光音乐会（ 8 · 12月） 2026.09.29~2026.12.25",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "追星事件",
+          "持续88天",
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "bbdbf22f8809",
+      "title": "2026.09.29【招募】2026 K · Arts Consulting参与者招募 · 表演艺术海外参赛，请向现场策划人员询问其参与情况和兴趣。",
+      "titleOriginal": "2026.09.29 [모집] 2026 K-Arts 컨설팅 참가자 모집 - 공연예술 해외진출, 현장 기획자에게 묻다 많은 참여와 관심 부탁드립니다.",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-09-29",
+      "endDate": "2026-09-29",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "釜山文化财团",
+      "sourceUrl": "https://www.bscf.or.kr/view.do?no=1010&pgMode=show&pbancSn=2432",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "2026.09.29【招募】2026 K · Arts Consulting参与者招募 · 表演艺术海外参赛，请向现场策划人员询问其参与情况和兴趣。",
+      "ops": {
+        "score": 3,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "36faf4b930dd",
+      "title": "查看更多",
+      "titleOriginal": "더보기 +",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-09-29",
+      "endDate": "2026-09-29",
+      "venue": "관람등급티켓가격대전시립연정국악단풍류마당[어린이 음악극 -둥딩동! 가야금 소리나라: 졸장만록]10. 17.(토)11:0014:00대전시립연… 20",
+      "address": "관람등급티켓가격대전시립연정국악단풍류마당[어린이 음악극 -둥딩동! 가야금 소리나라: 졸장만록]10. 17.(토)11:0014:00대전시립연… 20, 釜山, South Korea",
+      "sourceName": "庆南文化艺术振兴院",
+      "sourceUrl": "https://www.gcaf.or.kr/bbs/board.php?bo_table=sub3_9",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "查看更多",
+      "ops": {
+        "score": 3,
+        "hot": false,
+        "reasons": [
+          "中国直飞城市",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "ad9ff6ff6c7c",
+      "title": "光州大前光州观光",
+      "titleOriginal": "오매광주. 광주관광",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-29",
+      "endDate": "2026-09-29",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://tour.gwangju.go.kr/",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "光州大前光州观光",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "082a30a2115f",
+      "title": "参观全南光州",
+      "titleOriginal": "VISIT전남광주",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-29",
+      "endDate": "2026-09-29",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://tour.jeonnam-gwangju.go.kr/",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "参观全南光州",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "9b0b4eee2ab1",
+      "title": "全南光州综合特色城市",
+      "titleOriginal": "전남광주통합특별시",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-29",
+      "endDate": "2026-09-29",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://www.jeonnam-gwangju.go.kr/",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "全南光州综合特色城市",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "3bc4d5222031",
+      "title": "Facebook",
+      "titleOriginal": "Facebook",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-29",
+      "endDate": "2026-09-29",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://www.facebook.com/visitgwangju.official",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "Facebook",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "ae77578c543b",
+      "title": "Instagram",
+      "titleOriginal": "Instagram",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-29",
+      "endDate": "2026-09-29",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://www.instagram.com/gwangju_city",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "Instagram",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "f31b11187786",
+      "title": "Naver博客",
+      "titleOriginal": "Naver Blog",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-29",
+      "endDate": "2026-09-29",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://blog.naver.com/gwangju_city",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "Naver博客",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "731441a6b445",
+      "title": "Daumtvpot",
+      "titleOriginal": "Youtube",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-29",
+      "endDate": "2026-09-29",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://www.youtube.com/channel/UCpCtv8fw6egexjhOJpN1IZw",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "Daumtvpot",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "683ae24576f7",
+      "title": "主页",
+      "titleOriginal": "HOME",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-29",
+      "endDate": "2026-09-29",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "javascript:;",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "主页",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "f1ec2b1b409e",
+      "title": "今天，光州",
+      "titleOriginal": "오늘, 광주",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-29",
+      "endDate": "2026-09-29",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "javascript:;",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "今天，光州",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "94c0bda29754",
+      "title": "活动时间表",
+      "titleOriginal": "행사일정",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-29",
+      "endDate": "2026-09-29",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "javascript:;",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "活动时间表",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "dc829ebdbfd3",
+      "title": "节日和活动",
+      "titleOriginal": "축제/행사",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-29",
+      "endDate": "2026-09-29",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "javascript:;",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "节日和活动",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "d5cc749da875",
+      "title": "教育/体验",
+      "titleOriginal": "교육/체험",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-29",
+      "endDate": "2026-09-29",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://tour.gwangju.go.kr/home/tour/culture/edu.cs?m=318",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "教育/体验",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "0f579637b12e",
+      "title": "隐私权政策",
+      "titleOriginal": "개인정보처리방침",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-29",
+      "endDate": "2026-09-29",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://www.gwangju.go.kr/contentsView.do?pageId=www817",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "隐私权政策",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "6ea415c347cf",
+      "title": "版权保护政策",
+      "titleOriginal": "저작권보호정책",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-09-29",
+      "endDate": "2026-09-29",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州旅游",
+      "sourceUrl": "https://www.gwangju.go.kr/contentsView.do?pageId=www818",
+      "sourceType": "tour",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "版权保护政策",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
       "id": "37f32984176c",
       "title": "转到“全南光州综合市政歌剧公司计划表演” ……",
       "titleOriginal": "전남광주통합특별시립오페라단 기획공연 '찾아가...",
@@ -28515,7 +30998,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "转到“全南光州综合市政歌剧公司计划表演” ……",
       "ops": {
@@ -28541,7 +31024,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "(点击预览)",
       "ops": {
@@ -28567,7 +31050,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "全南光州综合特色城市歌剧团的计划表演“参观<附近的歌剧院>的文化表演”",
       "ops": {
@@ -28594,14 +31077,13 @@
       "tags": [],
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-27",
-      "isNew": true,
+      "isNew": false,
       "titleZh": "活动[SAC ON SCREEN] 9月30日星期三剧院会合放映2026 · 09 · 30 ~ 2026 · 09 · 30文化无缝休息室",
       "ops": {
-        "score": 3,
+        "score": 2,
         "hot": false,
         "reasons": [
-          "中国直飞城市",
-          "近期新增"
+          "中国直飞城市"
         ],
         "accessNote": "中国直飞配置：是（建议定期核验航季）",
         "categoryVersion": 5
@@ -28650,7 +31132,7 @@
       "sourceType": "tour",
       "tags": [],
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "ACC亚洲艺术体验 · · 印尼工艺品1963.08.05 ~ 2026.09.30",
       "ops": {
@@ -28710,7 +31192,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "订单信息的快捷方式",
       "ops": {
@@ -28739,7 +31221,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "2026光州国际印刷交流展",
       "ops": {
@@ -28767,7 +31249,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "第八届“Graje”表演艺术节主页",
       "ops": {
@@ -28827,7 +31309,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "第八届表演艺术节牧草×普罗旺斯萨克斯……",
       "ops": {
@@ -28853,7 +31335,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "(点击预览)",
       "ops": {
@@ -28879,7 +31361,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "第八届表演艺术节Graze ×城市芭蕾舞团解说……",
       "ops": {
@@ -28905,7 +31387,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "第八届表演艺术节放牧音乐剧<爱是...",
       "ops": {
@@ -28931,7 +31413,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "预订",
       "ops": {
@@ -28957,7 +31439,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "第八届表演艺术节GRAZE ×市国家交响乐团……",
       "ops": {
@@ -29103,7 +31585,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "第八届表演艺术节放牧×户外音乐会……",
       "ops": {
@@ -29159,7 +31641,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "第8届表演艺术节GRAZE × Kids DJ 'Boom...",
       "ops": {
@@ -29707,7 +32189,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "第八届表演艺术节GRAZE ×市男童女童合唱团《今日， GRAZE也一同歌唱》",
       "ops": {
@@ -29915,7 +32397,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "(点击预览)",
       "ops": {
@@ -29941,7 +32423,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "第八届表演艺术节GRAZE ×市男孩女孩合唱团...",
       "ops": {
@@ -29967,7 +32449,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "第八届表演艺术节GRAZE × Municipal Opera Company 'Ha...",
       "ops": {
@@ -29993,7 +32475,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "预订",
       "ops": {
@@ -30369,6 +32851,36 @@
       }
     },
     {
+      "id": "3e2285f3c16b",
+      "title": "仁川/光州/釜山音乐节仁川2026.10.03~04光州2026.10.10~11釜山2026.10.16~18",
+      "titleOriginal": "인천/광주/부산뮤지컬그날들인천 2026.10.03~04광주 2026.10.10~11부산 2026.10.16~18",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-03",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "YES24 Ticket 地区演出",
+      "sourceUrl": "https://ticket.yes24.com/New/Genre/GenreBridge.aspx?genre=15457&id=1540",
+      "sourceType": "ticket",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "仁川/光州/釜山音乐节仁川2026.10.03~04光州2026.10.10~11釜山2026.10.16~18",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "主流票务平台",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
       "id": "08eccfa18fa2",
       "title": "第8届表演艺术节放牧×带臭氧……",
       "titleOriginal": "제8회 공연예술축제 그라제 × with 오존...",
@@ -30383,7 +32895,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "第8届表演艺术节放牧×带臭氧……",
       "ops": {
@@ -30409,7 +32921,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "(点击预览)",
       "ops": {
@@ -30435,7 +32947,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "第八届表演艺术节Graze 'Uncle Youngver × Swan……",
       "ops": {
@@ -30461,7 +32973,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "预订",
       "ops": {
@@ -30626,7 +33138,7 @@
         "李敏镐"
       ],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "verified": true,
       "titleZh": "演员之家： Lee Min · ho",
@@ -30760,7 +33272,7 @@
         "金高银"
       ],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "verified": true,
       "titleZh": "演员之家： Kim Go · eun",
@@ -30794,7 +33306,7 @@
         "金敏荷"
       ],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "verified": true,
       "titleZh": "演员之家： Kim Min · ha",
@@ -31422,7 +33934,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "订单信息的快捷方式",
       "ops": {
@@ -31527,7 +34039,7 @@
         "柳承龙"
       ],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "verified": true,
       "titleZh": "演员之家： Ryu Seung · ryong",
@@ -31561,7 +34073,7 @@
         "朱智勋"
       ],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "verified": true,
       "titleZh": "演员之家： Joo Hoon Joo",
@@ -31685,7 +34197,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "首尔/釜山2026首次粉丝音乐会首尔2026.10.10釜山2026.10.17",
       "ops": {
@@ -31715,7 +34227,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "大邱/全州/光州/高阳Kim Gun Mor现场之旅大邱2026.10.10全州2026.10.31光州2026.12.05",
       "ops": {
@@ -32328,7 +34840,7 @@
         "申敏儿"
       ],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "verified": true,
       "titleZh": "演员之家： Min · Ah Shin",
@@ -32358,7 +34870,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "订单信息的快捷方式",
       "ops": {
@@ -32442,7 +34954,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "订单信息的快捷方式",
       "ops": {
@@ -32615,7 +35127,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "大厅规划表演Grand Stage 'Into th...",
       "ops": {
@@ -32641,7 +35153,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "(点击预览)",
       "ops": {
@@ -32667,7 +35179,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "预订",
       "ops": {
@@ -32693,7 +35205,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "转到“全南光州综合市政歌剧公司计划表演” ……",
       "ops": {
@@ -32719,7 +35231,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "全南光州综合特色城市歌剧团的计划表演“参观<附近的歌剧院>的文化表演”",
       "ops": {
@@ -32745,7 +35257,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "订单信息的快捷方式",
       "ops": {
@@ -33912,7 +36424,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "转到“全南光州综合市政歌剧公司计划表演” ……",
       "ops": {
@@ -33938,7 +36450,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "(点击预览)",
       "ops": {
@@ -33964,7 +36476,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "计划表演11点音乐漫步短剧6……",
       "ops": {
@@ -33990,7 +36502,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "预订",
       "ops": {
@@ -34016,7 +36528,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "全南光州综合特色城市歌剧团的计划表演“参观<附近的歌剧院>的文化表演”",
       "ops": {
@@ -34042,7 +36554,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "订单信息的快捷方式",
       "ops": {
@@ -34070,7 +36582,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "订单信息的快捷方式",
       "ops": {
@@ -34649,7 +37161,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "预订",
       "ops": {
@@ -34677,7 +37189,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "全南光州综合特别市立芭蕾舞团第143届定期演出……",
       "ops": {
@@ -34705,7 +37217,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "(点击预览)",
       "ops": {
@@ -35837,15 +38349,13 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-27",
-      "isNew": true,
+      "lastSeen": "2026-09-29",
+      "isNew": false,
       "titleZh": "全南光州综合特色城市歌剧团的计划表演“参观<附近的歌剧院>的文化表演”",
       "ops": {
-        "score": 1,
+        "score": 0,
         "hot": false,
-        "reasons": [
-          "近期新增"
-        ],
+        "reasons": [],
         "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 5
       }
@@ -35865,7 +38375,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "转到“全南光州综合市政歌剧公司计划表演” ……",
       "ops": {
@@ -35891,7 +38401,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "(点击预览)",
       "ops": {
@@ -35917,7 +38427,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "转到“全南光州综合市政歌剧公司计划表演” ……",
       "ops": {
@@ -35943,7 +38453,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "(点击预览)",
       "ops": {
@@ -36665,7 +39175,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "Daejeon Anton Cheop教学大厅2026.10.29~31",
       "ops": {
@@ -37189,7 +39699,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "金海音乐城再春2026.10.31金海文化中心",
       "ops": {
@@ -37199,6 +39709,91 @@
           "主流票务平台"
         ],
         "accessNote": "机场位于金海，但运营目的地通常按釜山判断",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "a47c3613502d",
+      "title": "全南光州综合市立交响乐团Otium音乐会Ⅴ...",
+      "titleOriginal": "전남광주통합특별시립교향악단 오티움 콘서트 Ⅴ...",
+      "category": "star",
+      "city": "光州",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-05",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0101&boper=view&bnum=10255",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "全南光州综合市立交响乐团Otium音乐会Ⅴ...",
+      "ops": {
+        "score": 3,
+        "hot": false,
+        "reasons": [
+          "追星事件",
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "ba9251ce53e4",
+      "title": "(点击预览)",
+      "titleOriginal": "상세보기",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-05",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/ko/cmd.do?opencode=p0101&boper=view&bnum=10255",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "(点击预览)",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "23695ba97d3b",
+      "title": "预订",
+      "titleOriginal": "예매하기",
+      "category": "local",
+      "city": "光州",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-05",
+      "venue": "",
+      "address": "光州, South Korea",
+      "sourceName": "光州艺术殿堂",
+      "sourceUrl": "https://gjart.gwangju.go.kr/#",
+      "sourceType": "culture",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "预订",
+      "ops": {
+        "score": 1,
+        "hot": false,
+        "reasons": [
+          "近期新增"
+        ],
+        "accessNote": "默认按邻近务安机场判断，不直接加直飞分",
         "categoryVersion": 5
       }
     },
@@ -37282,7 +39877,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "全南光州综合特色市立橱窗剧团第63届定期演出……",
       "ops": {
@@ -37308,7 +39903,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "(点击预览)",
       "ops": {
@@ -37334,7 +39929,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "预订",
       "ops": {
@@ -37960,7 +40555,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "原创科学与魔术音乐会第2季",
       "ops": {
@@ -37989,7 +40584,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "(点击预览)",
       "ops": {
@@ -39650,6 +42245,66 @@
       }
     },
     {
+      "id": "e31e4ac674f0",
+      "title": "群山/庆州光阳/元州",
+      "titleOriginal": "군산/경주광양/원주",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "YES24 Ticket 地区演出",
+      "sourceUrl": "https://ticket.yes24.com/New/Genre/GenreBridge.aspx?genre=15456&id=1514",
+      "sourceType": "ticket",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "群山/庆州光阳/元州",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "主流票务平台",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
+      "id": "f9685b29536b",
+      "title": "大邱/大田光州",
+      "titleOriginal": "대구/대전광주",
+      "category": "local",
+      "city": "釜山",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "venue": "",
+      "address": "釜山, South Korea",
+      "sourceName": "YES24 Ticket 地区演出",
+      "sourceUrl": "https://ticket.yes24.com/New/Genre/GenreBridge.aspx?genre=15457&id=1555",
+      "sourceType": "ticket",
+      "tags": [],
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "isNew": true,
+      "titleZh": "大邱/大田光州",
+      "ops": {
+        "score": 4,
+        "hot": true,
+        "reasons": [
+          "中国直飞城市",
+          "主流票务平台",
+          "近期新增"
+        ],
+        "accessNote": "中国直飞配置：是（建议定期核验航季）",
+        "categoryVersion": 5
+      }
+    },
+    {
       "id": "dafe36701119",
       "title": "全国之旅Jo Yong · pil和The Great Nativity首尔2026.11.27~29釜山2026.12.12~13大邱2026.12.19",
       "titleOriginal": "전국투어조용필 & 위대한 탄생서울 2026.11.27~29부산 2026.12.12~13대구 2026.12.19",
@@ -39664,7 +42319,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "全国之旅Jo Yong · pil和The Great Nativity首尔2026.11.27~29釜山2026.12.12~13大邱2026.12.19",
       "ops": {
@@ -39693,7 +42348,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "春川/木浦",
       "ops": {
@@ -39751,7 +42406,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "全州/城南清州/仁川",
       "ops": {
@@ -39809,7 +42464,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "光阳/丽水",
       "ops": {
@@ -39838,7 +42493,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "京畿道/仁川",
       "ops": {
@@ -39867,7 +42522,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "大田/忠清/江原",
       "ops": {
@@ -39896,7 +42551,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "釜山/大邱/蔚山/庆尚",
       "ops": {
@@ -39925,7 +42580,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "光州/全罗",
       "ops": {
@@ -39954,7 +42609,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "缩小搜索范围",
       "ops": {
@@ -39983,7 +42638,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "每周排名",
       "ops": {
@@ -40012,7 +42667,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "最新在前",
       "ops": {
@@ -40041,7 +42696,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "结束按周长排序",
       "ops": {
@@ -40070,7 +42725,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "按产品名称排序",
       "ops": {
@@ -40099,7 +42754,7 @@
       "sourceType": "ticket",
       "tags": [],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "选择绩效日期",
       "ops": {
@@ -40728,7 +43383,7 @@
       "sourceType": "culture",
       "tags": [],
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "isNew": false,
       "titleZh": "查看更多出价公告",
       "ops": {
